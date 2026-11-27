@@ -140,7 +140,7 @@ Trả các tệp cấu hình đã tối ưu về bản gốc, đưa máy về Em
 | Cài đặt dở dang / mạng ngắt | chạy lại `sudo bash install.sh`, bộ cài chạy lại được nhiều lần |
 | Kiểm tra tối ưu | `sudo s40-tune.sh status` (0 tệp lệch hồ sơ là đúng) |
 | Hoàn tác tối ưu | `sudo s40-tune.sh revert` |
-| YouTube không phát | trong YouTube chọn cập nhật yt-dlp; kiểm tra Wi‑Fi |
+| Video online không phát | trong app chọn cập nhật yt-dlp; kiểm tra Wi‑Fi |
 | Trình duyệt trang trắng | đảm bảo đã cài đủ thư viện (chạy lại `install.sh`) |
 
 ## Tự biên dịch
@@ -149,14 +149,14 @@ Mã nguồn trong `src/` (`s40launcher`, `s40web`, `common`). Biên dịch trên
 
 ## Nguồn tham khảo và ghi công
 
-Nền hệ thống là **dArkOS**; trình phát **mpv**; YouTube qua **yt-dlp** và **Node.js**; trình duyệt **WPE WebKit**; Java dùng **FreeJ2ME-Plus** và **J2ME Loader**; giải nén **7-Zip**; kênh TV từ **iptv-org**; đài radio từ **radio-browser.info**; thời tiết **Open-Meteo**. Toàn bộ nguồn, giấy phép và liên kết nằm ở [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md). Giao diện chỉ *lấy cảm hứng* từ điện thoại Nokia Series 40, không dùng tài sản của Nokia.
+Nền hệ thống là **dArkOS**; trình phát **mpv**; video qua **yt-dlp** và **Node.js**; trình duyệt **WPE WebKit**; Java dùng **FreeJ2ME-Plus** và **J2ME Loader**; giải nén **7-Zip**; kênh TV từ **iptv-org**; đài radio từ **radio-browser.info**; thời tiết **Open-Meteo**. Toàn bộ nguồn, giấy phép và liên kết nằm ở [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md). Giao diện chỉ *lấy cảm hứng* từ điện thoại Nokia Series 40, không dùng tài sản của Nokia.
 
 ## Giấy phép và lưu ý pháp lý
 
 - Mã tự viết theo giấy phép **MIT** ([LICENSE](LICENSE)). Các thành phần bên thứ ba giữ giấy phép riêng.
 - **Không kèm ROM, BIOS hay game thương mại.** Bạn tự chép game bạn sở hữu hợp pháp.
 - Tính năng **Video trực tuyến** là **không chính thức**, không liên kết với YouTube/Google và có thể ngừng hoạt động bất cứ lúc nào khi YouTube thay đổi; bộ cài không chứa mã của yt-dlp mà tải từ trang chính thức của yt-dlp.
-- Danh sách TV chỉ là liên kết tới luồng công khai; nội dung thuộc về các đài. Tải nội dung YouTube có thể trái điều khoản của YouTube ở nước bạn, hãy tự chịu trách nhiệm.
+- Danh sách TV chỉ là liên kết tới luồng công khai; nội dung thuộc về các đài. Tải nội dung YouTube có thể trái điều khoản của YouTube, hãy tự chịu trách nhiệm.
 - Tên và logo YouTube, Facebook, Telegram, Nintendo, Sony, Sega, Nokia thuộc chủ sở hữu tương ứng; dự án không liên kết với các bên đó.
 - Dự án **miễn phí, phi thương mại**: không bán máy hay thẻ cài sẵn.
 
