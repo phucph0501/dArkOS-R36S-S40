@@ -1,6 +1,6 @@
 # dArkOS-R36S-S40
 
-> **EN:** One-command installer of a Nokia S40 style launcher (YouTube, TV, radio, weather, browser, file manager, Java/J2ME games) for **dArkOS on the R36S / RK3326 retro handheld**, with automatic RetroArch 32/64-bit and PPSSPP tuning that survives OS updates. Switch between the S40 launcher and EmulationStation at any time. **VI:** Bộ cài giao diện S40 cho máy chơi game cầm tay R36S chạy dArkOS.
+> **EN:** One-command installer of a Nokia S40 style launcher (online video via yt-dlp, TV, radio, weather, browser, file manager, Java/J2ME games) for **dArkOS on the R36S / RK3326 retro handheld**, with automatic RetroArch 32/64-bit and PPSSPP tuning that survives OS updates. Switch between the S40 launcher and EmulationStation at any time. **VI:** Bộ cài giao diện S40 cho máy chơi game cầm tay R36S chạy dArkOS.
 
 Bộ cài **giao diện S40 (phong cách Nokia Series 40)** cho máy chơi game cầm tay **R36S** (RK3326, 1 GB RAM) đang chạy **dArkOS**. Một lệnh là xong: **không cần ghi lại thẻ nhớ, không mất game, không đụng vào dữ liệu**. EmulationStation vẫn còn nguyên và bạn **chuyển qua lại giữa hai giao diện chỉ bằng một mục menu**. Kèm theo là bộ **tối ưu tự động** cho RetroArch (cả 64 và 32 bit), PPSSPP và thư viện hệ thống, được áp dụng lại ở mỗi lần bật máy nên **cập nhật dArkOS không làm mất**.
 
@@ -16,7 +16,7 @@ Bộ cài **giao diện S40 (phong cách Nokia Series 40)** cho máy chơi game 
 
 **dArkOS-R36S-S40** adds a phone-style **custom launcher / frontend** to a stock **dArkOS** card on the **R36S** (and R36S clones, RK3326, 1 GB RAM), as an alternative to EmulationStation. It installs in one command, keeps your games and settings, and lets you switch back to EmulationStation with one menu entry.
 
-- **Apps:** native **YouTube** (no ads, gamepad seek/pause), **IPTV** (iptv-org, ~38k channels by category / language / country), **internet radio** (225 countries), **weather**, **web browser** (WPE WebKit + ad block), **file manager with zip/rar/7z extraction**, **Java ME (J2ME) games**, video and photo viewers with **hidden items + optional password**, low-battery **voice warning** (vi / en / zh).
+- **Apps:** native **online video** player for YouTube links through yt-dlp + mpv (unofficial, see the legal notes; gamepad seek/pause), **IPTV** (iptv-org, ~38k channels by category / language / country), **internet radio** (225 countries), **weather**, **web browser** (WPE WebKit + ad block), **file manager with zip/rar/7z extraction**, **Java ME (J2ME) games**, video and photo viewers with **hidden items + optional password**, low-battery **voice warning** (vi / en / zh).
 - **Emulators:** one-tap **RetroArch 64-bit and 32-bit** settings, per-game core and overrides, PPSSPP button fixes (FN opens the menu).
 - **Auto-tuning (`s40-tune`):** RetroArch core options (frameskip, PS1 dynarec, interpolation), auto-save/load off, PPSSPP hotkeys, SDL2/libmali link repair; backed up, reversible, **re-applied at every boot so dArkOS OTA updates do not undo it**.
 - **Install:** `curl -L https://github.com/phucph0501/dArkOS-R36S-S40/archive/refs/heads/main.tar.gz | tar xz && cd dArkOS-R36S-S40-main && sudo bash install.sh` (see [Cài đặt](#cài-đặt)). **Uninstall:** `sudo bash uninstall.sh`.
@@ -28,11 +28,11 @@ Bộ cài **giao diện S40 (phong cách Nokia Series 40)** cho máy chơi game 
 
 ## Bạn được gì
 
-- **YouTube riêng** (không qua trình duyệt): tìm kiếm, ảnh thu nhỏ, giới hạn độ phân giải cho chip yếu, không quảng cáo. Tay cầm: trái/phải tua 10 giây (giữ để tua nhanh 20, 30, 60 giây), lên/xuống chỉnh độ sáng video, A tạm dừng, B thoát.
+- **Video trực tuyến** (xem video YouTube qua yt-dlp và mpv, **không chính thức**, xem mục lưu ý pháp lý): tìm kiếm, ảnh thu nhỏ, giới hạn độ phân giải cho chip yếu. Tay cầm: trái/phải tua 10 giây (giữ để tua nhanh 20, 30, 60 giây), lên/xuống chỉnh độ sáng video, A tạm dừng, B thoát.
 - **Xem TV và Radio**: kênh TV từ [iptv-org](https://github.com/iptv-org/iptv) chia thành ba danh sách **Thể loại, Ngôn ngữ, Quốc gia** (khoảng 38.000 mục, nhóm nhỏ bên trong), đài radio của 225 quốc gia từ [radio-browser.info](https://www.radio-browser.info). Có ô tìm kiếm bằng bàn phím hệ thống.
 - **Video và Ảnh** với tính năng **ẩn mục** (có mật khẩu tùy chọn, tương thích cờ `<hidden>` của EmulationStation), xem video bằng mpv điều khiển bằng tay cầm.
 - **Thời tiết** (Open-Meteo), **âm lịch**, đồng hồ, nhắc việc, máy tính, lịch.
-- **Trình duyệt** (WPE WebKit) có chặn quảng cáo, kèm Facebook/Telegram dạng ứng dụng web.
+- **Trình duyệt** (WPE WebKit) có chặn quảng cáo, kèm hai **lối tắt tới trang web** `m.facebook.com` và `web.telegram.org` (chỉ mở trang web công khai, không phải ứng dụng chính thức của các dịch vụ đó).
 - **Quản lý tệp** có sao chép/đổi tên/xóa, tệp ẩn, **giải nén zip/rar/7z (kể cả có mật khẩu)** và nén lại.
 - **Game Java (J2ME)** bằng lõi J2ME Loader/FreeJ2ME-Plus: thêm hệ máy Java vào EmulationStation, cấu hình riêng từng game.
 - **RetroArch và RetroArch 32** mở thẳng từ menu chính để tự chỉnh core, phím, shader. Cài đặt toàn cục, sao lưu và đặt lại áp dụng cho cả hai bản.
@@ -63,9 +63,9 @@ Chi tiết từng khóa nằm ở [docs/OPTIMIZATIONS.md](docs/OPTIMIZATIONS.md)
 | Hạng mục | EmulationStation (dArkOS) | S40 sau khi cài |
 |---|---|---|
 | Giao diện | chủ yếu để chọn game | menu lưới kiểu điện thoại, phím mềm, nhiều tiện ích ngoài game |
-| Video online | không có | YouTube riêng, không quảng cáo, điều khiển bằng tay cầm |
+| Video online | không có | xem video YouTube qua yt-dlp (không chính thức), điều khiển bằng tay cầm |
 | Xem TV / Radio | không có | hàng chục nghìn kênh TV, đài radio theo nước, tìm kiếm |
-| Trình duyệt, Facebook, Telegram | không có | có, chặn quảng cáo |
+| Trình duyệt web | không có | có, chặn quảng cáo, kèm lối tắt tới vài trang web phổ biến |
 | Game Java (J2ME) | phải tự cài | có sẵn, tự thêm hệ máy |
 | Quản lý tệp, giải nén | công cụ rời | có sẵn, giải nén zip/rar/7z |
 | Ẩn video/ảnh | chỉnh `gamelist.xml` bằng tay | menu, có mật khẩu, tương thích cờ của ES |
@@ -155,6 +155,7 @@ Nền hệ thống là **dArkOS**; trình phát **mpv**; YouTube qua **yt-dlp** 
 
 - Mã tự viết theo giấy phép **MIT** ([LICENSE](LICENSE)). Các thành phần bên thứ ba giữ giấy phép riêng.
 - **Không kèm ROM, BIOS hay game thương mại.** Bạn tự chép game bạn sở hữu hợp pháp.
+- Tính năng **Video trực tuyến** là **không chính thức**, không liên kết với YouTube/Google và có thể ngừng hoạt động bất cứ lúc nào khi YouTube thay đổi; bộ cài không chứa mã của yt-dlp mà tải từ trang chính thức của yt-dlp.
 - Danh sách TV chỉ là liên kết tới luồng công khai; nội dung thuộc về các đài. Tải nội dung YouTube có thể trái điều khoản của YouTube ở nước bạn, hãy tự chịu trách nhiệm.
 - Tên và logo YouTube, Facebook, Telegram, Nintendo, Sony, Sega, Nokia thuộc chủ sở hữu tương ứng; dự án không liên kết với các bên đó.
 - Dự án **miễn phí, phi thương mại**: không bán máy hay thẻ cài sẵn.
