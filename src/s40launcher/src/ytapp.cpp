@@ -299,7 +299,7 @@ void updateYtDlp() {
 }
 
 Screen* home() {
-  auto* l = new ListScreen("YouTube", [] {
+  auto* l = new ListScreen(tl("Video trực tuyến"), [] {
     Items v;
     Item s; s.label = tl("Tìm kiếm"); s.sub = tl("Gõ từ khóa để tìm video"); s.icon = "web"; s.color = hex("c62828"); s.okLabel = tl("Tìm");
     s.ok = [] { push(OSK(tl("Tìm kiếm"), "", false, [](const std::string& q) { if (!trim(q).empty()) search(trim(q)); })); };

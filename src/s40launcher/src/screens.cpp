@@ -866,8 +866,8 @@ Screen* BrowserApp() {
 // H.264 480p/30 for the A35 (s40web Adblock.cpp), ads skipped, fullscreen with pad controls.
 Screen* OnlineVideoApp() {
   if (ytAppInstalled()) return YouTubeApp();  // no web page: no ads, far lighter than the browser
-  if (!fileExists("/opt/s40web/s40web")) return NotInstalled("YouTube", "video", tl("Chưa cài trình duyệt."));
-  return new ExtLaunch("YouTube", "/opt/s40web/s40web --app https://m.youtube.com/", "video", true);
+  if (!fileExists("/opt/s40web/s40web")) return NotInstalled(tl("Video trực tuyến"), "video", tl("Chưa cài trình duyệt."));
+  return new ExtLaunch(tl("Video trực tuyến"), "/opt/s40web/s40web --app https://m.youtube.com/", "video", true);
 }
 // Facebook and Telegram: their web versions in the browser's app mode (Facebook Lite / Telegram
 // apps are Android-only). Messenger chats are inside m.facebook.com; Telegram Web A ~300 MB.
@@ -926,13 +926,13 @@ static std::vector<MenuEntry> MENU() {
       {tl("Ảnh"), "photo", "43a047", [] { return PhotosScreen(); }},
       {tl("Video"), "video", "8e24aa", [] { return VideoScreen(); }},
       {tl("Trình duyệt"), "web", "0277bd", [] { return BrowserApp(); }},
-      {"YouTube", "video", "c62828", [] { return OnlineVideoApp(); }},
+      {tl("Video trực tuyến"), "video", "c62828", [] { return OnlineVideoApp(); }},
       {tl("Xem TV"), "tv", "283593", [] { return TvScreen(); }},
       {tl("Radio"), "radio", "6a1b9a", [] { return GroupedStreams(tl("Radio"), "radio/dai.m3u", "radio"); }},
       {"PortMaster", "box", "6d4c41", [] { return PortMasterApp(); }},
       {tl("Thời tiết"), "sun", "f9a825", [] { return WeatherApp(); }},
-      {"Facebook", "fb", "1877f2", [] { return WebApp("Facebook", "fb", "https://m.facebook.com/"); }},
-      {"Telegram", "send", "229ed9", [] { return WebApp("Telegram", "send", "https://web.telegram.org/a/"); }},
+      {"m.facebook.com", "globe", "546e7a", [] { return WebApp("m.facebook.com", "globe", "https://m.facebook.com/"); }},
+      {"web.telegram.org", "globe", "607d8b", [] { return WebApp("web.telegram.org", "globe", "https://web.telegram.org/a/"); }},
       {tl("Quản lý tệp"), "folder", "f9a825", [] { return FileManagerApp(); }},
       {tl("Terminal"), "term", "37474f", [] { return TerminalApp(); }},
       {tl("Yêu thích"), "star", "f5a300", [] { return FavScreen(); }},
