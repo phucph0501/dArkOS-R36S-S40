@@ -1,0 +1,1 @@
+f9b1f7e55df4413497dd69f3bd9c191629af1204e4f24fad3e1647242b69e8b2 *dist/s40-bin-aarch64.tgz

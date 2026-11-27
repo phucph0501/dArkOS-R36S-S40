@@ -1,0 +1,786 @@
+  ♪ 	screens.cpp
+ (mật khẩu ark)	settings.cpp
+ (định dạng m3u) vào thẻ EASYROMS.	screens.cpp
+ (độc lập)	gameopts.cpp
+ 2>/dev/null | awk 'NR==2{print $4" trống / "$2}'	files.cpp
+ bản sao lưu	settings.cpp
+ của 	games_meta.cpp
+ dòng) · ▲▼ cuộn · B về hiện tại	terminal.cpp
+ game thiếu)	games_meta.cpp
+ giờ trước	weather.cpp
+ hệ máy	settings.cpp
+ ký tự	settings.cpp
+ ký tự, để trống để ẩn	settings.cpp
+ ngày	apps.cpp
+ ngày 	apps.cpp
+ ngày trước	weather.cpp
+ người	games_meta.cpp
+ người chơi	games_meta.cpp
+ nhuận	apps.cpp,screens.cpp
+ năm 	apps.cpp
+ phút trước	weather.cpp
+ trên màn hình chính	weather.cpp
+ trên màn hình chờ	weather.cpp
+ trò chơi	games_meta.cpp,screens.cpp
+ trò chơi điện tử	games_meta.cpp
+ tệp ẩn	files.cpp
+ · 	apps.cpp,files.cpp,gameopts.cpp,games_meta.cpp,screens.cpp,settings.cpp,weather.cpp
+ · Mô tả mới: 	games_meta.cpp
+ · Ngày 	apps.cpp
+ · Tháng 	apps.cpp
+ · \\\\	settings.cpp
+ · liên kết	files.cpp
+ · Đang kết nối	settings.cpp
+ · đã nhắc	apps.cpp
+ ÂL	screens.cpp
+ ÂL · 	screens.cpp
+ âm lịch	apps.cpp
+ điểm	gameopts.cpp
+ ›	widgets.cpp
+ ★	widgets.cpp
+"?\nKhông thể hoàn tác.	files.cpp
+"?\nMáy sẽ khởi động lại. Nếu màn hình không lên, cắm thẻ vào máy tính và chạy CHON_DOI_MAY.bat.	settings.cpp
+# S40: thiết lập riêng cho 	gameopts.cpp
+% · 	settings.cpp
+%.0f°	weather.cpp
+(Không đọc được, có thể cần mật khẩu)	files.cpp
+(Tệp trống)	files.cpp
+(trống)	settings.cpp
+(ẩn)	settings.cpp
+/10 · 	settings.cpp
+0°	screens.cpp
+1 phút	screens.cpp,settings.cpp
+10 phút	settings.cpp
+128×160	screens.cpp
+15 phút	screens.cpp,settings.cpp
+176×208	screens.cpp
+176×220	screens.cpp
+180°	screens.cpp
+208×208	screens.cpp
+240×320	screens.cpp
+270°	screens.cpp
+30 phút	settings.cpp
+320×240	screens.cpp
+3D nhanh (lõi Plus)	screens.cpp
+5 phút	settings.cpp
+7-Zip lỗi 	files.cpp
+90°	screens.cpp
+?\nCài đặt hiện tại sẽ bị thay thế.	settings.cpp
+A Enter · B Xóa · L Gõ lệnh · R Tab · X Menu	terminal.cpp
+A: cập nhật · X: đổi địa điểm	weather.cpp
+Bàn phím	settings.cpp
+Bàn phím ảo	settings.cpp
+Bây giờ	weather.cpp
+Bính	sys.cpp
+Bạn đã gõ	settings.cpp
+Bản clone	settings.cpp
+Bản sao lưu 	settings.cpp
+Bảng xếp hạng	gameopts.cpp
+Bảo mật	settings.cpp
+Bầu trời	settings.cpp
+Bật	gameopts.cpp,screens.cpp,settings.cpp
+Bật thành tích	gameopts.cpp
+Bật tiếng	screens.cpp
+Bắt đầu	apps.cpp
+Bắt đầu dùng máy	settings.cpp
+Bỏ	gameopts.cpp
+Bỏ chọn	widgets.cpp
+Bỏ khỏi Yêu thích	screens.cpp
+Bỏ mọi thiết lập riêng	gameopts.cpp
+Cafe Mây	sys.cpp
+Chuyển sang EmulationStation	screens.cpp
+Chuyển về dùng thẻ 1 cho ROM	settings.cpp
+Chào bạn! Chọn vài thiết lập cơ bản	settings.cpp
+Chép cấu hình gốc	settings.cpp
+Chép, đổi tên, tệp ẩn, giải nén zip/rar/7z có mật khẩu	settings.cpp
+Chơi	games_meta.cpp,screens.cpp
+Chơi tiếp	screens.cpp
+Chưa chơi trò nào	screens.cpp
+Chưa chơi trò nào.	screens.cpp
+Chưa cài gói ứng dụng mở rộng	screens.cpp
+Chưa cài gói ứng dụng mở rộng.	screens.cpp
+Chưa cài trình duyệt.	screens.cpp
+Chưa có	screens.cpp
+Chưa có PortMaster.\nChép Install.PortMaster.sh vào thư mục tools trên thẻ EASYROMS.	screens.cpp
+Chưa có bài hát nào đang phát.	screens.cpp
+Chưa có bài hát.\nChép tệp MP3/OGG/FLAC vào thư mục music trên thẻ EASYROMS.	screens.cpp
+Chưa có bản sao lưu nào	settings.cpp
+Chưa có danh sách kênh.\nChép tệp 	screens.cpp
+Chưa có dữ liệu	weather.cpp
+Chưa có dữ liệu (bấm nút nguồn để ngủ)	settings.cpp
+Chưa có ghi chú.\nNhấn Tùy chọn › Thêm ghi chú.	apps.cpp
+Chưa có mục yêu thích.\nNhấn Tùy chọn trên một trò chơi để thêm.	screens.cpp
+Chưa có nhạc trong 	sys.cpp
+Chưa có nhắc việc.\nNhấn Tùy chọn › Thêm nhắc việc.	apps.cpp
+Chưa có trò chơi	games_meta.cpp
+Chưa có trò chơi nào.\nChép ROM vào thẻ EASYROMS theo thư mục hệ máy.	screens.cpp
+Chưa có video.\nChép phim vào thư mục movies trên thẻ EASYROMS.	screens.cpp
+Chưa có ảnh bìa và mô tả. Nhấn Tùy chọn › Tải ảnh bìa & mô tả.	games_meta.cpp
+Chưa có ảnh. Chép ảnh vào thư mục photos.	screens.cpp
+Chưa kết nối	screens.cpp,settings.cpp
+Chưa phát	screens.cpp
+Chế độ Hardcore	gameopts.cpp
+Chế độ hiệu năng	settings.cpp
+Chỉ nút nguồn đánh thức	settings.cpp
+Chọn	gameopts.cpp,screens.cpp,settings.cpp,weather.cpp,widgets.cpp
+Chọn hệ máy cần ẩn	settings.cpp
+Chọn màu nền hoặc đặt ảnh từ mục Ảnh	settings.cpp
+Chọn ngày	apps.cpp
+Chọn địa điểm	weather.cpp
+Chủ Nhật	core.cpp
+Chủ đề màu	settings.cpp
+Chữ Hán / Pinyin	settings.cpp
+Chữ hoa (bấm 2 lần: khóa hoa)	settings.cpp
+Chữ lớn trên màn hình chính	settings.cpp
+Co giãn	screens.cpp
+Ctrl+C (dừng lệnh)	terminal.cpp
+Ctrl+D (thoát shell / EOF)	terminal.cpp
+Ctrl+L (xóa màn hình)	terminal.cpp
+Cuộn lịch sử	terminal.cpp
+Cài đặt	screens.cpp,settings.cpp
+Cài đặt giao diện	settings.cpp
+Cài đặt, RetroArch, Wi-Fi	settings.cpp
+Cài đặt, RetroArch, Wi-Fi → 	settings.cpp
+Cách dùng bàn phím	settings.cpp
+Cân bằng	settings.cpp,sys.cpp
+Có	widgets.cpp
+Có lỗi xảy ra	widgets.cpp
+Có mây	weather.cpp
+Cả ba mục trên, rồi tải lại giao diện	settings.cpp
+Cảm giác 	weather.cpp
+Cấn phím trong túi không làm máy dậy	settings.cpp
+Cấu hình Java	screens.cpp
+Cấu hình Java (lõi, độ phân giải…)	games_meta.cpp,screens.cpp
+Cấu hình, lõi, thiết lập riêng từng game, đăng nhập RetroAchievements	settings.cpp
+Cần bật ít nhất một ngôn ngữ	settings.cpp
+Cần kết nối Wi-Fi	screens.cpp
+Cập nhật	weather.cpp
+Cập nhật 	weather.cpp
+Cập nhật ngay	weather.cpp
+Cắm thẻ 2 vào khe TF2 rồi chọn để dùng thẻ 2 cho ROM	settings.cpp
+Cắt (di chuyển)	files.cpp
+Cỡ chữ: 	terminal.cpp
+Di chuyển	files.cpp
+Dung lượng	files.cpp
+Dung lượng ROM	settings.cpp
+Duyệt và tải ROM về đúng hệ máy	settings.cpp
+Dán vào đây: 	files.cpp
+Dòng chữ nhỏ bên dưới	settings.cpp
+Dòng lệnh Linux (bash)	settings.cpp
+Dông	weather.cpp
+Dông, mưa đá	weather.cpp
+Dùng cấu hình "	settings.cpp
+Dùng lại thẻ 1 cho ROM?\nMáy sẽ tải lại giao diện.	settings.cpp
+Dùng thẻ 2 (khe TF2) cho ROM?\nCấu trúc thư mục, PortMaster và runtime được chép sang thẻ 2 (dữ liệu sẵn có trên thẻ 2 được giữ).	settings.cpp
+Dương lịch và âm lịch	settings.cpp
+Dần	sys.cpp
+Dậu	sys.cpp
+Dịch vụ	weather.cpp
+Dịch vụ từ xa (SSH, Samba)	settings.cpp
+Dừng	apps.cpp,games_meta.cpp,screens.cpp
+Dừng phát	screens.cpp
+Dữ liệu lỗi	weather.cpp
+Ghi chú	apps.cpp,settings.cpp
+Ghi chú 	apps.cpp
+Ghi chú mới	apps.cpp
+Ghi công	settings.cpp
+Ghi công phần mềm	settings.cpp
+Ghi dữ liệu	settings.cpp
+Ghi tệp sao lưu	settings.cpp
+Giao diện	settings.cpp
+Giao diện gốc của dArkOS	screens.cpp
+Giao diện, RetroArch, Wi-Fi	settings.cpp
+Giáng sinh	apps.cpp
+Giáp	sys.cpp
+Gió %.0f km/h	weather.cpp
+Giải nén	files.cpp
+Giải nén bản sao lưu	settings.cpp
+Giải nén tại đây	files.cpp
+Giải nén vào thư mục "	files.cpp
+Giải phóng miền Nam	apps.cpp
+Giảm độ trễ (run-ahead, tốn CPU)	gameopts.cpp
+Giấy phép	weather.cpp
+Giỗ Tổ Hùng Vương	sys.cpp
+Giới hạn khung hình	screens.cpp
+Giờ nhắc	apps.cpp
+Giờ quốc tế (UTC)	settings.cpp
+Giờ tự đồng bộ qua mạng khi có Wi-Fi	settings.cpp
+Gom cấu hình	settings.cpp
+Gõ có dấu: Telex hoặc VNI	settings.cpp
+Gõ không chạy	terminal.cpp
+Gõ ký tự	terminal.cpp
+Gõ lệnh (Xong = chạy)	terminal.cpp
+Gõ phím đang chọn	settings.cpp
+Gõ pinyin rồi chọn chữ Hán, ví dụ nihao → 你好	settings.cpp
+Gõ pinyin, ví dụ: nihao	widgets.cpp
+Gõ thường, không đổi chữ	settings.cpp
+Gõ thử	settings.cpp
+Gấp đôi điểm; tắt lưu/nạp trạng thái, tua nhanh, cheat	gameopts.cpp
+Gần đây	screens.cpp
+Gắn vào /roms/usbdrive	settings.cpp
+Gắn ổ USB	settings.cpp
+Gốc hệ thống (/)	files.cpp
+Gửi tệp (LocalSend)	settings.cpp
+Gửi điểm số lên bảng xếp hạng	gameopts.cpp
+Gửi/nhận tệp với điện thoại, máy tính	settings.cpp
+Hai thư mục cạnh nhau, chép/chuyển nhanh	settings.cpp
+Hiển thị & giao diện	settings.cpp
+Hiện	files.cpp,weather.cpp
+Hiện FPS	gameopts.cpp
+Hiện game yêu thích lên đầu	settings.cpp
+Hiện gợi ý phím	settings.cpp
+Hiện màn hình chờ (đồng hồ)	settings.cpp
+Hiện ngày âm lịch	settings.cpp
+Hiện phần trăm pin	settings.cpp
+Hiện thông tin game và tiến độ khi bắt đầu chơi	gameopts.cpp
+Hiện đồng hồ khi ngủ	settings.cpp
+Hiệu năng tối đa	settings.cpp,sys.cpp
+Hiệu ứng chuyển màn hình	settings.cpp
+Hoàn tất	settings.cpp
+Hoàng hôn	settings.cpp
+Hà Nội	weather.cpp
+Hàn Quốc (GMT+9)	settings.cpp
+Hãy bật Wi-Fi trước	settings.cpp
+Hình nền	settings.cpp
+Hôm nay	apps.cpp,weather.cpp
+Hôm nay!	apps.cpp
+Hệ máy	games_meta.cpp,screens.cpp
+Hệ máy này chưa có nguồn ảnh bìa	games_meta.cpp
+Hệ điều hành	settings.cpp
+Hợi	sys.cpp
+Hủy	apps.cpp,widgets.cpp
+Khôi phục	settings.cpp
+Khôi phục .asoundrc	settings.cpp
+Khôi phục cài đặt	settings.cpp
+Khôi phục cài đặt từ\n	settings.cpp
+Khôi phục cấu hình ALSA mặc định	settings.cpp
+Không	screens.cpp,settings.cpp,widgets.cpp
+Không chép được cấu hình	settings.cpp
+Không có chữ cho "	widgets.cpp
+Không ghi được cấu hình	screens.cpp
+Không giới hạn	screens.cpp
+Không kết nối được	weather.cpp
+Không kết nối được (kiểm tra Wi-Fi)	gameopts.cpp
+Không kết nối được: 	sys.cpp
+Không mở được Terminal	terminal.cpp
+Không mở được shell	terminal.cpp
+Không rõ nghệ sĩ	sys.cpp
+Không thành công	widgets.cpp
+Không thấy USB Wi-Fi, hãy cắm lại	sys.cpp
+Không thấy game: %s\n	j2me.cpp
+Không thấy mạng này, hãy quét lại	sys.cpp
+Không thấy thẻ nhớ 2: cắm lại thẻ, hoặc Cài đặt › Trò chơi › Thẻ nhớ ROM	screens.cpp
+Không thể chép thư mục vào chính nó	files.cpp
+Không tìm thấy "	weather.cpp
+Không tìm thấy mạng nào.	settings.cpp
+Không tìm thấy tệp	screens.cpp
+Không tạo được tệp tạm	gameopts.cpp
+Không tạo được: 	files.cpp
+Không tải được danh mục (mạng?)	games_meta.cpp
+Không đổi tên được: 	files.cpp
+Khởi động lại	screens.cpp
+Khởi động lại dArkOS	screens.cpp
+Khởi động lại máy?	screens.cpp
+Kiểm tra phím	apps.cpp,settings.cpp
+Kiểu cũ (hòa)	settings.cpp
+Kiểu gõ tiếng Việt	settings.cpp
+Kiểu menu danh sách	settings.cpp
+Kiểu mới (hoà)	settings.cpp
+Kênh	screens.cpp
+Kích thước (lớn trước)	files.cpp
+Kết nối	settings.cpp
+Kết nối 	settings.cpp
+Kết nối mạng	settings.cpp
+Kỷ	sys.cpp
+Loại	files.cpp
+Làm mịn ảnh	gameopts.cpp
+Lên trên hàng phím để chọn chữ Hán; Cách = chữ đầu	settings.cpp
+Lõi giả lập	screens.cpp
+Lần gần nhất: %.1f giờ, tụt %d%%	settings.cpp
+Lặp lại: 	screens.cpp
+Lặp: 	screens.cpp
+Lễ Phật đản	sys.cpp
+Lễ Tình nhân	apps.cpp
+Lễ Vu Lan	sys.cpp
+Lệnh: bộ nhớ (free -h)	terminal.cpp
+Lệnh: dung lượng (df -h)	terminal.cpp
+Lệnh: tiến trình (top)	terminal.cpp
+Lệnh: địa chỉ IP	terminal.cpp
+Lịch	screens.cpp,settings.cpp
+Lịch, máy tính, bấm giờ, ghi chú, đèn pin	settings.cpp
+Lọc quảng cáo	settings.cpp
+Lọc ảnh	screens.cpp
+Lỗi	apps.cpp
+Màu	settings.cpp
+Máy chủ không trả về token	gameopts.cpp
+Máy tính	apps.cpp,settings.cpp
+Mão	sys.cpp
+Mùi	sys.cpp
+Mùng 1	apps.cpp,screens.cpp
+Mùng 2 Tết	sys.cpp
+Mùng 3 Tết	sys.cpp
+Múi giờ	settings.cpp
+Mưa lạnh	weather.cpp
+Mưa nhỏ	weather.cpp
+Mưa phùn	weather.cpp
+Mưa to	weather.cpp
+Mưa tuyết	weather.cpp
+Mưa vừa	weather.cpp
+Mạng	settings.cpp
+Mạng Wi-Fi	settings.cpp
+Mạng mở	settings.cpp
+Mật khẩu	gameopts.cpp
+Mật khẩu cho tệp nén	files.cpp
+Mật khẩu cần ít nhất 8 ký tự	settings.cpp
+Mật khẩu giải nén	files.cpp
+Mật khẩu: 	settings.cpp
+Mậu	sys.cpp
+Mặc định	gameopts.cpp,screens.cpp,settings.cpp
+Mặc định của hệ (	gameopts.cpp
+Mịn	screens.cpp
+Một bài	screens.cpp
+Mở	files.cpp,gameopts.cpp,screens.cpp,settings.cpp
+Mở EmulationStation?\nThoát ES để quay lại giao diện này.	screens.cpp
+Mở bàn phím để thử ngôn ngữ và kiểu gõ	settings.cpp
+Mở khóa thành tích khi chơi game có hỗ trợ	gameopts.cpp
+Mở lại shell	terminal.cpp
+Mỹ - Los Angeles	settings.cpp
+Mỹ - New York	settings.cpp
+Nguồn	screens.cpp
+Nguồn dữ liệu	weather.cpp
+Nguồn dữ liệu: Open-Meteo	weather.cpp
+Nguồn: libretro-thumbnails (GitHub), Arcade Database, Wikipedia	games_meta.cpp
+Ngày 	apps.cpp
+Ngày & giờ	settings.cpp
+Ngày nhắc	apps.cpp
+Ngày sửa (mới trước)	files.cpp
+Ngày âm lịch	apps.cpp
+Ngôn ngữ bàn phím	settings.cpp
+Ngôn ngữ khi mở bàn phím	settings.cpp
+Ngôn ngữ mặc định	settings.cpp
+Ngẫu nhiên	screens.cpp
+Ngọ	sys.cpp
+Ngủ	screens.cpp
+Ngủ sâu	screens.cpp
+Ngủ sâu sau màn hình chờ	settings.cpp
+Nhiều mây	weather.cpp
+Nhà giáo Việt Nam	apps.cpp
+Nhâm	sys.cpp
+Nhân Linux	settings.cpp
+Như lúc thức	settings.cpp
+Nhạc	screens.cpp
+Nhấn	apps.cpp
+Nhấn B hai lần liên tiếp để thoát	apps.cpp
+Nhấn OK để phát tất cả.	screens.cpp
+Nhận địa chỉ IP	settings.cpp
+Nhập	widgets.cpp
+Nhật Bản (GMT+9)	settings.cpp
+Nhắc lại sau 10 phút	apps.cpp
+Nhắc theo ngày giờ, đổ chuông	settings.cpp
+Nhắc việc	apps.cpp,settings.cpp
+Nhắc việc · 	apps.cpp
+Nén	files.cpp
+Nén .7z có mật khẩu	files.cpp
+Nén thành .zip	files.cpp
+Nút L trên bàn phím để đổi nhanh	settings.cpp
+Năm 	apps.cpp
+Năm mới	apps.cpp
+Nạp lại mạng	settings.cpp
+Nội dung	settings.cpp
+Nội dung nhắc việc	apps.cpp
+OK mở	screens.cpp
+OK đổi màu · Tùy chọn: SOS · B tắt	apps.cpp
+OK: Đã xong · Tùy chọn: nhắc lại sau 10 phút	apps.cpp
+Pháp / Đức	settings.cpp
+Phát	screens.cpp
+Phát ngẫu nhiên: 	screens.cpp
+Phím tắt	screens.cpp
+Phóng số nguyên (điểm ảnh sắc)	gameopts.cpp
+Phụ nữ Việt Nam	apps.cpp
+Pin & hiệu năng	settings.cpp
+Quay lại	apps.cpp,files.cpp,games_meta.cpp,screens.cpp,weather.cpp,widgets.cpp
+Quyền	files.cpp
+Quét lại	settings.cpp
+Quét lại thư mục nhạc	screens.cpp
+Quét lại thẻ nhớ	screens.cpp,settings.cpp
+Quét mạng xung quanh	settings.cpp
+Quên mọi mạng và mật khẩu đã lưu	settings.cpp
+Quên tất cả mạng Wi-Fi đã lưu?	settings.cpp
+Quý	sys.cpp
+Quản lý tệp	files.cpp,screens.cpp,settings.cpp
+Quản lý tệp hai khung	settings.cpp
+Quản lý tệp, USB, cập nhật	settings.cpp
+Quốc khánh	apps.cpp
+Quốc tế Lao động	apps.cpp
+Quốc tế Phụ nữ	apps.cpp
+Quốc tế Thiếu nhi	apps.cpp
+R36S · darkos	settings.cpp
+ROM, save game và port trên thẻ được giữ nguyên	settings.cpp
+RetroArch về mặc định	settings.cpp
+RetroArch đã về mặc định	settings.cpp
+Riêng cho game này	gameopts.cpp
+Router chỉ dùng WPA3, USB Wi-Fi này không hỗ trợ. Hãy bật chế độ WPA2/WPA3 trên router	sys.cpp
+Router không phản hồi, hãy lại gần router hơn	sys.cpp
+Rằm	apps.cpp,screens.cpp
+Rằm tháng Giêng	sys.cpp
+Rừng	settings.cpp
+Sai mật khẩu	files.cpp
+Sai mật khẩu Wi-Fi (hoặc router chặn thiết bị lạ)	sys.cpp
+Sai mật khẩu, nhập lại	files.cpp
+Sai tên hoặc mật khẩu	gameopts.cpp
+Sao chép	files.cpp
+Sao lưu & khôi phục	settings.cpp
+Sao lưu cài đặt	settings.cpp
+Sao lưu ngay	settings.cpp
+Sương mù	weather.cpp
+Sắc nét	screens.cpp
+Sắp xếp hệ máy	settings.cpp
+Sắp xếp theo	files.cpp
+Sắp xếp theo: 	files.cpp
+Sẵn sàng	apps.cpp
+Sẽ nhắc lúc 	apps.cpp
+Số nguyên (nét)	screens.cpp
+Sửa	apps.cpp
+Sửa ghi chú	apps.cpp
+Sửa lần cuối	files.cpp
+Sửa lỗi âm thanh	settings.cpp
+Sửu	sys.cpp
+Telex: s f r x j dấu thanh, aa ee oo â ê ô, w ư ơ ă, dd đ, z bỏ dấu	settings.cpp
+Theo lõi	gameopts.cpp
+Theo mặc định của hệ máy	gameopts.cpp
+Theo pin: xanh, đỏ khi dưới 20%, nháy khi dưới 10%	settings.cpp
+Theo tên A → Z	settings.cpp
+Thiết lập ban đầu	settings.cpp
+Thiết lập hình ảnh chỉ có với lõi RetroArch	gameopts.cpp
+Thiết lập riêng (lõi, hình ảnh…)	games_meta.cpp
+Thiết lập: 	gameopts.cpp
+Thiếu 7-Zip để giải nén	files.cpp
+Thiếu 7-Zip để nén	files.cpp
+Thiếu 7-Zip để đọc tệp nén	files.cpp
+Thiếu font DejaVuSansMono	terminal.cpp
+Thoát (B×2)	apps.cpp
+Thoát Terminal	terminal.cpp
+Thành phần bên thứ ba và tác giả	settings.cpp
+Thành tích, Hardcore, bảng xếp hạng	settings.cpp
+Tháng 	apps.cpp
+Tháng sau	apps.cpp
+Tháng trước	apps.cpp
+Tháng âm lịch	apps.cpp
+Tháo ổ	settings.cpp
+Tháo ổ USB	settings.cpp
+Thân	sys.cpp
+Thêm ghi chú	apps.cpp
+Thêm ngày dương lịch	apps.cpp
+Thêm ngày âm lịch (sinh nhật, giỗ…)	apps.cpp
+Thêm nhắc việc hôm nay	apps.cpp
+Thêm nhắc việc ngày khác	apps.cpp
+Thêm nhắc việc ngày này	apps.cpp
+Thêm vào Yêu thích	screens.cpp
+Thìn	sys.cpp
+Thông báo chi tiết	gameopts.cpp
+Thông tin	files.cpp,games_meta.cpp,screens.cpp
+Thông tin máy	settings.cpp
+Thông tin mạng	settings.cpp
+Thư mục	files.cpp
+Thư mục người dùng	files.cpp
+Thư mục trống.\nNhấn Tùy chọn để dán hoặc tạo thư mục.	files.cpp
+Thẻ 1	settings.cpp
+Thẻ 2	settings.cpp
+Thẻ nhớ ROM: thẻ 1	settings.cpp
+Thẻ nhớ ROM: thẻ 2 (khe TF2)	settings.cpp
+Thẻ trò chơi (EASYROMS)	files.cpp
+Thời gian chờ ước tính	settings.cpp
+Thời tiết	screens.cpp,settings.cpp,weather.cpp
+Thời tiết · 	weather.cpp
+Thời tiết: 	weather.cpp
+Thứ Ba	core.cpp
+Thứ Bảy	core.cpp
+Thứ Hai	core.cpp
+Thứ Năm	core.cpp
+Thứ Sáu	core.cpp
+Thứ Tư	core.cpp
+Thử các nút trên máy	settings.cpp
+Tiếp tục	apps.cpp
+Tiết kiệm pin	settings.cpp,sys.cpp
+Tiết kiệm pin, tự bật lại khi thức	settings.cpp
+Tiện ích	settings.cpp
+Toàn màn hình	gameopts.cpp
+Trang ký hiệu	settings.cpp
+Trung Quốc (GMT+8)	settings.cpp
+Truy cập tệp và dòng lệnh qua mạng	settings.cpp
+Trình chiếu	screens.cpp
+Trình duyệt	screens.cpp,settings.cpp
+Trình giả lập	games_meta.cpp,screens.cpp
+Trình giả lập / lõi	gameopts.cpp
+Trình giả lập cho game	gameopts.cpp
+Trò chơi	screens.cpp
+Trò chơi & giả lập	settings.cpp
+Trượt	core.cpp,settings.cpp
+Trời quang	weather.cpp
+Tuyết	weather.cpp
+Tuất	sys.cpp
+Tài khoản retroachievements.org (cần Wi-Fi)	gameopts.cpp
+Tài khoản: 	gameopts.cpp
+Tân	sys.cpp
+Tên	files.cpp
+Tên không hợp lệ	files.cpp
+Tên mới	files.cpp
+Tên sự kiện	apps.cpp
+Tên thư mục	files.cpp
+Tên đăng nhập RetroAchievements	gameopts.cpp
+Tìm ROM mới chép vào	settings.cpp
+Tìm thiết bị	settings.cpp
+Tìm thành phố (vd: Đà Nẵng)	weather.cpp
+Tìm địa điểm	weather.cpp
+Tình trạng pin	settings.cpp
+Tím	core.cpp
+Tùy chọn	apps.cpp,files.cpp,games_meta.cpp,screens.cpp,weather.cpp,widgets.cpp
+Tý	sys.cpp
+Tăng	settings.cpp
+Tạm dừng	screens.cpp
+Tạm dừng máy, tiết kiệm pin	screens.cpp
+Tạm dừng nhạc	sys.cpp
+Tạo thư mục mới	files.cpp
+Tải danh mục ảnh bìa…	games_meta.cpp
+Tải ảnh bìa & mô tả	games_meta.cpp
+Tải ảnh bìa & mô tả cho game này	games_meta.cpp
+Tải ảnh bìa & mô tả cả hệ (	games_meta.cpp
+Tải ảnh huy hiệu (tốn mạng)	gameopts.cpp
+Tất cả	screens.cpp
+Tắt	gameopts.cpp,screens.cpp,settings.cpp
+Tắt Wi-Fi khi ngủ	settings.cpp
+Tắt hoàn toàn thiết bị	screens.cpp
+Tắt hẳn như bấm nút nguồn (trừ khi đang nghe nhạc)	settings.cpp
+Tắt màn hình, đồng hồ trên nền đen	screens.cpp
+Tắt máy	screens.cpp
+Tắt máy ngay bây giờ?	screens.cpp
+Tắt tiếng	screens.cpp
+Tết Dương lịch	apps.cpp
+Tết Nguyên đán	apps.cpp,sys.cpp
+Tết Trung thu	apps.cpp,sys.cpp
+Tết Đoan ngọ	sys.cpp
+Tết, sinh nhật, ngày giỗ (âm/dương)	settings.cpp
+Tệp	files.cpp,games_meta.cpp,screens.cpp
+Tệp & hệ thống	settings.cpp
+Tệp .	files.cpp
+Tệp gốc không còn	files.cpp
+Tỉ lệ khung hình	gameopts.cpp
+Tối đa 	settings.cpp
+Tức thì	settings.cpp
+Tự chụp màn hình khi mở khóa	gameopts.cpp
+Tự lưu & nạp trạng thái	gameopts.cpp
+Tự ngủ khi không dùng	settings.cpp
+Tự động	screens.cpp,settings.cpp
+Tự động = chuyển sang tai nghe khi cắm	settings.cpp
+Tỵ	sys.cpp
+VNI: 1-5 dấu thanh, 6 â ê ô, 7 ơ ư, 8 ă, 9 đ, 0 bỏ dấu	settings.cpp
+Video ngắn	screens.cpp
+Video trực tuyến	screens.cpp
+Việt Nam (GMT+7)	settings.cpp
+Vòng	apps.cpp
+Vòng 	apps.cpp
+Về mặc định (tự nhận theo game)	screens.cpp
+Vị trí dấu	settings.cpp
+Vừa màn hình	screens.cpp
+Wi-Fi & mạng	settings.cpp
+Xanh dương	core.cpp
+Xanh lá	core.cpp
+Xem dạng danh sách	screens.cpp
+Xem dạng lưới	screens.cpp
+Xem nội dung	files.cpp
+Xem thử màn hình ngủ	settings.cpp
+Xoay màn hình	screens.cpp
+Xung CPU khi chạy game	settings.cpp
+Xác nhận	widgets.cpp
+Xác thực	settings.cpp
+Xóa	files.cpp,widgets.cpp
+Xóa 	settings.cpp
+Xóa "	files.cpp
+Xóa bản sao lưu này	settings.cpp
+Xóa các nhắc việc đã xong	apps.cpp
+Xóa ghi chú này	apps.cpp
+Xóa hết	apps.cpp
+Xóa hồ sơ mạng	settings.cpp
+Xóa lùi (trống thì thoát)	settings.cpp
+Xóa lịch sử	screens.cpp
+Xóa lịch sử chơi	settings.cpp
+Xóa mạng Wi-Fi	settings.cpp
+Xóa mạng Wi-Fi đã lưu	settings.cpp
+Xóa nhắc việc này	apps.cpp
+Xóa sự kiện này	apps.cpp
+Xóa thiết lập riêng	settings.cpp
+Xóa toàn bộ lịch sử chơi?	screens.cpp,settings.cpp
+Yêu thích	screens.cpp
+Yêu thích, lịch sử, chủ đề, hình nền… và hỏi lại thiết lập ban đầu	settings.cpp
+Yêu thích, ẩn hệ máy, quét ROM	settings.cpp
+\\r\n\\033[33m[Shell đã thoát. Nhấn A để đóng, X để mở lại]\\033[0m\\r\n	terminal.cpp
+bắn súng	games_meta.cpp
+giải đố	games_meta.cpp
+kích thước	files.cpp
+lớn	terminal.cpp
+mê cung	games_meta.cpp
+ngày sửa	files.cpp
+nhập vai	games_meta.cpp
+nhỏ	terminal.cpp
+oà, uý (kiểu mới) hay òa, úy (kiểu cũ)	settings.cpp
+phiêu lưu	games_meta.cpp
+sòng bài	games_meta.cpp
+thể thao	games_meta.cpp
+tên	files.cpp
+vừa	terminal.cpp
+vừa xong	weather.cpp
+°C → °F	weather.cpp
+°F → °C	weather.cpp
+±	apps.cpp
+Âm báo khi mở khóa	gameopts.cpp
+Âm lượng	screens.cpp,settings.cpp
+Âm lượng 	screens.cpp,settings.cpp
+Âm lịch: 	apps.cpp
+Âm phím	settings.cpp
+Âm thanh	settings.cpp
+Ít mây	weather.cpp
+Ông Công ông Táo	sys.cpp
+×	apps.cpp
+Úc - Sydney	settings.cpp
+÷	apps.cpp
+÷×−+=	apps.cpp
+Đang chạy	apps.cpp
+Đang cập nhật…	weather.cpp
+Đang dùng	settings.cpp
+Đang dùng pin	settings.cpp
+Đang hiện tệp ẩn	files.cpp
+Đang kết nối tới 	settings.cpp
+Đang mở 	screens.cpp
+Đang phát	screens.cpp
+Đang phát 	screens.cpp
+Đang sạc	settings.cpp
+Đang thực hiện…	widgets.cpp
+Đang tải thời tiết…	weather.cpp
+Đang tải…	games_meta.cpp
+Đang tắt	settings.cpp
+Đang xem lịch sử (	terminal.cpp
+Đang đo…	settings.cpp
+Đang ẩn 	settings.cpp
+Đi tới	files.cpp
+Đi tới…	files.cpp
+Đinh	sys.cpp
+Đánh dấu	widgets.cpp
+Đã bỏ khỏi Yêu thích	screens.cpp
+Đã chép	files.cpp
+Đã chép, mở thư mục khác rồi Dán	files.cpp
+Đã có thư mục này	files.cpp
+Đã có tệp trùng tên	files.cpp
+Đã cắt	files.cpp
+Đã cắt còn 	settings.cpp
+Đã cắt, mở thư mục khác rồi Dán	files.cpp
+Đã dừng	apps.cpp,games_meta.cpp
+Đã khôi phục, đang tải lại giao diện	settings.cpp
+Đã kết nối: 	settings.cpp
+Đã lưu thiết lập	settings.cpp
+Đã qua	apps.cpp
+Đã quét lại	screens.cpp
+Đã quét: 	settings.cpp
+Đã sao lưu	settings.cpp
+Đã thêm 	apps.cpp
+Đã thêm vào Yêu thích	screens.cpp
+Đã tạo thư mục	files.cpp
+Đã tắt dịch vụ từ xa	settings.cpp
+Đã về cấu hình tự động	screens.cpp
+Đã về thiết lập mặc định	gameopts.cpp
+Đã xong	games_meta.cpp,widgets.cpp
+Đã xóa	settings.cpp
+Đã xóa mạng đã lưu	settings.cpp
+Đã đăng nhập	gameopts.cpp
+Đã đăng nhập RetroAchievements	gameopts.cpp
+Đã đăng nhập · 	gameopts.cpp
+Đã đặt làm hình nền	screens.cpp
+Đã đổi tên	files.cpp
+Đã đủ ảnh bìa và mô tả	games_meta.cpp
+Đã ẩn tệp ẩn	files.cpp
+Đèn báo	settings.cpp
+Đèn khi ngủ	settings.cpp
+Đèn pin (màn hình)	settings.cpp
+Đêm	core.cpp,settings.cpp
+Đêm Giáng sinh	apps.cpp
+Đóng	widgets.cpp
+Đăng nhập	gameopts.cpp
+Đăng nhập 	gameopts.cpp
+Đăng xuất	gameopts.cpp
+Đăng xuất RetroAchievements?	gameopts.cpp
+Đơn vị: 	weather.cpp
+Đưa RetroArch về cấu hình gốc của máy?	settings.cpp
+Đường dẫn	files.cpp
+Đầu ra âm thanh	settings.cpp
+Đặt làm hình nền	screens.cpp
+Đặt lại	apps.cpp
+Đặt lại RetroArch	settings.cpp
+Đặt lại TẤT CẢ cài đặt như mới cài?\nKhông thể hoàn tác.	settings.cpp
+Đặt lại cài đặt giao diện?	settings.cpp
+Đặt lại dữ liệu gốc	settings.cpp
+Đặt lại tất cả	settings.cpp
+Đặt lại tất cả (như mới cài)	settings.cpp
+Đặt lại đường xuất âm thanh	settings.cpp
+Đếm ngày	apps.cpp,settings.cpp
+Đến Tết Nguyên đán	apps.cpp
+Địa chỉ IP	settings.cpp
+Định dạng 24 giờ	settings.cpp
+Định dạng giờ, âm lịch	settings.cpp
+Định dạng ngày	settings.cpp
+Đỏ	settings.cpp
+Đồng hồ bấm giờ	apps.cpp,settings.cpp
+Đồng hồ lớn trên nền đen	settings.cpp
+Đổi	gameopts.cpp,settings.cpp
+Đổi lại lúc nào cũng được trong Cài đặt	settings.cpp
+Đổi ngôn ngữ VI / EN / 中	settings.cpp
+Đổi tên	files.cpp
+Đổi địa điểm	weather.cpp
+Độ phân giải	screens.cpp
+Độ sáng	screens.cpp,settings.cpp
+Độ sáng 	settings.cpp
+Độ ẩm 	weather.cpp
+Đời máy R36S	settings.cpp
+đi cảnh	games_meta.cpp
+đua xe	games_meta.cpp
+đánh nhau màn hình ngang	games_meta.cpp
+đố vui	games_meta.cpp
+đối kháng	games_meta.cpp
+Ảnh	screens.cpp,settings.cpp
+Ảnh bìa mới: 	games_meta.cpp
+Ảnh huy hiệu	gameopts.cpp
+Ất	sys.cpp
+Ẩn	files.cpp,weather.cpp
+Ẩn / hiện hệ máy	settings.cpp
+Ổ chứa	files.cpp
+Ổ ngoài 	files.cpp
+Ứng dụng	screens.cpp,settings.cpp
+—	apps.cpp,settings.cpp,sys.cpp,weather.cpp
+…	core.cpp,games_meta.cpp,screens.cpp,widgets.cpp
+‹	widgets.cpp
+‹ 	widgets.cpp
+›	gameopts.cpp,settings.cpp
+› 	games_meta.cpp,widgets.cpp
+← → chọn giờ/phút · ↑↓ chỉnh	apps.cpp
+← → chọn ngày/tháng/năm · ↑↓ chỉnh	apps.cpp
+← → để thay đổi	screens.cpp
+⇧	settings.cpp
+−	apps.cpp
+≈ %.1f ngày	settings.cpp
+⌫	apps.cpp
+▲	apps.cpp
+▲▼ chỉnh	screens.cpp
+▶	apps.cpp
+▶ Trình chiếu	screens.cpp
+▼	apps.cpp
+◀	apps.cpp
+◀ ▶ chuyển ảnh	screens.cpp
+◀ ▶ để thay đổi	gameopts.cpp,settings.cpp
+☀	weather.cpp
+☁	weather.cpp
+☂	weather.cpp
+☂ 	weather.cpp
+★	games_meta.cpp,weather.cpp
+⚡	weather.cpp
+✓ Hoàn tất	widgets.cpp
+✗ 	games_meta.cpp,widgets.cpp
+❄	weather.cpp
+中	settings.cpp

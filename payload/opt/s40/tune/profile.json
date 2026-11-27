@@ -1,0 +1,42 @@
+{
+  "_comment": "Tuning profile for dArkOS on the R36S (RK3326, 1 GB RAM). Applied by /usr/local/bin/s40-tune.sh at every boot, so an OS update that rewrites these files is corrected again. Original files are backed up once in ~/.config/s40/tune/backup.",
+  "retroarch": {
+    "files": ["/home/ark/.config/retroarch/retroarch.cfg", "/home/ark/.config/retroarch32/retroarch.cfg"],
+    "style": "ra",
+    "set": {
+      "savestate_auto_load": "false",
+      "savestate_auto_save": "false",
+      "network_cmd_enable": "false"
+    }
+  },
+  "retroarch_core_options": {
+    "files": ["/home/ark/.config/retroarch/retroarch-core-options.cfg", "/home/ark/.config/retroarch32/retroarch-core-options.cfg"],
+    "style": "ra",
+    "set": {
+      "fbneo-fm-interpolation": "linear",
+      "fbneo-frameskip-v2": "auto",
+      "fbneo-sample-interpolation": "linear",
+      "gpsp_frameskip": "auto",
+      "mgba_frameskip": "auto",
+      "pcsx_rearmed_drc": "enabled",
+      "pcsx_rearmed_frameskip_type": "auto",
+      "pcsx_rearmed_neon_enhancement_enable": "disabled",
+      "pcsx_rearmed_neon_enhancement_no_main": "disabled",
+      "pcsx_rearmed_spu_interpolation": "simple",
+      "snes9x_frameskip": "auto"
+    }
+  },
+  "ppsspp_controls": {
+    "files": ["/roms/psp/ppsspp/PSP/SYSTEM/controls.ini", "/roms2/psp/ppsspp/PSP/SYSTEM/controls.ini"],
+    "style": "ini",
+    "set": {
+      "Pause": "1-111,10-110",
+      "Save State": "",
+      "Load State": ""
+    }
+  },
+  "ppsspp_gamepad_db": {
+    "files": ["/opt/ppsspp/assets/gamecontrollerdb.txt"],
+    "style": "sdl_guide_fn"
+  }
+}

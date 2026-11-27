@@ -1,0 +1,966 @@
+# R36S app pack (/opt/r36sapps)
+Thiếu 7zzs, cập nhật app bản mới!	7zzs missing, update the app!	缺少 7zzs，请更新应用！
+Bung .zip thất bại	Failed to extract .zip	解压 .zip 失败
+Thẻ nhớ không đủ chỗ trống!	Not enough space on the card!	存储卡空间不足！
+Bung thất bại (pipe)	Extract failed (pipe)	解压失败（pipe）
+Bung thất bại (fork)	Extract failed (fork)	解压失败（fork）
+Bung thất bại	Extract failed	解压失败
+Không đọc được file nén	Cannot read the archive	无法读取压缩文件
+File nén không an toàn!	Unsafe archive!	压缩文件不安全！
+File nén hỏng hoặc không đọc được	Archive is damaged or unreadable	压缩文件已损坏或无法读取
+Thiếu thông tin file OneDrive. Hãy đồng bộ lại.	OneDrive file info missing. Please sync again.	缺少 OneDrive 文件信息，请重新同步。
+Không lấy được link tải OneDrive (HTTP 	Cannot get the OneDrive download link (HTTP 	无法获取 OneDrive 下载链接（HTTP 
+). Hãy đồng bộ lại.	). Please sync again.	）。请重新同步。
+Link OneDrive hết hạn. Hãy đồng bộ lại.	OneDrive link expired. Please sync again.	OneDrive 链接已过期，请重新同步。
+Drive chặn quét virus file này. Hãy thử lại hoặc dùng link OneDrive.	Drive blocked this file at virus scan. Retry or use a OneDrive link.	Drive 病毒扫描拦截了此文件。请重试或使用 OneDrive 链接。
+Đã hủy clipboard	Clipboard cleared	已清空剪贴板
+Không dán vào chính nó!	Cannot paste into itself!	不能粘贴到自身！
+Đích đã tồn tại!	Destination already exists!	目标已存在！
+Dán thất bại	Paste failed	粘贴失败
+Chưa nhập mật khẩu!	No password entered!	未输入密码！
+Tên không hợp lệ!	Invalid name!	名称无效！
+Đã tồn tại!	Already exists!	已存在！
+Tạo thư mục thất bại!	Failed to create folder!	创建文件夹失败！
+Đổi tên thất bại (trùng tên?)!	Rename failed (name taken?)!	重命名失败（名称重复？）！
+Nhấn A để tiếp tục, B để hủy	Press A to continue, B to cancel	按 A 继续，按 B 取消
+Xóa? (1/2)	Delete? (1/2)	删除？(1/2)
+Xóa hẳn, không khôi phục!	Permanently deleted, no undo!	将永久删除，无法恢复！
+Nhấn A để xóa, B để hủy	Press A to delete, B to cancel	按 A 删除，按 B 取消
+Chắc chắn xóa? (2/2)	Really delete? (2/2)	确定删除？(2/2)
+Xóa thất bại	Delete failed	删除失败
+Thư mục mới	New folder	新建文件夹
+Thư mục mới 	New folder 	新建文件夹 
+Việt Nam	Vietnam	越南
+Kênh không tên	Unnamed channel	未命名频道
+URL không hợp lệ. Phải bắt đầu bằng http:// hoặc https://	Invalid URL. It must start with http:// or https://	URL 无效，必须以 http:// 或 https:// 开头
+Nguồn URL 	URL source 	URL 来源 
+Không thể khởi tạo CURL handle	Cannot initialise the CURL handle	无法初始化 CURL 句柄
+Lỗi kết nối tải URL: 	Connection error loading URL: 	加载 URL 连接错误： 
+Máy chủ URL trả về HTTP 	URL server returned HTTP 	URL 服务器返回 HTTP 
+Nội dung tải về rỗng	Downloaded content is empty	下载内容为空
+URL trả về trang web HTML, không phải file playlist M3U/M3U8 hợp lệ	The URL returned an HTML page, not a valid M3U/M3U8 playlist	该 URL 返回的是 HTML 网页，不是有效的 M3U/M3U8 播放列表
+Không thể ghi file vào 	Cannot write the file to 	无法写入文件到 
+Tên file không hợp lệ	Invalid file name	文件名无效
+Playlist không có URL nguồn hoặc không phải loại URL	Playlist has no source URL or is not a URL playlist	播放列表没有来源 URL 或不是 URL 类型
+Không thể khởi tạo CURL	Cannot initialise CURL	无法初始化 CURL
+Lỗi kết nối: 	Connection error: 	连接错误： 
+Máy chủ trả về HTTP 	Server returned HTTP 	服务器返回 HTTP 
+Nội dung tải về không phải M3U hợp lệ	Downloaded content is not a valid M3U	下载内容不是有效的 M3U
+Không thể ghi file: 	Cannot write file: 	无法写入文件： 
+ kênh	 channels	 个频道
+Đang tải playlist, chờ chút...	Loading playlist, please wait...	正在加载播放列表，请稍候...
+Playlist đã mới nhất	Playlist is up to date	播放列表已是最新
+Nội dung tải về không phải định dạng M3U hợp lệ.	Downloaded content is not valid M3U.	下载内容不是有效的 M3U 格式。
+Không thể ghi file 	Cannot write file 	无法写入文件 
+Không rõ	Unknown	未知
+Truyền hình	Television	电视
+%d kênh	%d channels	%d 个频道
+ĐANG XEM	WATCHING	正在观看
+đang xem	watching	正在观看
+{"command":["show-text","{\\\\an2\\\\fs44\\\\bord2\\\\b1}❚❚  TẠM DỪNG", 1500]}	{"command":["show-text","{\\\\an2\\\\fs44\\\\bord2\\\\b1}❚❚  PAUSED", 1500]}	{"command":["show-text","{\\\\an2\\\\fs44\\\\bord2\\\\b1}❚❚  已暂停", 1500]}
+{"command":["show-text","{\\\\an2\\\\fs44\\\\bord2\\\\b1}▶  ĐANG PHÁT", 1500]}	{"command":["show-text","{\\\\an2\\\\fs44\\\\bord2\\\\b1}▶  PLAYING", 1500]}	{"command":["show-text","{\\\\an2\\\\fs44\\\\bord2\\\\b1}▶  正在播放", 1500]}
+{"command":["show-text","{\\\\an5\\\\fs75\\\\bord3\\\\b1}Tỉ lệ màn hình", 1400]}	{"command":["show-text","{\\\\an5\\\\fs75\\\\bord3\\\\b1}Aspect ratio", 1400]}	{"command":["show-text","{\\\\an5\\\\fs75\\\\bord3\\\\b1}画面比例", 1400]}
+{"command":["show-text","{\\\\an5\\\\fs75\\\\bord3\\\\b1}Phụ đề (CC)", 1400]}	{"command":["show-text","{\\\\an5\\\\fs75\\\\bord3\\\\b1}Subtitles (CC)", 1400]}	{"command":["show-text","{\\\\an5\\\\fs75\\\\bord3\\\\b1}字幕 (CC)", 1400]}
+{"command":["show-text","{\\\\an5\\\\fs80\\\\bord3\\\\b1}Tốc độ phát", 1400]}	{"command":["show-text","{\\\\an5\\\\fs80\\\\bord3\\\\b1}Playback speed", 1400]}	{"command":["show-text","{\\\\an5\\\\fs80\\\\bord3\\\\b1}播放速度", 1400]}
+{"command":["show-text","Đang tải 	{"command":["show-text","Loading 	{"command":["show-text","正在加载 
+{"command":["show-text","Không lấy được luồng 	{"command":["show-text","Cannot get stream 	{"command":["show-text","无法获取视频流 
+{"command":["show-text","Đang đổi sang 	{"command":["show-text","Switching to 	{"command":["show-text","正在切换到 
+{"command":["show-text","Độ phân giải: 	{"command":["show-text","Resolution: 	{"command":["show-text","分辨率： 
+A: Tạm dừng   ← → +-10s   B: Thoát	A: Pause   ← → +-10s   B: Exit	A：暂停   ← → ±10秒   B：退出
+{"command":["show-text","Đang phát 	{"command":["show-text","Playing 	{"command":["show-text","正在播放 
+{"command":["show-text","❚❚  TẠM DỪNG", 1400]}	{"command":["show-text","❚❚  PAUSED", 1400]}	{"command":["show-text","❚❚  已暂停", 1400]}
+{"command":["show-text","▶  ĐANG PHÁT", 1400]}	{"command":["show-text","▶  PLAYING", 1400]}	{"command":["show-text","▶  正在播放", 1400]}
+{"command":["show-text","▲  Âm lượng +5%", 1200]}	{"command":["show-text","▲  Volume +5%", 1200]}	{"command":["show-text","▲  音量 +5%", 1200]}
+{"command":["show-text","▼  Âm lượng -5%", 1200]}	{"command":["show-text","▼  Volume -5%", 1200]}	{"command":["show-text","▼  音量 -5%", 1200]}
+{"command":["show-text","Tỉ lệ màn hình", 1400]}	{"command":["show-text","Aspect ratio", 1400]}	{"command":["show-text","画面比例", 1400]}
+{"command":["show-text","Phụ đề (CC)", 1400]}	{"command":["show-text","Subtitles (CC)", 1400]}	{"command":["show-text","字幕 (CC)", 1400]}
+{"command":["show-text","Tốc độ phát", 1400]}	{"command":["show-text","Playback speed", 1400]}	{"command":["show-text","播放速度", 1400]}
+❚❚  TẠM DỪNG	❚❚  PAUSED	❚❚  已暂停
+▶  ĐANG PHÁT	▶  PLAYING	▶  正在播放
+Chưa refresh	Not refreshed	尚未刷新
+Người nhận đã hủy	Receiver cancelled	接收方已取消
+Người nhận từ chối / Hủy	Receiver declined / cancelled	接收方拒绝/取消
+Người nhận từ chối	Receiver declined	接收方拒绝
+Đang tải bản cập nhật đầy đủ v	Downloading full update v	正在下载完整更新 v
+Tải bản cập nhật thất bại. Kiểm tra kết nối mạng!	Update download failed. Check the network!	更新下载失败，请检查网络！
+Tập tin tải về quá nhỏ hoặc không hợp lệ.	Downloaded file is too small or invalid.	下载的文件过小或无效。
+Kích thước tải về không khớp (dự kiến 	Download size mismatch (expected 	下载大小不符（预期 
+, thực tế 	, got 	，实际 
+). Có thể mạng chập chờn — thử lại.	). The network may be unstable — try again.	）。网络可能不稳定，请重试。
+Thẻ nhớ không đủ dung lượng (cần 	Not enough card space (need 	存储卡空间不足（需要 
+ MB, trống 	 MB, free 	 MB，剩余 
+ MB). Hãy giải phóng và thử lại.	 MB). Free some space and try again.	 MB）。请释放空间后重试。
+Đang cài đặt bản cập nhật đầy đủ (giữ dữ liệu)...	Installing full update (keeping data)...	正在安装完整更新（保留数据）...
+Cài đặt bản cập nhật thất bại.	Update installation failed.	更新安装失败。
+Đang tải trình duyệt RC-Web bản 	Downloading RC-Web browser version 	正在下载 RC-Web 浏览器版本 
+Cập nhật thành công! Vui lòng khởi động lại.	Update successful! Please restart.	更新成功！请重新启动。
+Đang tải phần còn lại của bản Lite...	Downloading the rest of the Lite build...	正在下载 Lite 版其余部分...
+Đã tải xong phần còn lại, dùng bình thường.	The rest is downloaded, ready to use.	其余部分已下载，可正常使用。
+Chưa tải xong phần còn lại (sẽ thử lại khi mở app).	The rest is not downloaded yet (will retry on next start).	其余部分尚未下载完（下次打开时重试）。
+Đang lấy danh sách file thay đổi...	Getting the list of changed files...	正在获取变更文件列表...
+không tải được manifest	cannot download the manifest	无法下载清单
+manifest lỗi/rỗng	manifest broken/empty	清单错误/为空
+ không khớp manifest v	 does not match manifest v	 与清单不符 v
+thiếu completion URL	completion URL missing	缺少补全 URL
+Đang tải phần còn lại cho bản Lite...	Downloading the rest for the Lite build...	正在为 Lite 版下载其余部分...
+máy v	device v	设备 v
+ không khớp nền delta v	 does not match delta base v	 与增量基础版本不符 v
+thiếu delta URL	delta URL missing	缺少增量 URL
+Đang tải gói delta v	Downloading delta package v	正在下载增量包 v
+tải completion thất bại	completion download failed	补全下载失败
+tải delta thất bại	delta download failed	增量下载失败
+gói quá nhỏ, nghi corrupt	package too small, likely corrupt	包过小，可能已损坏
+apply gói thất bại	applying the package failed	应用更新包失败
+Gói cập nhật rỗng sau giải nén. Sẽ thử lại bằng bản đầy đủ.	Update package empty after extraction. Retrying with the full build.	更新包解压后为空，将改用完整版重试。
+Gói cập nhật không nguyên vẹn (file 	Update package incomplete (file 	更新包不完整（文件 
+). Sẽ thử lại bằng bản đầy đủ.	). Retrying with the full build.	）。将改用完整版重试。
+Gói cập nhật không khớp manifest. Sẽ thử lại bằng bản đầy đủ.	Update package does not match the manifest. Retrying with the full build.	更新包与清单不符，将改用完整版重试。
+Chép file cập nhật thất bại.	Copying update files failed.	复制更新文件失败。
+File sau cập nhật không hợp lệ: 	Invalid file after update: 	更新后的文件无效： 
+File thực thi sau cập nhật không hợp lệ.	Invalid executable after update.	更新后的可执行文件无效。
+Giải nén bản cập nhật thất bại (unzip & 7zzs đều lỗi). Log:\n	Extracting the update failed (unzip and 7zzs both failed). Log:\n	解压更新失败（unzip 和 7zzs 均出错）。日志：\n
+Chép file cập nhật thất bại. Có thể thẻ nhớ đầy hoặc permission bị chặn.	Copying update files failed. The card may be full or permission denied.	复制更新文件失败。存储卡可能已满或权限被拒。
+Đang tải gói hỗ trợ phát video (mpv, codecs)...	Downloading the video playback pack (mpv, codecs)...	正在下载视频播放组件（mpv、解码器）...
+Đang giải nén và thiết lập trình phát video...	Extracting and setting up the video player...	正在解压并设置视频播放器...
+Tải gói RC-Web thất bại. Kiểm tra kết nối mạng!	RC-Web download failed. Check the network!	RC-Web 下载失败，请检查网络！
+Gói RC-Web tải về quá nhỏ hoặc không hợp lệ.	Downloaded RC-Web package is too small or invalid.	下载的 RC-Web 包过小或无效。
+Thẻ nhớ không đủ dung lượng cho RC-Web (cần 	Not enough card space for RC-Web (need 	存储卡空间不足以安装 RC-Web（需要 
+Đang cài trình duyệt RC-Web (giữ lịch sử web)...	Installing RC-Web browser (keeping web history)...	正在安装 RC-Web 浏览器（保留浏览记录）...
+Cài đặt RC-Web thất bại.	RC-Web installation failed.	RC-Web 安装失败。
+Cập nhật RC-Web thành công! Vui lòng khởi động lại.	RC-Web updated! Please restart.	RC-Web 更新成功！请重新启动。
+Giải nén gói RC-Web thất bại (thiếu electron/launch.sh). Log:\n	Extracting RC-Web failed (electron/launch.sh missing). Log:\n	解压 RC-Web 失败（缺少 electron/launch.sh）。日志：\n
+Không thể dời thư mục RC-Web cũ (có thể đang bận). Thử khởi động lại máy rồi cập nhật lại.	Cannot move the old RC-Web folder (may be busy). Restart the device and update again.	无法移动旧的 RC-Web 文件夹（可能正被占用）。请重启设备后再更新。
+Không thể đưa bản RC-Web mới vào vị trí. Đã giữ nguyên bản cũ.	Cannot put the new RC-Web in place. Kept the old one.	无法安装新的 RC-Web，已保留旧版本。
+Bản RC-Web mới không hợp lệ (thiếu electron/version.txt). Đã giữ nguyên bản cũ.	New RC-Web is invalid (electron/version.txt missing). Kept the old one.	新的 RC-Web 无效（缺少 electron/version.txt），已保留旧版本。
+Nhận diện qua đuôi file độc quyền .	Identified by the unique file extension .	通过专属文件扩展名识别 .
+Set FBNeo đã biết (Neo Geo): 	Known FBNeo set (Neo Geo): 	已知 FBNeo 套装（Neo Geo）： 
+Set FBNeo đã biết: 	Known FBNeo set: 	已知 FBNeo 套装： 
+Ruột file khớp set Neo Geo '	File contents match Neo Geo set '	文件内容匹配 Neo Geo 套装 '
+ ROM) dù tên file khác	 ROMs) despite a different file name	 个 ROM），尽管文件名不同
+Ruột file khớp set FBNeo '	File contents match FBNeo set '	文件内容匹配 FBNeo 套装 '
+Khớp ROM Neo Geo: 	Matches Neo Geo ROM: 	匹配 Neo Geo ROM： 
+Khớp ROM Arcade/MAME: 	Matches Arcade/MAME ROM: 	匹配街机/MAME ROM： 
+Bên trong file zip chứa ROM: 	The zip contains ROM: 	zip 内含 ROM： 
+File zip chứa tập lệnh chip ROM Arcade/NeoGeo (	Zip contains Arcade/NeoGeo chip ROMs (	zip 内含街机/NeoGeo 芯片 ROM（
+Header chuẩn iNES (NES / Famicom)	Standard iNES header (NES / Famicom)	标准 iNES 文件头（NES / Famicom）
+Header chuẩn Nintendo 64 (Big Endian)	Standard Nintendo 64 header (Big Endian)	标准 Nintendo 64 文件头（大端）
+Header chuẩn Nintendo 64 (Byte-swapped)	Standard Nintendo 64 header (Byte-swapped)	标准 Nintendo 64 文件头（字节交换）
+Header chuẩn Nintendo 64 (Little Endian)	Standard Nintendo 64 header (Little Endian)	标准 Nintendo 64 文件头（小端）
+Logo phần cứng Nintendo Game Boy Advance	Nintendo Game Boy Advance hardware logo	Nintendo Game Boy Advance 硬件标志
+Header Game Boy kinh điển (DMG)	Classic Game Boy header (DMG)	经典 Game Boy 文件头（DMG）
+Chữ ký hệ thống Sega Mega Drive / Genesis	Sega Mega Drive / Genesis system signature	Sega Mega Drive / Genesis 系统签名
+Internal Header & Checksum SNES / SFC hợp lệ	Valid SNES / SFC internal header & checksum	有效的 SNES / SFC 内部文件头和校验和
+Định dạng đĩa ISO9660 PlayStation 1	PlayStation 1 ISO9660 disc format	PlayStation 1 ISO9660 光盘格式
+Định dạng nén CISO PlayStation Portable (PSP)	PlayStation Portable (PSP) CISO compressed format	PlayStation Portable（PSP）CISO 压缩格式
+Chữ ký bảo mật Sega Dreamcast (KATANA)	Sega Dreamcast security signature (KATANA)	Sega Dreamcast 安全签名（KATANA）
+Chữ ký bảo mật Sega Saturn	Sega Saturn security signature	Sega Saturn 安全签名
+Khớp tên game Arcade trong từ điển MAME: 	Matches an Arcade game name in the MAME list: 	匹配 MAME 列表中的街机游戏名： 
+Set chuẩn FBNeo đời mới (core FBA 2012 không ăn) -> về FBNEO	Modern FBNeo set (FBA 2012 core can't run it) -> FBNEO	新版 FBNeo 套装（FBA 2012 核心无法运行）-> 归入 FBNEO
+Không nhận diện được hệ máy (giữ nguyên, không di chuyển)	System not recognised (kept in place, not moved)	无法识别平台（保持原位，不移动）
+Nằm ở thư mục gốc Roms, chưa đưa vào Emulator: 	In the Roms root folder, not in an emulator folder yet: 	位于 Roms 根目录，尚未放入模拟器文件夹： 
+Nằm trong Hộp tiếp nhận _INBOX: 	In the _INBOX folder: 	位于 _INBOX 收件箱： 
+Lỗi: Không tìm thấy hệ máy đích 	Error: target system not found 	错误：找不到目标平台 
+Lỗi: Không thể di chuyển file 	Error: cannot move file 	错误：无法移动文件 
+Đã chuyển thành công từ 	Moved successfully from 	已成功从 
+Đã đưa vào 	Moved into 	已放入 
+Lỗi di chuyển file	Error moving the file	移动文件出错
+Không chuyển được: 	Could not move: 	无法移动： 
+Đồng hồ lật	Flip clock	翻页时钟
+Thẻ lật kiểu Fliqlo	Fliqlo-style flip cards	Fliqlo 风格翻页
+Đồng hồ chữ tiếng Việt	Word clock	文字时钟
+Sao bay về phía bạn	Starfield	星空穿梭
+Chữ rơi kiểu Matrix	Matrix rain	黑客帝国字符雨
+Ảnh slideshow	Photo slideshow	照片幻灯片
+CHƯA CÓ HÌNH ẢNH NÀO	NO PHOTOS YET	还没有照片
+Vui lòng sao chép ảnh (.jpg, .png) vào thư mục:	Please copy photos (.jpg, .png) to the folder:	请将照片（.jpg、.png）复制到文件夹：
+Nhấn SELECT để mở menu Cài đặt & Quản lý danh sách ảnh	Press SELECT for settings & photo list	按 SELECT 打开设置和照片列表
+Đổi chế độ	Change mode	切换模式
+DANH SÁCH HÌNH ẢNH (SLIDESHOW)	PHOTO LIST (SLIDESHOW)	照片列表（幻灯片）
+Không tìm thấy tệp ảnh nào trong thư mục!	No photo files found in the folder!	文件夹中没有找到照片！
+Đang chọn %d / %d ảnh  •  %d hiển thị, %d đã ẩn	Selected %d / %d photos  •  %d shown, %d hidden	已选 %d / %d 张  •  显示 %d，隐藏 %d
+Chọn / bỏ chọn	Select / unselect	选择/取消
+CÀI ĐẶT TRÌNH CHIẾU ẢNH	SLIDESHOW SETTINGS	幻灯片设置
+Mờ dần (Crossfade)	Crossfade	交叉淡化
+Mờ qua đen	Fade through black	黑场过渡
+Mờ qua trắng	Fade through white	白场过渡
+Trượt sang trái	Slide left	向左滑动
+Trượt sang phải	Slide right	向右滑动
+Trượt lên trên	Slide up	向上滑动
+Trượt xuống dưới	Slide down	向下滑动
+Quét sang trái	Wipe left	向左擦除
+Quét sang phải	Wipe right	向右擦除
+Quét lên trên	Wipe up	向上擦除
+Quét xuống dưới	Wipe down	向下擦除
+Rèm mở ngang	Horizontal curtain	水平拉幕
+Rèm mở dọc	Vertical curtain	垂直拉幕
+Màn trập mở	Shutter open	百叶窗打开
+Màn trập đóng	Shutter close	百叶窗关闭
+Phóng to dần	Zoom in	逐渐放大
+Thu nhỏ dần	Zoom out	逐渐缩小
+Mở rộng khung	Expand frame	展开画框
+Thu hẹp khung	Shrink frame	收缩画框
+Vòng tròn mở	Circle open	圆形展开
+Vòng tròn khép	Circle close	圆形收拢
+Bay lướt góc	Corner fly-in	角落飞入
+Điểm ảnh vỡ (Pixelate)	Pixelate	像素化
+Bàn cờ caro	Checkerboard	棋盘格
+Thời gian mỗi ảnh	Time per photo	每张照片时长
+Hiệu ứng chuyển cảnh	Transition effect	转场效果
+Thứ tự trình chiếu	Slideshow order	播放顺序
+Quản lý danh sách ảnh	Manage photo list	管理照片列表
+Đóng cài đặt	Close settings	关闭设置
+←  %.0f giây  →	←  %.0f s  →	←  %.0f 秒  →
+%.0f giây	%.0f s	%.0f 秒
+Ngẫu nhiên (Tất cả)	Random (all)	随机（全部）
+Ngẫu nhiên (Shuffle)	Shuffle	随机播放
+Theo thứ tự (Tuần tự)	In order	按顺序
+%d / %d ảnh  [Nhấn A]	%d / %d photos  [Press A]	%d / %d 张  [按 A]
+%d / %d ảnh	%d / %d photos	%d / %d 张
+Nhấn A hoặc B	Press A or B	按 A 或 B
+Chọn mục / Đổi giá trị	Select item / Change value	选择项目/更改数值
+Thay đổi	Change	更改
+Ẩn footer	Hide footer	隐藏底栏
+Ảnh trước / sau	Previous / next photo	上一张/下一张
+Ẩn ảnh này	Hide this photo	隐藏此照片
+OneDrive share không truy cập được. Kiểm tra quyền Anyone with the link.	The OneDrive share is not accessible. Check the "Anyone with the link" permission.	无法访问 OneDrive 共享，请检查"任何拥有链接的人"权限。
+Kho hiện tại là thư mục công khai (chỉ đọc).\nCần liên kết Drive cá nhân trong Cài đặt hoặc Web để sao lưu.	The current library is a public folder (read only).\nLink your own Drive in Settings or on the web to back up.	当前库是公开文件夹（只读）。\n请在设置或网页中关联个人 Drive 以备份。
+Phiên đăng nhập Google đã hết hạn. Vào mục Đồng bộ & Thẻ nhớ, đăng nhập lại rồi sao lưu tiếp.	Your Google session has expired. Go to Sync & Card, sign in again and continue the backup.	Google 登录已过期。请进入"同步与存储卡"重新登录后继续备份。
+Chưa có game nào trên thẻ để sao lưu.	No games on the card to back up.	存储卡上没有可备份的游戏。
+Game đã chọn không còn trên thẻ nhớ.	The selected game is no longer on the card.	所选游戏已不在存储卡上。
+Hoàn tất: 	Done: 	完成： 
+ thành công, 	 succeeded, 	 成功， 
+ thất bại	 failed	 失败
+Không mở được file trên thẻ: 	Cannot open the file on the card: 	无法打开存储卡上的文件： 
+File rỗng, không sao lưu được: 	Empty file, cannot back up: 	文件为空，无法备份： 
+Không khởi tạo được kết nối mạng.	Cannot start a network connection.	无法建立网络连接。
+Google từ chối token đăng nhập (đã hết hạn). Đăng nhập lại rồi sao lưu tiếp.	Google rejected the sign-in token (expired). Sign in again and continue the backup.	Google 拒绝了登录令牌（已过期）。请重新登录后继续备份。
+Google từ chối sao lưu 	Google refused to back up 	Google 拒绝备份 
+ (mã lỗi 	 (error code 	 （错误代码 
+Không kết nối được Google Drive. Kiểm tra mạng rồi thử lại.	Cannot connect to Google Drive. Check the network and try again.	无法连接 Google Drive，请检查网络后重试。
+Mất kết nối khi đang sao lưu 	Connection lost while backing up 	备份时连接中断 
+Phiên đăng nhập Google đã hết hạn. Đăng nhập lại rồi sao lưu tiếp.	Your Google session has expired. Sign in again and continue the backup.	Google 登录已过期，请重新登录后继续备份。
+Không tạo được thư mục đích trên Drive cho hệ 	Cannot create the Drive folder for system 	无法在 Drive 上为平台创建文件夹 
+. Kiểm tra mạng rồi thử lại.	. Check the network and try again.	。请检查网络后重试。
+Không thấy game trên thẻ nhớ: 	Game not found on the card: 	存储卡上找不到游戏： 
+Không tạo được thư mục game trên Drive: 	Cannot create the game folder on Drive: 	无法在 Drive 上创建游戏文件夹： 
+Không mở được thư mục game trên thẻ: 	Cannot open the game folder on the card: 	无法打开存储卡上的游戏文件夹： 
+Thư mục game không có file nào để sao lưu: 	The game folder has no files to back up: 	游戏文件夹中没有可备份的文件： 
+Trò chơi kinh điển trên hệ máy 	Classic game for 	经典游戏，平台： 
+Trò chơi thuộc hệ máy 	Game for 	游戏平台： 
+Bắt đầu tự động cào thông tin cho 	Starting automatic scraping for 	开始自动抓取信息： 
+Đang cào: 	Scraping: 	正在抓取： 
+Hoàn tất cào 	Scraping done: 	抓取完成： 
+ game trên thẻ SD!	 games on the SD card!	 个 SD 卡游戏！
+Đang quét: 	Scanning: 	正在扫描： 
+Hệ máy 	System 	平台 
+Đã lưu: 	Saved: 	已保存： 
+ (Mới: 	 (New: 	 （新增： 
+Hệ máy: 	System: 	平台： 
+Đang gửi...	Sending...	正在发送...
+Hoàn thành	Done	完成
+Thất bại	Failed	失败
+Đang đàm phán...	Negotiating...	正在协商...
+Chờ gửi...	Waiting to send...	等待发送...
+GỬI	SEND	发送
+Đang nhận...	Receiving...	正在接收...
+Bị từ chối	Declined	已被拒绝
+Chờ duyệt	Awaiting approval	等待确认
+Đã chấp nhận	Accepted	已接受
+NHẬN	RECEIVE	接收
+Đích: 	To: 	目标： 
+Nguồn: 	From: 	来源： 
+TRUYỀN FILE	FILE TRANSFERS	文件传输
+Chưa có tác vụ truyền file nào.	No file transfers yet.	暂无文件传输任务。
+Chọn ROM để gửi, hoặc chờ thiết bị khác gửi file đến.	Pick a ROM to send, or wait for another device to send a file.	选择要发送的 ROM，或等待其他设备发送文件。
+Chọn tác vụ	Select task	选择任务
+Xóa đã xong/lỗi	Clear finished/failed	清除已完成/失败
+[A] Xác nhận	[A] Confirm	[A] 确认
+[B] Hủy	[B] Cancel	[B] 取消
+Sao chép?	Copy?	复制？
+Chuyển đi?	Move?	移动？
+Bung tới đây?	Extract here?	解压到这里？
+Đã chọn mục lưu: 	Save location set: 	已选择保存位置： 
+(Tự động)	(Automatic)	（自动）
+CHỌN THƯ MỤC SAO CHÉP TỚI	CHOOSE A FOLDER TO COPY TO	选择复制目标文件夹
+CHỌN THƯ MỤC CHUYỂN TỚI	CHOOSE A FOLDER TO MOVE TO	选择移动目标文件夹
+Chỉ dời được ROM đã có trên thẻ.	Only ROMs already on the card can be moved.	只能移动已在存储卡上的 ROM。
+Đang sắp xếp, vui lòng chờ...	Sorting, please wait...	正在整理，请稍候...
+Không còn hệ máy nào để chuyển.	No other system to move to.	没有其他可移动到的平台。
+Chuyển đi	Move	移动
+Bung tại đây	Extract here	解压到此处
+Bung tới thư mục...	Extract to folder...	解压到文件夹...
+Bung tại đây?	Extract here?	解压到此处？
+-> thư mục hiện tại	-> current folder	-> 当前文件夹
+CHỌN THƯ MỤC BUNG FILE	CHOOSE A FOLDER TO EXTRACT TO	选择解压目标文件夹
+Chuyển hệ giả lập	Change emulator system	更换模拟器平台
+Kiểm tra ROM	Check ROM	检查 ROM
+Chi tiết file	File details	文件详情
+Xóa ROM	Delete ROM	删除 ROM
+Không có emulator cho hệ 	No emulator for system 	该平台没有模拟器： 
+Game chưa có trên thẻ nhớ.	The game is not on the card yet.	游戏尚未在存储卡上。
+Chỉ kiểm tra được ROM đã có trên thẻ.	Only ROMs on the card can be checked.	只能检查存储卡上的 ROM。
+Đang kiểm tra 	Checking 	正在检查 
+ROM đúng hệ 	ROM is in the right system 	ROM 平台正确： 
+Không nhận diện được hệ máy, giữ nguyên.	System not recognised, left as is.	无法识别平台，保持不变。
+ROM này thuộc hệ 	This ROM belongs to 	此 ROM 属于 
+ (chưa có trên máy).	 (not on this device).	 （本机没有该平台）。
+Chỉ xem được ROM đã có trên thẻ.	Only ROMs on the card can be viewed.	只能查看存储卡上的 ROM。
+Không phải set arcade đã biết (không có trong DAT).	Not a known arcade set (not in the DAT).	不是已知的街机套装（DAT 中没有）。
+Dung lượng: 	Size: 	大小： 
+ mục)	 items)	 项）
+[THIẾU] 	[MISSING] 	[缺失] 
+ (muốn 	 (wanted 	 （需要 
+ (có 	 (have 	 （现有 
+, muốn 	, wanted 	，需要 
+[THỪA] 	[EXTRA] 	[多余] 
+Tổng: 	Total: 	合计： 
+ đúng, 	 correct, 	 正确， 
+ thiếu, 	 missing, 	 缺失， 
+ thừa.	 extra.	 多余。
+Kết luận: chuẩn FBNeo (core mới ăn được).	Verdict: proper FBNeo set (newer cores run it).	结论：标准 FBNeo 套装（新核心可运行）。
+Kết luận: dump kiểu MAME (chỉ core MAME ăn).	Verdict: MAME-style dump (only MAME cores run it).	结论：MAME 式转储（仅 MAME 核心可运行）。
+Kết luận: không đủ chứng cứ.	Verdict: not enough evidence.	结论：证据不足。
+Không mở được file!	Cannot open the file!	无法打开文件！
+(File trống)	(Empty file)	（空文件）
+XÁC NHẬN	CONFIRM	确认
+HỦY	CANCEL	取消
+CHỌN	SELECT	选择
+THOÁT	EXIT	退出
+CHUYỂN ĐI	MOVE	移动
+XÓA	DELETE	删除
+THƯ MỤC MỚI	NEW FOLDER	新建文件夹
+A Chọn  •  B Đóng	A Select  •  B Close	A 选择  •  B 关闭
+CHỌN HỆ MÁY ĐÍCH	CHOOSE TARGET SYSTEM	选择目标平台
+Lùi	Back	返回
+Cuộn	Scroll	滚动
+SAI MẬT KHẨU - NHẬP LẠI	WRONG PASSWORD - TRY AGAIN	密码错误 - 请重新输入
+MẬT KHẨU FILE NÉN	ARCHIVE PASSWORD	压缩文件密码
+TẠO THƯ MỤC MỚI	CREATE NEW FOLDER	新建文件夹
+ĐỔI TÊN	RENAME	重命名
+Nhập mật khẩu rồi bấm START...	Enter the password and press START...	输入密码后按 START...
+Nhập tên thư mục mới...	Enter a new folder name...	输入新文件夹名称...
+Nhập tên mới...	Enter a new name...	输入新名称...
+BUNG VÀO THƯ MỤC	EXTRACT INTO FOLDER	解压到文件夹
+VỊ TRÍ THƯ MỤC	FOLDER LOCATION	文件夹位置
+Telex: Bật	Telex: On	Telex：开
+Telex: Tắt	Telex: Off	Telex：关
+Đang xử lý file...	Processing the file...	正在处理文件...
+File nén có mật khẩu	Password-protected archive	压缩文件有密码
+Chưa có lịch sử — gõ từ khóa mới bên dưới.	No history yet — type a new keyword below.	暂无历史记录 — 请在下方输入新关键词。
+TÌM KIẾM	SEARCH	搜索
+Nhập từ khóa...	Enter a keyword...	输入关键词...
+Âm nhạc	Music	音乐
+Trực tiếp	Live	直播
+Nấu ăn	Cooking	烹饪
+Nông nghiệp	Farming	农业
+Điểm đến du lịch	Travel spots	旅游目的地
+Bóng đá	Football	足球
+Mới tải lên gần đây	Recently uploaded	最近上传
+Đã xem	Watched	已观看
+Đề xuất mới	New suggestions	新推荐
+THƯ VIỆN	LIBRARY	游戏库
+Danh sách ROM	ROM list	ROM 列表
+Kênh TV online	Online TV channels	在线电视频道
+Tay cầm Bluetooth cho TV & PC	Bluetooth gamepad for TV & PC	用于电视和电脑的蓝牙手柄
+Thời tiết & Lịch	Weather & Calendar	天气与日历
+Web Chrome ngoài + portal	External Chrome web + portal	外部 Chrome 网页 + 门户
+Chia sẻ P2P trong LAN	P2P sharing over LAN	局域网 P2P 共享
+HÌNH NỀN	WALLPAPER	壁纸
+Hình nền & Giao diện	Wallpaper & Theme	壁纸与外观
+CÀI ĐẶT	SETTINGS	设置
+Cấu hình	Configuration	配置
+Phát hiện thiếu file, tự tải bổ sung...	Missing files found, downloading them...	发现缺少文件，正在自动补全...
+Đã tự sửa xong! Khởi động lại...	Repaired! Restarting...	修复完成！正在重启...
+Tự sửa thất bại. Vào Cập nhật thử lại.	Self-repair failed. Try again from Update.	自动修复失败，请到"更新"中重试。
+Đang chơi game, đã từ chối nhận file	A game is running, incoming file declined	正在游戏中，已拒绝接收文件
+Chưa cài RC-Web (xem chrome/README)...	RC-Web is not installed (see chrome/README)...	未安装 RC-Web（见 chrome/README）...
+Đã chuẩn hóa tên 	Names normalised: 	已规范名称： 
+Đã liên kết Drive! Đang đồng bộ...	Drive linked! Syncing...	Drive 已关联！正在同步...
+Tải thất bại: 	Download failed: 	下载失败： 
+Đồng bộ hoàn tất: Đã lưu 	Sync complete: saved 	同步完成：已保存 
+ game vào thư viện!	 games to the library!	 个游戏到游戏库！
+Lỗi đồng bộ Google Drive	Google Drive sync error	Google Drive 同步错误
+Không tìm thấy video nào	No videos found	未找到视频
+Tìm kiếm bị kẹt, thử lại	Search got stuck, try again	搜索卡住了，请重试
+Kênh chưa có video nào tải được	The channel has no loadable videos	该频道没有可加载的视频
+Không có 	No 	没有 
+p cho video này, thử nấc khác.	p for this video, try another quality.	p 画质，请换一个画质。
+Đang tải video 	Loading video 	正在加载视频 
+Link nhanh lỗi, đang thử link dự phòng...	Fast link failed, trying the backup link...	快速链接出错，正在尝试备用链接...
+Tự phát tiếp...	Autoplaying next...	自动播放下一个...
+Video lỗi liên tiếp, đã dừng tự phát (bấm A thử lại)	Repeated video errors, autoplay stopped (press A to retry)	视频连续出错，已停止自动播放（按 A 重试）
+Không phát được video (bấm A thử lại)	Cannot play the video (press A to retry)	无法播放视频（按 A 重试）
+Không thể lấy link phát video	Cannot get the video stream link	无法获取视频播放链接
+Đang tải video... 	Loading video... 	正在加载视频... 
+Bấm B thêm 1 lần nữa để thoát app	Press B once more to exit	再按一次 B 退出
+THẺ NHỚ	SD CARD	存储卡
+Đang kiểm tra ROM lạc trong 	Checking misplaced ROMs in 	正在检查放错位置的 ROM： 
+Đã sửa 	Fixed 	已修正 
+ ROM lạc chỗ.	 misplaced ROMs.	 个放错位置的 ROM。
+Không phát hiện ROM lạc trong thư mục này.	No misplaced ROMs in this folder.	此文件夹中没有放错位置的 ROM。
+ file không nhận diện được, giữ nguyên)	 files not recognised, left as is)	 个文件无法识别，保持不变）
+Lọc: Đã tải về thẻ	Filter: on the card	筛选：已下载到存储卡
+Lọc: Đã sao lưu	Filter: backed up	筛选：已备份
+Lọc: Chưa tải về thẻ	Filter: not on the card	筛选：未下载到存储卡
+Lọc: Chưa sao lưu	Filter: not backed up	筛选：未备份
+Đã bỏ chọn: 	Unselected: 	已取消选择： 
+Đã chọn: 	Selected: 	已选择： 
+ game vào hàng tải!	 games to the download queue!	 个游戏到下载队列！
+Không có game nào được thêm (đã tải hoặc đang chờ)	No games added (already downloaded or queued)	没有添加游戏（已下载或已在队列中）
+Bắt đầu sao lưu 	Starting backup 	开始备份 
+ game lên Drive...	 games to Drive...	 个游戏到 Drive...
+Các game đã chọn đều đã có trên Google Drive	All selected games are already on Google Drive	所选游戏都已在 Google Drive 上
+Game đã có sẵn trên thẻ nhớ.	The game is already on the card.	游戏已在存储卡上。
+" đã có trong hàng đợi tải.	" is already in the download queue.	" 已在下载队列中。
+Chuyển đến vần chữ: [ 	Jump to letter: [ 	跳到字母：[ 
+Đã xóa "	Deleted "	已删除 "
+" khỏi thẻ nhớ.	" from the card.	"（已从存储卡移除）。
+✔ Đã đổi Web Portal: 	✔ Web Portal changed: 	✔ 已更改 Web 门户： 
+Đang dọn dẹp bộ nhớ đệm...	Clearing the cache...	正在清理缓存...
+✔ Đã giải phóng 	✔ Freed 	✔ 已释放 
+ bộ nhớ đệm!	 of cache!	 缓存！
+Đã tắt báo lỗi tự động	Automatic error reports off	已关闭自动错误报告
+Đã bật báo lỗi tự động	Automatic error reports on	已开启自动错误报告
+Đang gửi, vui lòng chờ...	Sending, please wait...	正在发送，请稍候...
+Đang gửi báo cáo lỗi...	Sending the error report...	正在发送错误报告...
+Đã gửi báo cáo lỗi!	Error report sent!	错误报告已发送！
+Gửi thất bại. Kiểm tra mạng.	Sending failed. Check the network.	发送失败，请检查网络。
+Đang kiểm tra kết nối mạng Wi-Fi...	Checking the Wi-Fi connection...	正在检查 Wi-Fi 连接...
+Đang quét và sắp xếp ROM...	Scanning and sorting ROMs...	正在扫描并整理 ROM...
+Đã sắp xếp xong: 	Sorting done: 	整理完成： 
+ thư mục, 	 folders, 	 个文件夹， 
+ file đã chuyển	 files moved	 个文件已移动
+ file không nhận diện được)	 files not recognised)	 个文件无法识别）
+ — có 	 — with 	 — 有 
+ lỗi	 errors	 个错误
+Đang kiểm tra bản mới...	Checking for a new version...	正在检查新版本...
+Đang mở: 	Opening: 	正在打开： 
+ kênh)...	 channels)...	 个频道）...
+Đang tải lại URL: 	Reloading URL: 	正在重新加载 URL： 
+Cập nhật thành công! (	Updated! (	更新成功！（
+Cập nhật thất bại: 	Update failed: 	更新失败： 
+Đã tắt tự động refresh	Auto refresh off	已关闭自动刷新
+Tự động refresh mỗi 	Auto refresh every 	每隔 
+ giờ	 hours	 小时自动刷新
+Đang kết nối: 	Connecting: 	正在连接： 
+Không thể phát video (Lỗi kết nối hoặc player)	Cannot play the video (connection or player error)	无法播放视频（连接或播放器错误）
+Đang đo lại kết nối các kênh...	Re-testing channel connections...	正在重新测试频道连接...
+Đang hiển thị tất cả kênh	Showing all channels	正在显示全部频道
+☆ Đã xóa khỏi yêu thích: 	☆ Removed from favourites: 	☆ 已从收藏移除： 
+★ Đã thêm vào yêu thích: 	★ Added to favourites: 	★ 已添加到收藏： 
+★ Đang lọc: Kênh Yêu Thích	★ Filter: favourite channels	★ 筛选：收藏频道
+Đang lọc: Tất cả kênh	Filter: all channels	筛选：全部频道
+Đã đến trang cuối (2/2)	Last page reached (2/2)	已到最后一页 (2/2)
+Đã đến trang cuối	Last page reached	已到最后一页
+Video mới nhất của 	Latest videos from 	最新视频： 
+Đang tải trang tiếp theo...	Loading the next page...	正在加载下一页...
+Đang quét thiết bị...	Scanning for devices...	正在扫描设备...
+Đã refresh ROMs	ROMs refreshed	ROM 已刷新
+Thẻ đầy: cần 	Card full: need 	存储卡已满：需要 
+, trống 	, free 	，剩余 
+Đã chấp nhận: 	Accepted: 	已接受： 
+Đã từ chối	Declined	已拒绝
+Emulator thoát ngay: core hệ này hỏng (0 byte), thử hệ khác	The emulator quit at once: this system's core is broken (0 bytes), try another system	模拟器立即退出：该平台核心损坏（0 字节），请换一个平台
+Đã refresh	Refreshed	已刷新
+Chưa chọn thiết bị đích	No target device selected	未选择目标设备
+File không tồn tại	File does not exist	文件不存在
+Gửi thất bại (mạng?)	Sending failed (network?)	发送失败（网络？）
+Đang gửi: 	Sending: 	正在发送： 
+Đã xóa các tác vụ đã xong/lỗi	Cleared finished/failed tasks	已清除已完成/失败的任务
+Tải về	Download	下载
+Tải lên	Upload	上传
+Hủy chọn	Unselect	取消选择
+Chọn/Bỏ	Select/Unselect	选择/取消
+Đồng bộ	Sync	同步
+Quét thẻ	Scan card	扫描存储卡
+Tải	Download	下载
+Nhảy chữ	Jump letter	按字母跳转
+Chọn nhiều	Multi-select	多选
+Lọc	Filter	筛选
+Tải / Chơi	Download / Play	下载/游玩
+Chuyển	Move	移动
+Đồng ý	Accept	同意
+Từ chối	Decline	拒绝
+Vào	Open	进入
+Sửa ROM	Fix ROMs	修复 ROM
+Đổi Tab	Switch tab	切换标签
+THƯ VIỆN GAME	GAME LIBRARY	游戏库
+ game trên thẻ	 games on the card	 个游戏在存储卡上
+Chọn hệ máy để xem ROM trên Google Drive	Choose a system to see its ROMs on Google Drive	选择平台以查看 Google Drive 上的 ROM
+Chọn hệ máy để xem ROM trên thẻ nhớ SD	Choose a system to see its ROMs on the SD card	选择平台以查看 SD 卡上的 ROM
+ trên thẻ	 on the card	 在存储卡上
+ trên Drive	 on Drive	 在 Drive 上
+DANH SÁCH GAME	GAME LIST	游戏列表
+Chưa liên kết Google Drive	Google Drive not linked	尚未关联 Google Drive
+Vào Cài đặt để quét mã QR liên kết tài khoản Drive.	Open Settings and scan the QR code to link a Drive account.	请进入设置扫描二维码关联 Drive 账户。
+[B] Lùi  •  [L1/R1] Xem Thẻ	[B] Back  •  [L1/R1] View card	[B] 返回  •  [L1/R1] 查看存储卡
+Đang đồng bộ Google Drive...	Syncing Google Drive...	正在同步 Google Drive...
+Vui lòng đợi trong giây lát, danh sách sẽ tự cập nhật.	Please wait a moment, the list updates by itself.	请稍候，列表会自动更新。
+Đang đồng bộ...	Syncing...	正在同步...
+Chưa có dữ liệu ROM trên Drive	No ROM data on Drive yet	Drive 上还没有 ROM 数据
+Bấm [Y] để bắt đầu Đồng bộ thư viện Google Drive	Press [Y] to sync the Google Drive library	按 [Y] 开始同步 Google Drive 游戏库
+[Y] Đồng bộ ngay	[Y] Sync now	[Y] 立即同步
+Không có ROM nào trên thẻ nhớ	No ROMs on the card	存储卡上没有 ROM
+Thư mục: /Roms/	Folder: /Roms/	文件夹：/Roms/
+[Y] Quét lại thẻ nhớ	[Y] Rescan the card	[Y] 重新扫描存储卡
+ĐÃ SAO LƯU	BACKED UP	已备份
+CHƯA SAO LƯU	NOT BACKED UP	未备份
+TRÊN DRIVE	ON DRIVE	在 DRIVE 上
+ đã chọn	 selected	 已选
+⚠ Cảnh báo: Thẻ nhớ sắp đầy (	⚠ Warning: the card is almost full (	⚠ 警告：存储卡快满了（
+% trống)	% free)	% 剩余）
+Chưa sao lưu	Not backed up	未备份
+[A] Tùy chọn	[A] Options	[A] 选项
+[A] Tải về thẻ nhớ	[A] Download to card	[A] 下载到存储卡
+Chưa có game được chọn	No game selected	未选择游戏
+Không tìm thấy ROM cần dời.	The ROM to move was not found.	找不到要移动的 ROM。
+Hệ hiện tại: 	Current system: 	当前平台： 
+Chuyển ROM sang hệ khác?	Move the ROM to another system?	将 ROM 移到其他平台？
+Không dời được file!	Cannot move the file!	无法移动文件！
+Đã dời file nhưng lỗi DB, hãy quét lại thẻ.	File moved but the database failed, rescan the card.	文件已移动但数据库出错，请重新扫描存储卡。
+Đã dời "	Moved "	已移动 "
+Bạn muốn xóa 	Delete 	确定从存储卡删除 
+ game khỏi thẻ nhớ?	 games from the card?	 个游戏？
+Tổng dung lượng: 	Total size: 	总大小： 
+Đã xóa 	Deleted 	已删除 
+ game khỏi thẻ nhớ.	 games from the card.	 个游戏（已从存储卡删除）。
+0 B (Đã tối ưu)	0 B (optimised)	0 B（已优化）
+Đang kiểm tra ping...	Checking ping...	正在检测延迟...
+Không có kết nối Wi-Fi	No Wi-Fi connection	没有 Wi-Fi 连接
+Lỗi socket mạng	Network socket error	网络套接字错误
+Rất tốt	Excellent	非常好
+Tốt	Good	良好
+Bình thường	Normal	一般
+Chậm	Slow	较慢
+Mất kết nối Internet • 	No Internet • 	无法连接互联网 • 
+Tính năng mới	What's new	新功能
+Tìm bản mới	Check for updates	检查新版本
+Chuyển tab	Switch tab	切换标签
+Đã nối	Connected to	已连接
+Chưa nối	Not connected	未连接
+ĐÃ NỐI THƯ MỤC TẢI GAME	GAME DOWNLOAD FOLDER LINKED	已关联游戏下载文件夹
+Phiên bản OS	OS version	系统版本
+[A] Đổi	[A] Change	[A] 更改
+Cổng Web Portal	Web Portal port	Web 门户端口
+[A] Đổi port	[A] Change port	[A] 更改端口
+Tay cầm Bluetooth	Bluetooth gamepad	蓝牙手柄
+[A] Mở	[A] Open	[A] 打开
+Dọn dẹp bộ nhớ đệm	Clear cache	清理缓存
+Chiếm dụng: 	Used: 	占用： 
+[A] Dọn dẹp	[A] Clear	[A] 清理
+[A] Xuất sao lưu	[A] Export backup	[A] 导出备份
+[A] Phục hồi	[A] Restore	[A] 恢复
+[A] Tắt	[A] Off	[A] 关闭
+Báo lỗi	Error reports	错误报告
+Gửi lỗi	Send report	发送报告
+[A] Gửi lỗi	[A] Send report	[A] 发送报告
+Kiểm tra mạng Wi-Fi	Check Wi-Fi	检查 Wi-Fi
+[A] Kiểm tra	[A] Check	[A] 检查
+Đăng nhập Google	Google sign-in	Google 登录
+Thực hiện	Run	执行
+B1: Quét mã QR hoặc vào trang sau trên điện thoại:	Step 1: Scan the QR code or open this page on your phone:	第 1 步：扫描二维码或在手机上打开以下网页：
+B2: Nhập mã đăng nhập tài khoản Google cá nhân:	Step 2: Enter this code for your Google account:	第 2 步：为您的 Google 账户输入登录代码：
+✓ Ứng dụng đã được Google xác minh thương hiệu chính thức	✓ The app's brand is verified by Google	✓ 应用品牌已通过 Google 官方验证
+Đang chờ xác nhận	Waiting for confirmation	等待确认
+A: Thử lấy mã mới	A: Get a new code	A：获取新代码
+Đang lấy mã liên kết	Getting a link code	正在获取关联代码
+A Thử lại  •  Y Web nâng cao  •  B Hủy	A Retry  •  Y Advanced web  •  B Cancel	A 重试  •  Y 高级网页  •  B 取消
+Y Về mã thiết bị  •  B Hủy	Y Back to device code  •  B Cancel	Y 返回设备代码  •  B 取消
+Nếu bạn thấy app này chất lượng và muốn ủng hộ để mình có thêm động lực tiếp tục cập nhật, nghiên cứu các tính năng hữu ích, bạn có thể ủng hộ mình bằng cách quét QR bên cạnh nhé.	If you like this app and want to support further updates and new features, you can scan the QR code next to this.	如果你觉得这个应用不错，想支持我继续更新和研究新功能，可以扫描旁边的二维码。
+Dù ủng hộ hay không, cảm ơn bạn đã ở đây và cùng nhau tạo nên những giá trị cho cộng đồng Brick Pro.	Whether you support it or not, thank you for being here and building the Brick Pro community together.	无论是否支持，都感谢你的陪伴，一起为 Brick Pro 社区创造价值。
+Chúc các bạn có những trải nghiệm thật vui vẻ!	Have fun!	祝你玩得开心！
+ thành công	 succeeded	 成功
+ game thất bại.	 games failed.	 个游戏失败。
+THẤT BẠI	FAILED	失败
+ĐÃ HỦY	CANCELLED	已取消
+Đã tải lên 	Uploaded 	已上传 
+ game trước khi hủy.	 games before cancelling.	 个游戏后取消。
+Tự cập nhật đã tắt trên bản R36S	Self-update is off on the R36S build	R36S 版本已关闭自动更新
+Gói OTA trên GitHub là bản TrimUI, sẽ ghi đè bản đã sửa cho R36S.	The OTA package on GitHub is the TrimUI build and would overwrite the R36S build.	GitHub 上的 OTA 包是 TrimUI 版本，会覆盖 R36S 修改版。
+Đang tải gói hỗ trợ phát video (mpv)...	Downloading the video playback pack (mpv)...	正在下载视频播放组件（mpv）...
+Đang cài đặt bản cập nhật...	Installing the update...	正在安装更新...
+Đang xử lý, vui lòng chờ...	Working, please wait...	正在处理，请稍候...
+Thử lại	Retry	重试
+Ngày phát hành: 	Release date: 	发布日期： 
+XEM TV - CHỌN PLAYLIST	WATCH TV - CHOOSE PLAYLIST	看电视 - 选择播放列表
+Chưa có playlist nào.	No playlists yet.	还没有播放列表。
+Tải file .m3u qua Web Server (Cổng 8888)	Upload a .m3u file via the Web Server (port 8888)	通过 Web 服务器（端口 8888）上传 .m3u 文件
+Đã làm mới: 	Refreshed: 	已刷新： 
+Đổi chu kỳ	Change interval	更改周期
+Phát/Tạm dừng	Play/Pause	播放/暂停
+Chọn kênh	Choose channel	选择频道
+ - YÊU THÍCH ★	 - FAVOURITES ★	 - 收藏 ★
+kênh	channels	个频道
+Chưa có kênh yêu thích nào.	No favourite channels yet.	还没有收藏频道。
+Bấm [X] trên danh sách kênh để đánh dấu yêu thích	Press [X] in the channel list to add a favourite	在频道列表中按 [X] 添加收藏
+Không có kênh trong nhóm "	No channels in the group "	该分组中没有频道 "
+Vui lòng tải playlist (.m3u) qua Web Server (Cổng 8888)	Please upload a playlist (.m3u) via the Web Server (port 8888)	请通过 Web 服务器（端口 8888）上传播放列表（.m3u）
+Mất kết nối	Connection lost	连接中断
+Thích	Favourite	收藏
+Tìm kênh	Find channel	搜索频道
+Nhóm	Group	分组
+TÌM KIẾM KÊNH IPTV	SEARCH IPTV CHANNELS	搜索 IPTV 频道
+Nhập tên kênh (VTV, HBO, thể thao...)	Enter a channel name (VTV, HBO, sports...)	输入频道名称（VTV、HBO、体育...）
+Nhập chữ cái trên bàn phím để tìm kiếm kênh.	Type letters on the keyboard to search channels.	在键盘上输入字母搜索频道。
+Hỗ trợ gõ tiếng Việt Telex, tìm tức thì theo tên kênh hoặc thể loại.	Supports Vietnamese Telex typing, instant search by channel name or genre.	支持越南语 Telex 输入，按频道名称或类型即时搜索。
+Không tìm thấy kênh phù hợp với từ khóa.	No channels match the keyword.	没有与关键词匹配的频道。
+Trái/Phải: tua 10s · L1/R1: tua 60s · A: dừng · B: thoát	Left/Right: seek 10s · L1/R1: seek 60s · A: pause · B: exit	左/右：快进退 10 秒 · L1/R1：60 秒 · A：暂停 · B：退出
+Chrome đã thoát	Chrome closed	Chrome 已退出
+Mở Chrome thất bại	Failed to open Chrome	打开 Chrome 失败
+Web không phản hồi, đã thoát	The web page stopped responding, closed	网页无响应，已退出
+Hết RAM, đã thoát web	Out of memory, web closed	内存不足，已退出网页
+ĐANG MỞ TRÌNH DUYỆT	OPENING THE BROWSER	正在打开浏览器
+Đang tải... %us / 30s	Loading... %us / 30s	正在加载... %us / 30s
+B: hủy	B: cancel	B：取消
+%.1fM lượt xem	%.1fM views	%.1fM 次观看
+%.1fK lượt xem	%.1fK views	%.1fK 次观看
+ lượt xem	 views	 次观看
+Tin tức 24h	24h news	24 小时新闻
+Hài sitcom	Sitcoms	情景喜剧
+Bóng đá highlights	Football highlights	足球集锦
+Phim hoạt hình	Cartoons	动画片
+Công nghệ mới	New tech	新科技
+Vui lòng nhập từ khóa tìm kiếm	Please enter a search keyword	请输入搜索关键词
+Đang tải video...	Loading video...	正在加载视频...
+Nhập từ khóa tìm kiếm video...	Enter a video search keyword...	输入视频搜索关键词...
+LỊCH SỬ TÌM KIẾM	SEARCH HISTORY	搜索历史
+Chưa có lịch sử tìm kiếm	No search history yet	暂无搜索历史
+Xóa chữ	Delete text	删除文字
+ĐANG TÌM KIẾM...	SEARCHING...	正在搜索...
+KÊNH	CHANNEL	频道
+[A] Xem video mới nhất từ kênh	[A] Latest videos from the channel	[A] 查看该频道最新视频
+Kênh YouTube	YouTube channel	YouTube 频道
+ĐANG TẢI VIDEO...	LOADING VIDEO...	正在加载视频...
+Đang kết nối luồng phát...	Connecting to the stream...	正在连接播放流...
+CHẾ ĐỘ	MODE	模式
+Đang lắng nghe...	Listening...	正在监听...
+Mở LocalSend trên máy khác và gử file tới thiết bị này.	Open LocalSend on another device and send files to this one.	在其他设备上打开 LocalSend 并向本设备发送文件。
+Đang tìm thiết bị...	Looking for devices...	正在查找设备...
+Hãy mở LocalSend trên máy khác	Open LocalSend on another device	请在其他设备上打开 LocalSend
+Hãy chắc chắn máy đích cùng mạng Wi-Fi.	Make sure the other device is on the same Wi-Fi.	请确保目标设备连接同一 Wi-Fi。
+Chọn gửi ROM	Send a ROM	选择发送 ROM
+Tìm lại	Search again	重新查找
+Chọn thư mục lưu	Choose save folder	选择保存文件夹
+CÓ FILE ĐẾN	INCOMING FILE	有文件传入
+Từ thiết bị:	From device:	来自设备：
+Kích thước: 	Size: 	大小： 
+Sẽ lưu vào:	Will be saved to:	将保存到：
+Đường dẫn: 	Path: 	路径： 
+Nhận file	Receive	接收文件
+Trống: 	Free: 	剩余： 
+Thư mục: 	Folder: 	文件夹： 
+(Thư mục trống)	(Empty folder)	（空文件夹）
+Xác nhận mục lưu	Confirm save folder	确认保存位置
+GỬI FILE ĐẾN THIẾT BỊ	SEND FILES TO A DEVICE	发送文件到设备
+Tính năng đang phát triển — CLI script sẵn:	Feature in development — CLI script available:	功能开发中 — 可使用命令行脚本：
+Chưa tìm thấy thiết bị nào	No devices found yet	尚未找到设备
+Hiện tại gửi file bằng CLI:	For now, send files with the CLI:	目前通过命令行发送文件：
+CHỌN ROM ĐỂ GỬI	CHOOSE A ROM TO SEND	选择要发送的 ROM
+Gửi tới: 	Send to: 	发送到： 
+(chưa chọn thiết bị)	(no device selected)	（未选择设备）
+Chưa có game LOCAL nào trên thẻ nhớ.	No LOCAL games on the card yet.	存储卡上还没有本地游戏。
+Bấm Y để làm mới sau khi quét ROM	Press Y to refresh after scanning ROMs	扫描 ROM 后按 Y 刷新
+Gửi file	Send file	发送文件
+Bấm A để mở	Press A to open	按 A 打开
+Mặc định: 360p (nhanh, phát ngay)	Default: 360p (fast, instant play)	默认：360p（快速，立即播放）
+Mặc định: 480p (vừa nét vừa nhẹ)	Default: 480p (balanced)	默认：480p（清晰与流畅兼顾）
+Mặc định: 720p (nét, tải ~10s)	Default: 720p (sharp, ~10s to load)	默认：720p（清晰，加载约 10 秒）
+Chế độ: Lưới 3×2	Mode: 3×2 grid	模式：3×2 网格
+Chế độ: Danh sách dọc	Mode: vertical list	模式：竖向列表
+Nhấn A để nhập từ khóa...	Press A to enter a keyword...	按 A 输入关键词...
+Tìm kiếm video...	Search videos...	搜索视频...
+Đang tải...	Loading...	正在加载...
+XEM LẠI	WATCH AGAIN	重新观看
+A: phát lại	A: replay	A：重播
+Chọn danh mục để bắt đầu xem.	Choose a category to start watching.	选择分类开始观看。
+D-pad L/R: chuyển danh mục • A/X: tìm kiếm	D-pad L/R: category • A/X: search	方向键左/右：切换分类 • A/X：搜索
+Đổi hàng	Change row	切换行
+Tìm nhanh	Quick search	快速搜索
+Danh mục	Categories	分类
+Chọn mục	Select	选择
+Xem kênh	View channel	查看频道
+Kiểu xem	View mode	查看方式
+Kênh • A để xem video mới nhất	Channel • A for the latest videos	频道 • 按 A 查看最新视频
+Đang tìm...	Searching...	正在搜索...
+Chưa xem video nào	No videos watched yet	还没有观看过视频
+Đang gợi ý theo kênh đã xem...	Suggesting from watched channels...	正在根据已看频道推荐...
+Không tải được nội dung. Kiểm tra mạng.	Cannot load content. Check the network.	无法加载内容，请检查网络。
+CHỌN THƯ MỤC NHẬN FILE	CHOOSE A FOLDER FOR RECEIVED FILES	选择接收文件的文件夹
+Chưa kiểm tra	Not checked	未检查
+CHỌN HỆ MÁY	CHOOSE SYSTEM	选择平台
+KẾT NỐI DRIVE	CONNECT DRIVE	连接 DRIVE
+ĐỒNG BỘ	SYNC	同步
+ĐANG TẢI	DOWNLOADING	正在下载
+THÔNG TIN	INFO	信息
+CẬP NHẬT	UPDATE	更新
+TẢI LÊN DRIVE	UPLOAD TO DRIVE	上传到 DRIVE
+Không có kênh TV	No TV channels	没有电视频道
+Đang tải danh sách...	Loading the list...	正在加载列表...
+Đang phát:	Now playing:	正在播放：
+VÀO	OPEN	进入
++HÀNG	+QUEUE	+队列
+QUAY LẠI	BACK	返回
+LỌC	FILTER	筛选
+CHUYỂN TRANG	CHANGE PAGE	翻页
++ HÀNG TẢI	+ DOWNLOAD QUEUE	+ 下载队列
+BỎ HÀNG	UNQUEUE	移出队列
+XÁC NHẬN XÓA	CONFIRM DELETE	确认删除
+[A] Xóa	[A] Delete	[A] 删除
+BỘ LỌC	FILTER	筛选
+Nhảy	Jump	跳转
+THẺ: 	CARD: 	存储卡： 
+Nhập ít nhất 2 ký tự...	Enter at least 2 characters...	请至少输入 2 个字符...
+Không tìm thấy.	Not found.	未找到。
+ kết quả	 results	 个结果
+◀ Lên bàn phím	◀ Back to keyboard	◀ 返回键盘
+▼ Xem kết quả	▼ See results	▼ 查看结果
+Không có game.	No games.	没有游戏。
+[SELECT] Đổi bộ lọc	[SELECT] Change filter	[SELECT] 更改筛选
+TẤT CẢ	ALL	全部
+Lọc: TẤT CẢ	Filter: ALL	筛选：全部
+Lọc: THẺ NHỚ	Filter: SD CARD	筛选：存储卡
+Lọc: CLOUD	Filter: CLOUD	筛选：云端
+THẺ	CARD	存储卡
+✓ ĐÃ TẢI	✓ DOWNLOADED	✓ 已下载
+ĐANG TẢI...	DOWNLOADING...	正在下载...
+CHỜ	WAITING	等待中
+[X] XÓA	[X] DELETE	[X] 删除
+[X] HỦY	[X] CANCEL	[X] 取消
+[X] BỎ	[X] REMOVE	[X] 移除
+[A] TẢI	[A] DOWNLOAD	[A] 下载
+Hệ máy:	System:	平台：
+Vị trí:	Location:	位置：
+Dung lượng:	Size:	大小：
+Tên file:	File name:	文件名：
+Lưu tại:	Saved at:	保存于：
+Thẻ (/Roms/	Card (/Roms/	存储卡（/Roms/
+Thẻ nhớ MicroSD	MicroSD card	MicroSD 存储卡
+Đang tải, còn 	Downloading, 	正在下载，还有 
+ game chờ.	 games waiting.	 个游戏等待。
+Hàng trống.	Queue is empty.	队列为空。
+Hàng: 	Queue: 	队列： 
+XÓA ROM?	DELETE ROM?	删除 ROM？
+Xóa file khỏi thẻ SD.	Deletes the file from the SD card.	将从 SD 卡删除文件。
+Bản trên Drive vẫn an toàn.	The copy on Drive stays safe.	Drive 上的副本仍然安全。
+Xóa ROM khỏi thẻ nhớ?	Delete the ROM from the card?	从存储卡删除 ROM？
+Bản Drive vẫn an toàn.	The Drive copy stays safe.	Drive 副本仍然安全。
+Kiểm tra quyền sở hữu trước khi kết nối	Check ownership before connecting	连接前请确认所有权
+Phạm vi:	Scope:	范围：
+Không lưu trữ hay phân phối ROM.	It does not host or distribute ROMs.	不存储也不分发 ROM。
+Nguồn dữ liệu:	Data source:	数据来源：
+ROM từ Google Drive của bạn.	ROMs from your Google Drive.	来自你的 Google Drive 的 ROM。
+Chỉ nội dung bạn có quyền truy cập.	Only content you have access to.	仅限你有权访问的内容。
+Trách nhiệm:	Responsibility:	责任：
+Bạn chịu trách nhiệm về bản quyền	You are responsible for the copyright	你需对以下内容的版权负责：
+ROM trên tài khoản Drive của mình.	of ROMs in your Drive account.	你 Drive 账户中的 ROM。
+[A] Đồng ý	[A] Accept	[A] 同意
+[B] Từ chối	[B] Decline	[B] 拒绝
+ĐÃ KẾT NỐI	CONNECTED	已连接
+CHƯA KẾT NỐI	NOT CONNECTED	未连接
+[X] Đăng xuất	[X] Sign out	[X] 退出登录
+[A] Kết nối	[A] Connect	[A] 连接
+Thư mục Drive:	Drive folder:	Drive 文件夹：
+Chưa thiết lập	Not set	未设置
+ROM trên thẻ:	ROMs on card:	存储卡上的 ROM：
+Đồng bộ cuối:	Last sync:	上次同步：
+Chưa đồng bộ	Never synced	尚未同步
+Cơ sở dữ liệu:	Database:	数据库：
+Quét Drive:	Drive scan:	Drive 扫描：
+Bộ nhớ đệm ảnh:	Image cache:	图片缓存：
+SDL2_image (tối đa 64 ảnh)	SDL2_image (up to 64 images)	SDL2_image（最多 64 张）
+Sắp xếp ROM	Sort ROMs	整理 ROM
+Dò ROM trong thư mục Roms, xếp đúng hệ máy	Find ROMs in the Roms folder and sort them by system	扫描 Roms 文件夹中的 ROM 并按平台整理
+[A] Sắp xếp	[A] Sort	[A] 整理
+KẾT NỐI TÀI KHOẢN	CONNECT ACCOUNT	连接账户
+BƯỚC 1: Kết nối điện thoại/PC cùng Wi-Fi.	STEP 1: Connect your phone/PC to the same Wi-Fi.	第 1 步：将手机/电脑连接到同一 Wi-Fi。
+BƯỚC 2: Mở trình duyệt truy cập:	STEP 2: Open a browser and go to:	第 2 步：打开浏览器访问：
+BƯỚC 3: Đăng nhập Google hoặc nhập liên kết Drive.	STEP 3: Sign in to Google or enter a Drive link.	第 3 步：登录 Google 或输入 Drive 链接。
+* Đang chờ kết nối...	* Waiting for connection...	* 正在等待连接...
+Tự động hoàn tất khi đăng nhập.	Finishes automatically after sign-in.	登录后自动完成。
+[B] Quay lại	[B] Back	[B] 返回
+KẾT NỐI THÀNH CÔNG!	CONNECTED!	连接成功！
+Tài khoản:	Account:	账户：
+Kho game sẵn sàng tải về.	The game library is ready to download.	游戏库已可下载。
+[A] Bắt đầu	[A] Start	[A] 开始
+Đang kết nối...	Connecting...	正在连接...
+Đang quét game trên Drive...	Scanning games on Drive...	正在扫描 Drive 上的游戏...
+Đang kết nối API...	Connecting to the API...	正在连接 API...
+Đang xác thực...	Authenticating...	正在验证...
+Đang quét game...	Scanning games...	正在扫描游戏...
+Quét: 	Scanned: 	已扫描： 
+, Cập nhật: 	, Updated: 	，已更新： 
+Đang quét game trên thẻ...	Scanning games on the card...	正在扫描存储卡上的游戏...
+Đang tải lên...	Uploading...	正在上传...
+Tiến độ: 	Progress: 	进度： 
+Hoàn tất!	Done!	完成！
+ game đã tải lên.	 games uploaded.	 个游戏已上传。
+Thất bại: 	Failed: 	失败： 
+Đã hủy.	Cancelled.	已取消。
+Không có game cần tải lên.	No games to upload.	没有需要上传的游戏。
+Chưa kết nối Drive. Vào Cài đặt.	Drive not connected. Open Settings.	尚未连接 Drive，请进入设置。
+[Y] Tải lên	[Y] Upload	[Y] 上传
+Tìm thấy 	Found 	找到 
+ game chưa có trên Cloud.	 games not on the cloud yet.	 个云端还没有的游戏。
+Kiểm tra file...	Checking the file...	正在检查文件...
+Đang tải từ Drive...	Downloading from Drive...	正在从 Drive 下载...
+Còn 	Remaining: 	还剩 
+ game trong hàng.	 games in the queue.	 个游戏在队列中。
+Thiết bị	Device	设备
+Bộ nhớ RAM	RAM	内存
+Còn trống 	Free 	剩余 
+Màn hình	Screen	屏幕
+Đồ họa SDL2	SDL2 graphics	SDL2 图形
+ (Tăng tốc)	 (Accelerated)	 （硬件加速）
+Cơ sở dữ liệu	Database	数据库
+ (Cấu trúc v	 (Schema v	 （结构 v
+Dung lượng thẻ	Card capacity	存储卡容量
+Phím điều khiển	Controls	按键
+Độ an toàn	Safety	安全性
+100% — Không sửa hệ thống	100% — Does not modify the system	100% — 不修改系统
+ • Cấu trúc v	 • Schema v	 • 结构 v
+Đang kiểm tra...	Checking...	正在检查...
+Phiên bản hiện tại: v	Current version: v	当前版本：v
+Nguồn: github.com/	Source: github.com/	来源：github.com/
+Nhấn [A] để kiểm tra cập nhật.	Press [A] to check for updates.	按 [A] 检查更新。
+CÓ BẢN MỚI!	NEW VERSION!	有新版本！
+ĐÃ LÀ BẢN MỚI NHẤT	UP TO DATE	已是最新版本
+KIỂM TRA THẤT BẠI	CHECK FAILED	检查失败
+ĐANG XÁC MINH...	VERIFYING...	正在验证...
+HOÀN TẤT	DONE	完成
+Bản mới: v	New version: v	新版本：v
+Khởi động lại để cập nhật.	Restart to update.	重启以完成更新。
+[A] Tải bản mới	[A] Download new version	[A] 下载新版本
+[A] Kiểm tra lại	[A] Check again	[A] 重新检查
+Trình duyệt web: 	Web browser: 	网页浏览器： 
+có bản mới	update available	有新版本
+[X] Cập nhật trình duyệt	[X] Update browser	[X] 更新浏览器
+chưa cài	not installed	未安装
+Đang cập nhật, vui lòng chờ xong.	Updating, please wait until it finishes.	正在更新，请等待完成。
+Đã thêm: 	Added: 	已添加： 
+Đã bỏ: 	Removed: 	已移除： 
+Đã dừng: 	Stopped: 	已停止： 
+Game đã có trên thẻ.	The game is already on the card.	游戏已在存储卡上。
+Game chỉ có trên Cloud. Không thể xóa.	The game is only on the cloud. Cannot delete.	游戏仅在云端，无法删除。
+Kết nối Drive trước.	Connect Drive first.	请先连接 Drive。
+Đã xóa: 	Deleted: 	已删除： 
+Đã đăng xuất Drive.	Signed out of Drive.	已退出 Drive。
+Đã hủy cập nhật.	Update cancelled.	已取消更新。
+Chế độ chọn nhiều	Multi-select mode	多选模式
+Đã tắt chọn nhiều.	Multi-select off.	已关闭多选。
+[Y] Chọn • [L1] Tải lên • [R2] Tải về • [X] Xóa	[Y] Select • [L1] Upload • [R2] Download • [X] Delete	[Y] 选择 • [L1] 上传 • [R2] 下载 • [X] 删除
+Thư viện	Library	游戏库
+Đồng bộ dữ liệu từ Drive	Sync data from Drive	从 Drive 同步数据
+Tải game lên Drive	Upload games to Drive	上传游戏到 Drive
+Kiểm tra cập nhật	Check for updates	检查更新
+Có bản mới!	New version!	有新版本！
+Cài đặt hệ thống	System settings	系统设置
+Thông tin thiết bị	Device info	设备信息
+Thoát ứng dụng	Exit app	退出应用
+Nhập tên game...	Enter a game name...	输入游戏名称...
+Bản OTA mới: v	New OTA version: v	新 OTA 版本：v
+Đang đồng bộ Drive...	Syncing Drive...	正在同步 Drive...
+Đang quét thẻ SD...	Scanning the SD card...	正在扫描 SD 卡...
+Đã quét thẻ, cần kết nối Drive.	Card scanned, Drive connection needed.	存储卡已扫描，需要连接 Drive。
+Lỗi không xác định.	Unknown error.	未知错误。
+Đã hủy đồng bộ.	Sync cancelled.	已取消同步。
+Đăng nhập Google thành công!	Signed in to Google!	Google 登录成功！
+Kết nối Drive cá nhân.	Connect your own Drive.	连接个人 Drive。
+Sao lưu thành công!	Backup successful!	备份成功！
+Sao lưu thất bại.	Backup failed.	备份失败。
+SAO LƯU & PHỤC HỒI	BACKUP & RESTORE	备份与恢复
+[A] Sao lưu	[A] Back up	[A] 备份
+[B] Phục hồi	[B] Restore	[B] 恢复
+Đang sao lưu...	Backing up...	正在备份...
+Đang phục hồi...	Restoring...	正在恢复...
+Phục hồi thành công!	Restore successful!	恢复成功！
+Phục hồi thất bại.	Restore failed.	恢复失败。
+Không tìm thấy file sao lưu.	No backup file found.	找不到备份文件。
+Thiết bị:	Device:	设备：
+Thẻ: 	Card: 	存储卡： 
+Đã kết nối	Connected	已连接
+Phiên bản:	Version:	版本：
+Đang tải 	Downloading 	正在下载 
+Hàng chờ: 	Queue: 	队列： 
+XÓA NHIỀU ROM?	DELETE SEVERAL ROMS?	删除多个 ROM？
+[A] Xóa tất cả	[A] Delete all	[A] 全部删除
+Đang chờ...	Waiting...	等待中...
+Bạn đang sử dụng phiên bản mới nhất.	You are using the latest version.	你正在使用最新版本。
+[A] Kiểm tra  •  [B] Quay lại	[A] Check  •  [B] Back	[A] 检查  •  [B] 返回
+Thay đổi:	Changes:	更新内容：
+[A] Tải & Cài đặt	[A] Download & install	[A] 下载并安装
+Đang xác minh file...	Verifying the file...	正在验证文件...
+[B] Hủy tải	[B] Cancel download	[B] 取消下载
+Tải xong! Khởi động lại để cập nhật.	Downloaded! Restart to update.	下载完成！重启以更新。
+[A] Khởi động lại ngay	[A] Restart now	[A] 立即重启
+TẢI THẤT BẠI	DOWNLOAD FAILED	下载失败
+Lỗi mạng. Kiểm tra Wi-Fi.	Network error. Check Wi-Fi.	网络错误，请检查 Wi-Fi。
+[A] Thử lại  •  [B] Quay lại	[A] Retry  •  [B] Back	[A] 重试  •  [B] 返回
+... (Nhấn [Y] xem đầy đủ)	... (Press [Y] for the full text)	...（按 [Y] 查看全部）
+Xuất sao lưu	Export backup	导出备份
+Phục hồi sao lưu	Restore backup	恢复备份
+Hãy mời tác giả 1 ly cà phê nếu thấy app hữu ích.	Buy the author a coffee if you find the app useful.	如果觉得应用有用，请作者喝杯咖啡吧。
+Quét mã để chuyển khoản, MoMo, Zalopay.	Scan to pay by bank transfer, MoMo or ZaloPay.	扫码通过银行转账、MoMo 或 ZaloPay 支付。
+THƯ NGỎ	A NOTE FROM THE AUTHOR	致用户的信
+Không có ghi chú.	No notes.	没有说明。
+Báo lỗi tự động:	Automatic error reports:	自动错误报告：
+Giới thiệu	About	关于
+Hệ thống	System	系统
+Cập nhật - Tính năng mới	Updates - What's new	更新 - 新功能
+Đang quét mạng...	Scanning networks...	正在扫描网络...
+Đang làm Wi-Fi, chờ chút...	Working on Wi-Fi, please wait...	正在处理 Wi-Fi，请稍候...
+Đang nối 	Connecting to 	正在连接 
+ • Có portal xác nhận (SELECT)	 • Login portal required (SELECT)	 • 需要门户认证（SELECT）
+ • Mạng thông	 • Online	 • 网络畅通
+Đang kiểm tra portal...	Checking the portal...	正在检查门户...
+Mở trang portal bằng Chrome...	Opening the portal page in Chrome...	正在用 Chrome 打开门户页面...
+Chưa cài RC-Web (xem chrome/README)	RC-Web is not installed (see chrome/README)	未安装 RC-Web（见 chrome/README）
+Chưa nối mạng nào (	Not connected to any network (	尚未连接任何网络（
+Đang quét...	Scanning...	正在扫描...
+Chưa thấy mạng nào. Bấm Y quét.	No networks found. Press Y to scan.	没有找到网络，按 Y 扫描。
+ Khóa	 Locked	 加密
+ Mở	 Open	 开放
+ • Đang dùng	 • In use	 • 使用中
+Nối	Connect	连接
+Quét	Scan	扫描
+SSID ẩn	Hidden SSID	隐藏 SSID
+Quên	Forget	忘记
+MẬT KHẨU WI-FI (trống = mạng mở)	WI-FI PASSWORD (empty = open network)	WI-FI 密码（留空 = 开放网络）
+Bỏ trống nếu mạng không pass...	Leave empty if the network has no password...	如果网络没有密码请留空...
+MẬT KHẨU: 	PASSWORD: 	密码： 
+Nhập pass Wi-Fi...	Enter the Wi-Fi password...	输入 Wi-Fi 密码...
+TÊN MẠNG ẨN (SSID)	HIDDEN NETWORK NAME (SSID)	隐藏网络名称（SSID）
+Đang xóa 	Removing 	正在删除 
+Đã nối 	Connected to 	已连接 
+Chưa nhập tên mạng	No network name entered	未输入网络名称
+Chưa nối được 	Could not connect to 	无法连接 
+ (sai pass hoặc sóng yếu)	 (wrong password or weak signal)	 （密码错误或信号弱）
+Không thấy wpa_supplicant	wpa_supplicant not found	找不到 wpa_supplicant
+Không tạo được profile mạng	Cannot create the network profile	无法创建网络配置
+Không thấy 	Not found: 	找不到 
+ trong đã lưu	 in saved networks	 （不在已保存网络中）
+Đã xác nhận portal, mạng thông rồi	Portal confirmed, you are online	门户已认证，网络已畅通
+Chưa có mạng, kiểm tra Wi-Fi trước	No network, check Wi-Fi first	没有网络，请先检查 Wi-Fi
+Không tải được trang xác nhận	Cannot load the login page	无法加载认证页面
+Portal phức tạp quá, cần xác nhận tay trên thiết bị khác	The portal is too complex, confirm it on another device	门户过于复杂，请在其他设备上手动认证
+Đã hủy xác nhận portal	Portal login cancelled	已取消门户认证
+Portal nhiều bước quá, thử lại hoặc xác nhận tay	The portal has too many steps, retry or confirm manually	门户步骤太多，请重试或手动认证
+XEM TV	WATCH TV	看电视
+Duyet file SD	Browse SD files	浏览 SD 卡文件
+Dang quet the SD...	Scanning the SD card...	正在扫描 SD 卡...
+ game.	 games.	 个游戏。
+ game Drive	 Drive games	 个 Drive 游戏
+ game	 games	 个游戏
+Trang	Page	翻页
+TRANG	PAGE	翻页
+Xong!	Done!	完成！
+Có danh sách kênh mới	New channel list available	有新的频道列表
+Lỗi tải danh sách kênh (HTTP 	Channel list download error (HTTP 	频道列表下载错误（HTTP 
+Kênh trực tuyến	Online channels	在线频道
+Đã làm mới: 	Refreshed: 	已刷新：
+Đang làm mới danh sách kênh...	Refreshing the channel list...	正在刷新频道列表...
+Làm mới kênh	Refresh channels	刷新频道
+Có kênh mới, bấm để tải	New channels, press to load	有新频道，按下加载
+. Vào Xem TV bấm Y để làm mới.	. Open Watch TV and press Y to refresh.	。进入「看电视」按 Y 刷新。
+Nhận	Receive	接收
+Gửi	Send	发送
+Thiết bị lân cận	Nearby devices	附近设备

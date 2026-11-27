@@ -1,0 +1,220 @@
+Mở khóa thành tích khi chơi game có hỗ trợ	Unlock achievements in supported games	在支持的游戏中解锁成就
+Chế độ Hardcore	Hardcore mode	硬核模式
+Gấp đôi điểm; tắt lưu/nạp trạng thái, tua nhanh, cheat	Double points; disables save states, fast-forward, cheats	积分翻倍；禁用即时存档、快进、金手指
+Bảng xếp hạng	Leaderboards	排行榜
+Gửi điểm số lên bảng xếp hạng	Send scores to leaderboards	将分数提交到排行榜
+Âm báo khi mở khóa	Unlock sound	解锁提示音
+Ảnh huy hiệu	Badge images	徽章图片
+Tải ảnh huy hiệu (tốn mạng)	Download badge images (uses data)	下载徽章图片（耗流量）
+Tự chụp màn hình khi mở khóa	Screenshot on unlock	解锁时自动截图
+Thông báo chi tiết	Detailed notifications	详细通知
+Hiện thông tin game và tiến độ khi bắt đầu chơi	Show game info and progress when a game starts	开始游戏时显示游戏信息和进度
+ trò chơi điện tử	 video game	 电子游戏
+đối kháng	fighting	格斗
+đánh nhau màn hình ngang	beat 'em up	清版动作
+bắn súng	shooter	射击
+đi cảnh	platformer	平台跳跃
+đua xe	racing	赛车
+thể thao	sports	体育
+giải đố	puzzle	益智
+mê cung	maze	迷宫
+đố vui	quiz	问答
+sòng bài	casino	博彩
+nhập vai	role-playing	角色扮演
+phiêu lưu	adventure	冒险
+ của 	 by 	 ，出品：
+ người chơi	 players	 名玩家
+Tải ảnh bìa & mô tả	Download covers & descriptions	下载封面和简介
+Tải danh mục ảnh bìa…	Loading the cover index…	正在加载封面目录…
+Hệ máy này chưa có nguồn ảnh bìa	No cover source for this system yet	该系统暂无封面来源
+Không tải được danh mục (mạng?)	Could not load the index (network?)	无法加载目录（网络？）
+Đã xong	Done	已完成
+Đang tải…	Loading…	正在加载…
+ trò chơi	 games	 个游戏
+Ảnh bìa mới: 	New covers: 	新封面：
+ · Mô tả mới: 	 · New descriptions: 	 · 新简介：
+Nguồn: libretro-thumbnails (GitHub), Arcade Database, Wikipedia	Sources: libretro-thumbnails (GitHub), Arcade Database, Wikipedia	来源：libretro-thumbnails（GitHub）、Arcade Database、维基百科
+Chưa có trò chơi	No games yet	暂无游戏
+ người	 players	 人
+Chưa có ảnh bìa và mô tả. Nhấn Tùy chọn › Tải ảnh bìa & mô tả.	No cover or description yet. Press Options › Download covers & descriptions.	暂无封面和简介。按 选项 › 下载封面和简介。
+Chơi	Play	开始游戏
+Cấu hình Java (lõi, độ phân giải…)	Java settings (core, resolution…)	Java 设置（核心、分辨率…）
+Thiết lập riêng (lõi, hình ảnh…)	Game settings (core, video…)	单独设置（核心、画面…）
+Tải ảnh bìa & mô tả cho game này	Download cover & description for this game	为此游戏下载封面和简介
+Hệ máy	System	系统
+Trình giả lập	Emulator	模拟器
+Tải ảnh bìa & mô tả cả hệ (	Download covers & descriptions for the system (	为整个系统下载封面和简介（
+ game thiếu)	 missing)	 个缺失）
+Đã đủ ảnh bìa và mô tả	All covers and descriptions are here	封面和简介已齐全
+Đã bỏ khỏi Yêu thích	Removed from Favourites	已从收藏中移除
+Đã thêm vào Yêu thích	Added to Favourites	已加入收藏
+Bỏ khỏi Yêu thích	Remove from Favourites	从收藏中移除
+Thêm vào Yêu thích	Add to Favourites	加入收藏
+Không thấy thẻ nhớ 2: cắm lại thẻ, hoặc Cài đặt › Trò chơi › Thẻ nhớ ROM	SD card 2 not found: reinsert it, or Settings › Games › ROM card	未找到第二张存储卡：请重新插入，或进入 设置 › 游戏 › ROM 存储卡
+1 phút	1 min	1 分钟
+Không	Never	从不
+Ngay	Now	立即
+ ÂL	 lunar	 农历
+15 phút	15 min	15 分钟
+Âm lượng	Volume	音量
+Tắt tiếng	Muted	静音
+Bật tiếng	Sound on	取消静音
+Độ sáng	Brightness	亮度
+Nhạc	Music	音乐
+Chưa phát	Not playing	未播放
+Chưa kết nối	Not connected	未连接
+Chơi tiếp	Continue playing	继续游戏
+Chưa có	None yet	暂无
+Chưa chơi trò nào	No games played yet	还没有玩过游戏
+ ÂL · 	 lunar · 	 农历 ·
+▲▼ chỉnh	▲▼ adjust	▲▼ 调整
+OK mở	OK open	OK 打开
+Menu	Menu	菜单
+Phím tắt	Shortcuts	快捷键
+Đang phát	Now playing	正在播放
+Trò chơi	Games	游戏
+Lịch	Calendar	日历
+Cài đặt	Settings	设置
+Ngủ	Sleep	休眠
+Chưa có trò chơi nào.\nChép ROM vào thẻ EASYROMS theo thư mục hệ máy.	No games yet.\nCopy ROMs to the EASYROMS card, one folder per system.	还没有游戏。\n请将 ROM 按系统文件夹复制到 EASYROMS 存储卡。
+Quét lại thẻ nhớ	Rescan the card	重新扫描存储卡
+Đã quét lại	Rescanned	已重新扫描
+Không ghi được cấu hình	Could not save the settings	无法保存设置
+Lõi giả lập	Emulator core	模拟器核心
+Độ phân giải	Resolution	分辨率
+Tự động	Automatic	自动
+Giới hạn khung hình	Frame limit	帧率限制
+Không giới hạn	Unlimited	不限制
+Xoay màn hình	Screen rotation	屏幕旋转
+Co giãn	Scaling	缩放
+Vừa màn hình	Fit screen	适应屏幕
+Số nguyên (nét)	Integer (sharp)	整数（清晰）
+Lọc ảnh	Image filter	画面滤镜
+Sắc nét	Sharp	锐利
+Mịn	Smooth	平滑
+3D nhanh (lõi Plus)	Fast 3D (Plus core)	快速 3D（Plus 核心）
+Cấu hình Java	Java settings	Java 设置
+← → để thay đổi	← → to change	← → 更改
+Về mặc định (tự nhận theo game)	Back to default (detected per game)	恢复默认（按游戏自动识别）
+Đã về cấu hình tự động	Back to automatic settings	已恢复自动设置
+Gần đây	Recent	最近
+Không tìm thấy tệp	File not found	找不到文件
+Chưa chơi trò nào.	No games played yet.	还没有玩过游戏。
+Xóa lịch sử	Clear history	清除历史
+Xóa toàn bộ lịch sử chơi?	Clear the whole play history?	清除全部游戏记录？
+Yêu thích	Favourites	收藏
+Chưa có mục yêu thích.\nNhấn Tùy chọn trên một trò chơi để thêm.	No favourites yet.\nPress Options on a game to add it.	还没有收藏。\n在游戏上按 选项 即可添加。
+Chưa có bài hát nào đang phát.	Nothing is playing.	当前没有播放歌曲。
+Nhấn OK để phát tất cả.	Press OK to play everything.	按 OK 播放全部。
+Tạm dừng	Pause	暂停
+Ngẫu nhiên	Shuffle	随机
+Tất cả	All	全部
+Một bài	One song	单曲
+Lặp: 	Repeat: 	循环：
+Phát	Play	播放
+Âm lượng 	Volume 	音量
+Phát ngẫu nhiên: 	Shuffle: 	随机播放：
+Lặp lại: 	Repeat: 	循环：
+Dừng phát	Stop	停止播放
+Chưa có bài hát.\nChép tệp MP3/OGG/FLAC vào thư mục music trên thẻ EASYROMS.	No songs yet.\nCopy MP3/OGG/FLAC files to the music folder on the EASYROMS card.	还没有歌曲。\n请将 MP3/OGG/FLAC 文件复制到 EASYROMS 卡的 music 文件夹。
+Quét lại thư mục nhạc	Rescan the music folder	重新扫描音乐文件夹
+Không mở được ảnh này	Could not open this image	无法打开此图片
+Không xử lý được ảnh	Could not process the image	无法处理图片
+Không lưu được hình nền	Could not save the wallpaper	无法保存壁纸
+Đã đặt làm hình nền	Set as wallpaper	已设为壁纸
+▶ Trình chiếu	▶ Slideshow	▶ 幻灯片
+◀ ▶ chuyển ảnh	◀ ▶ next/previous	◀ ▶ 切换图片
+Trình chiếu	Slideshow	幻灯片
+Đặt làm hình nền	Set as wallpaper	设为壁纸
+Ảnh	Photos	照片
+Chưa có ảnh. Chép ảnh vào thư mục photos.	No photos yet. Copy pictures to the photos folder.	还没有照片。请将图片复制到 photos 文件夹。
+Video	Videos	视频
+Chưa có video.\nChép phim vào thư mục movies trên thẻ EASYROMS.	No videos yet.\nCopy videos to the movies folder on the EASYROMS card.	还没有视频。\n请将视频复制到 EASYROMS 卡的 movies 文件夹。
+Cần kết nối Wi-Fi	Needs a Wi-Fi connection	需要连接 Wi-Fi
+Kênh	Channels	频道
+Đang phát 	Playing 	正在播放
+Nghe	Listen	收听
+Chưa có danh sách kênh.\nChép tệp 	No channel list yet.\nCopy the file 	还没有频道列表。\n请将文件
+ (định dạng m3u) vào thẻ EASYROMS.	 (m3u format) to the EASYROMS card.	（m3u 格式）复制到 EASYROMS 存储卡。
+Chưa cài gói ứng dụng mở rộng	The app pack is not installed	未安装扩展应用包
+Đang mở 	Opening 	正在打开
+Trình duyệt	Browser	浏览器
+Chưa cài trình duyệt.	The browser is not installed.	未安装浏览器。
+Video trực tuyến	Online video	在线视频
+Chưa có PortMaster.\nChép Install.PortMaster.sh vào thư mục tools trên thẻ EASYROMS.	PortMaster is not installed.\nCopy Install.PortMaster.sh to the tools folder on the EASYROMS card.	未安装 PortMaster。\n请将 Install.PortMaster.sh 复制到 EASYROMS 卡的 tools 文件夹。
+Video ngắn	Short videos	短视频
+Nguồn	Power	电源
+Tắt màn hình, đồng hồ trên nền đen	Screen off, clock on black	关闭屏幕，黑底显示时钟
+Ngủ sâu	Deep sleep	深度休眠
+Tạm dừng máy, tiết kiệm pin	Suspend the device to save battery	挂起设备以节省电量
+Khởi động lại	Restart	重新启动
+Khởi động lại dArkOS	Restart dArkOS	重新启动 dArkOS
+Khởi động lại máy?	Restart the device?	重新启动设备？
+Tắt máy	Power off	关机
+Tắt hoàn toàn thiết bị	Turn the device off completely	完全关闭设备
+Tắt máy ngay bây giờ?	Power off now?	立即关机？
+Chuyển sang EmulationStation	Switch to EmulationStation	切换到 EmulationStation
+Giao diện gốc của dArkOS	The original dArkOS interface	dArkOS 原始界面
+Mở EmulationStation?\nThoát ES để quay lại giao diện này.	Open EmulationStation?\nQuit ES to come back here.	打开 EmulationStation？\n退出 ES 即可返回此界面。
+Xem TV	TV	电视
+Radio	Radio	电台
+Thời tiết	Weather	天气
+Chưa cài gói ứng dụng mở rộng.	The app pack is not installed.	未安装扩展应用包。
+Terminal	Terminal	终端
+Ứng dụng	Apps	应用
+Xem dạng lưới	Grid view	网格视图
+Xem dạng danh sách	List view	列表视图
+Theo pin	By battery	按电量
+Như lúc thức	Same as awake	与唤醒时相同
+Xanh	Green	绿色
+Đỏ	Red	红色
+Chưa có dữ liệu (bấm nút nguồn để ngủ)	No data yet (press the power button to sleep)	暂无数据（按电源键休眠）
+Lần gần nhất: %.1f giờ, tụt %d%%	Last time: %.1f h, dropped %d%%	上次：%.1f 小时，下降 %d%%
+Đang đo…	Measuring…	正在测量…
+≈ %.1f ngày	≈ %.1f days	≈ %.1f 天
+Việt Nam (GMT+7)	Vietnam (GMT+7)	越南（GMT+7）
+Trung Quốc (GMT+8)	China (GMT+8)	中国（GMT+8）
+Nhật Bản (GMT+9)	Japan (GMT+9)	日本（GMT+9）
+Hàn Quốc (GMT+9)	Korea (GMT+9)	韩国（GMT+9）
+Úc - Sydney	Australia - Sydney	澳大利亚 - 悉尼
+Pháp / Đức	France / Germany	法国 / 德国
+Mỹ - New York	USA - New York	美国 - 纽约
+Mỹ - Los Angeles	USA - Los Angeles	美国 - 洛杉矶
+Giờ quốc tế (UTC)	Universal time (UTC)	协调世界时（UTC）
+ (mật khẩu ark)	 (password ark)	（密码 ark）
+Đã tắt dịch vụ từ xa	Remote services turned off	已关闭远程服务
+Tăng	Increase	增加
+Âm thanh	Sound	声音
+Đầu ra âm thanh	Audio output	音频输出
+Loa	Speaker	扬声器
+Tai nghe	Headphones	耳机
+Tự động = chuyển sang tai nghe khi cắm	Automatic = switch to headphones when plugged in	自动 = 插入耳机时切换到耳机
+Âm phím	Key sounds	按键音
+Sửa lỗi âm thanh	Fix sound problems	修复声音问题
+Khôi phục cấu hình ALSA mặc định	Restore the default ALSA configuration	恢复默认 ALSA 配置
+Khôi phục .asoundrc	Restore .asoundrc	恢复 .asoundrc
+Đặt lại đường xuất âm thanh	Reset the audio output path	重置音频输出路径
+Hiển thị & giao diện	Display & look	显示与外观
+Chủ đề màu	Colour theme	颜色主题
+Bầu trời	Sky	天空
+Hoàng hôn	Sunset	日落
+Rừng	Forest	森林
+Hình nền	Wallpaper	壁纸
+Màu nền, hoặc một ảnh trên thẻ nhớ	A colour, or a photo from the card	纯色，或存储卡上的照片
+Chọn ảnh trên thẻ nhớ…	Pick a photo from the card…	从存储卡选择照片…
+Chưa có ảnh: chép ảnh vào thư mục photos	No photos yet: copy pictures to the photos folder	还没有照片：请将图片复制到 photos 文件夹
+Chọn ảnh làm hình nền	Pick a wallpaper photo	选择壁纸照片
+Màu	Colour	纯色
+Hiệu ứng chuyển màn hình	Screen transition	界面切换效果
+Tức thì	Instant	即时
+Hiện phần trăm pin	Show battery percentage	显示电量百分比
+Hiện gợi ý phím	Show button hints	显示按键提示
+Kiểu menu danh sách	List-style menu	列表式菜单
+Wi-Fi & mạng	Wi-Fi & network	Wi-Fi 与网络
+Đã kết nối: 	Connected: 	已连接：
+Đang tắt	Off	已关闭
+Kết nối mạng	Connect to a network	连接网络
+Quét mạng xung quanh	Scan for networks	扫描附近网络
+Hãy bật Wi-Fi trước	Turn Wi-Fi on first	请先打开 Wi-Fi
+Thông tin mạng	Network info	网络信息
+Mạng	Network	网络

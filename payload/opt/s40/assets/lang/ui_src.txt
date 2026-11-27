@@ -1,0 +1,870 @@
+Tết Dương lịch
+Lễ Tình nhân
+Quốc tế Phụ nữ
+Giải phóng miền Nam
+Quốc tế Lao động
+Quốc tế Thiếu nhi
+Quốc khánh
+Phụ nữ Việt Nam
+Nhà giáo Việt Nam
+Đêm Giáng sinh
+Giáng sinh
+Tháng 
+Năm 
+Rằm
+Mùng 1
+Âm lịch: 
+ nhuận
+ · Ngày 
+ · Tháng 
+Tùy chọn
+Hôm nay
+Quay lại
+Thêm nhắc việc ngày này
+Tháng trước
+Tháng sau
+Đến Tết Nguyên đán
+Máy tính
+Lỗi
+Xóa hết
+Nhấn
+Đồng hồ bấm giờ
+Đang chạy
+Đã dừng
+Sẵn sàng
+Vòng 
+Vòng
+Đặt lại
+Dừng
+Tiếp tục
+Bắt đầu
+Ghi chú
+Ghi chú 
+Sửa
+Sửa ghi chú
+Chưa có ghi chú.\nNhấn Tùy chọn › Thêm ghi chú.
+Thêm ghi chú
+Ghi chú mới
+Xóa ghi chú này
+OK đổi màu · Tùy chọn: SOS · B tắt
+← → chọn giờ/phút · ↑↓ chỉnh
+← → chọn ngày/tháng/năm · ↑↓ chỉnh
+ năm 
+Xong
+Hủy
+Nội dung nhắc việc
+Giờ nhắc
+Sẽ nhắc lúc 
+ ngày 
+Nhắc việc
+ · đã nhắc
+Chưa có nhắc việc.\nNhấn Tùy chọn › Thêm nhắc việc.
+Thêm nhắc việc hôm nay
+Thêm nhắc việc ngày khác
+Ngày nhắc
+Xóa nhắc việc này
+Xóa các nhắc việc đã xong
+Nhắc việc · 
+OK: Đã xong · Tùy chọn: nhắc lại sau 10 phút
+Nhắc lại sau 10 phút
+Tết Nguyên đán
+Tết Trung thu
+Năm mới
+Đếm ngày
+Đã qua
+ âm lịch
+Hôm nay!
+ ngày
+Thêm ngày dương lịch
+Tên sự kiện
+Chọn ngày
+Thêm ngày âm lịch (sinh nhật, giỗ…)
+Ngày 
+Tháng âm lịch
+Ngày âm lịch
+Đã thêm 
+Xóa sự kiện này
+Kiểm tra phím
+Nhấn B hai lần liên tiếp để thoát
+Thoát (B×2)
+Xanh dương
+Cam
+Xanh lá
+Tím
+Đêm
+Chủ Nhật
+Thứ Hai
+Thứ Ba
+Thứ Tư
+Thứ Năm
+Thứ Sáu
+Thứ Bảy
+Trượt
+(Tệp trống)
+Quản lý tệp
+Thư mục trống.\nNhấn Tùy chọn để dán hoặc tạo thư mục.
+Thư mục
+ · liên kết
+Đã cắt
+Đã chép
+Mở
+Giải nén
+Xem
+Giải nén vào thư mục "
+Giải nén tại đây
+Xem nội dung
+Sao chép
+Đã chép, mở thư mục khác rồi Dán
+Cắt (di chuyển)
+Đã cắt, mở thư mục khác rồi Dán
+Dán vào đây: 
+Đổi tên
+Tên mới
+Nén thành .zip
+Nén .7z có mật khẩu
+Mật khẩu cho tệp nén
+Xóa
+Xóa "
+"?\nKhông thể hoàn tác.
+Thông tin
+Tạo thư mục mới
+Tên thư mục
+Ẩn
+Hiện
+ tệp ẩn
+Đang hiện tệp ẩn
+Đã ẩn tệp ẩn
+tên
+kích thước
+ngày sửa
+Sắp xếp theo: 
+Sắp xếp theo
+Tên
+Kích thước (lớn trước)
+Ngày sửa (mới trước)
+Đi tới…
+Thẻ trò chơi (EASYROMS)
+Thư mục người dùng
+Ổ ngoài 
+Gốc hệ thống (/)
+Đi tới
+Tệp gốc không còn
+Không thể chép thư mục vào chính nó
+Di chuyển
+Tên không hợp lệ
+Đã có tệp trùng tên
+Không đổi tên được: 
+Đã đổi tên
+Không tạo được: 
+Đã có thư mục này
+Đã tạo thư mục
+Loại
+Tệp
+Tệp .
+Dung lượng
+Sửa lần cuối
+Quyền
+Đường dẫn
+Ổ chứa
+Thiếu 7-Zip để đọc tệp nén
+(Không đọc được, có thể cần mật khẩu)
+Thiếu 7-Zip để giải nén
+Mật khẩu giải nén
+Sai mật khẩu
+7-Zip lỗi 
+Sai mật khẩu, nhập lại
+Thiếu 7-Zip để nén
+Nén
+ (độc lập)
+Tỉ lệ khung hình
+Mặc định
+Theo lõi
+Toàn màn hình
+Làm mịn ảnh
+Bật
+Tắt
+Phóng số nguyên (điểm ảnh sắc)
+Hiện FPS
+Tự lưu & nạp trạng thái
+Giảm độ trễ (run-ahead, tốn CPU)
+# S40: thiết lập riêng cho 
+Thiết lập: 
+Trình giả lập / lõi
+Riêng cho game này
+Theo mặc định của hệ máy
+Chọn
+Mặc định của hệ (
+Trình giả lập cho game
+Thiết lập hình ảnh chỉ có với lõi RetroArch
+◀ ▶ để thay đổi
+Bỏ mọi thiết lập riêng
+Bỏ
+Đã về thiết lập mặc định
+Không tạo được tệp tạm
+Không kết nối được (kiểm tra Wi-Fi)
+Sai tên hoặc mật khẩu
+Máy chủ không trả về token
+Đổi
+Tài khoản: 
+Đã đăng nhập
+Đã đăng nhập · 
+ điểm
+Đăng xuất
+Đăng xuất RetroAchievements?
+Đăng nhập
+Tài khoản retroachievements.org (cần Wi-Fi)
+Tên đăng nhập RetroAchievements
+Mật khẩu
+Đăng nhập 
+Đã đăng nhập RetroAchievements
+Bật thành tích
+Mở khóa thành tích khi chơi game có hỗ trợ
+Chế độ Hardcore
+Gấp đôi điểm; tắt lưu/nạp trạng thái, tua nhanh, cheat
+Bảng xếp hạng
+Gửi điểm số lên bảng xếp hạng
+Âm báo khi mở khóa
+Ảnh huy hiệu
+Tải ảnh huy hiệu (tốn mạng)
+Tự chụp màn hình khi mở khóa
+Thông báo chi tiết
+Hiện thông tin game và tiến độ khi bắt đầu chơi
+ trò chơi điện tử
+đối kháng
+đánh nhau màn hình ngang
+bắn súng
+đi cảnh
+đua xe
+thể thao
+giải đố
+mê cung
+đố vui
+sòng bài
+nhập vai
+phiêu lưu
+ của 
+ người chơi
+Tải ảnh bìa & mô tả
+Tải danh mục ảnh bìa…
+Hệ máy này chưa có nguồn ảnh bìa
+Không tải được danh mục (mạng?)
+Đã xong
+Đang tải…
+ trò chơi
+Ảnh bìa mới: 
+ · Mô tả mới: 
+Nguồn: libretro-thumbnails (GitHub), Arcade Database, Wikipedia
+Chưa có trò chơi
+ người
+Chưa có ảnh bìa và mô tả. Nhấn Tùy chọn › Tải ảnh bìa & mô tả.
+Chơi
+Cấu hình Java (lõi, độ phân giải…)
+Thiết lập riêng (lõi, hình ảnh…)
+Tải ảnh bìa & mô tả cho game này
+Hệ máy
+Trình giả lập
+Tải ảnh bìa & mô tả cả hệ (
+ game thiếu)
+Đã đủ ảnh bìa và mô tả
+Đã bỏ khỏi Yêu thích
+Đã thêm vào Yêu thích
+Bỏ khỏi Yêu thích
+Thêm vào Yêu thích
+Không thấy thẻ nhớ 2: cắm lại thẻ, hoặc Cài đặt › Trò chơi › Thẻ nhớ ROM
+1 phút
+Không
+Ngay
+ ÂL
+15 phút
+Âm lượng
+Tắt tiếng
+Bật tiếng
+Độ sáng
+Nhạc
+Chưa phát
+Chưa kết nối
+Chơi tiếp
+Chưa có
+Chưa chơi trò nào
+ ÂL · 
+▲▼ chỉnh
+OK mở
+Menu
+Phím tắt
+Đang phát
+Trò chơi
+Lịch
+Cài đặt
+Ngủ
+Chưa có trò chơi nào.\nChép ROM vào thẻ EASYROMS theo thư mục hệ máy.
+Quét lại thẻ nhớ
+Đã quét lại
+Không ghi được cấu hình
+Lõi giả lập
+Độ phân giải
+Tự động
+Giới hạn khung hình
+Không giới hạn
+Xoay màn hình
+Co giãn
+Vừa màn hình
+Số nguyên (nét)
+Lọc ảnh
+Sắc nét
+Mịn
+3D nhanh (lõi Plus)
+Cấu hình Java
+← → để thay đổi
+Về mặc định (tự nhận theo game)
+Đã về cấu hình tự động
+Gần đây
+Không tìm thấy tệp
+Chưa chơi trò nào.
+Xóa lịch sử
+Xóa toàn bộ lịch sử chơi?
+Yêu thích
+Chưa có mục yêu thích.\nNhấn Tùy chọn trên một trò chơi để thêm.
+Chưa có bài hát nào đang phát.
+Nhấn OK để phát tất cả.
+Tạm dừng
+Ngẫu nhiên
+Tất cả
+Một bài
+Lặp: 
+Phát
+Âm lượng 
+Phát ngẫu nhiên: 
+Lặp lại: 
+Dừng phát
+Chưa có bài hát.\nChép tệp MP3/OGG/FLAC vào thư mục music trên thẻ EASYROMS.
+Quét lại thư mục nhạc
+Không mở được ảnh này
+Không xử lý được ảnh
+Không lưu được hình nền
+Đã đặt làm hình nền
+▶ Trình chiếu
+◀ ▶ chuyển ảnh
+Trình chiếu
+Đặt làm hình nền
+Ảnh
+Chưa có ảnh. Chép ảnh vào thư mục photos.
+Video
+Chưa có video.\nChép phim vào thư mục movies trên thẻ EASYROMS.
+Cần kết nối Wi-Fi
+Kênh
+Đang phát 
+Nghe
+Chưa có danh sách kênh.\nChép tệp 
+ (định dạng m3u) vào thẻ EASYROMS.
+Chưa cài gói ứng dụng mở rộng
+Đang mở 
+Trình duyệt
+Chưa cài trình duyệt.
+Video trực tuyến
+Chưa có PortMaster.\nChép Install.PortMaster.sh vào thư mục tools trên thẻ EASYROMS.
+Video ngắn
+Nguồn
+Tắt màn hình, đồng hồ trên nền đen
+Ngủ sâu
+Tạm dừng máy, tiết kiệm pin
+Khởi động lại
+Khởi động lại dArkOS
+Khởi động lại máy?
+Tắt máy
+Tắt hoàn toàn thiết bị
+Tắt máy ngay bây giờ?
+Chuyển sang EmulationStation
+Giao diện gốc của dArkOS
+Mở EmulationStation?\nThoát ES để quay lại giao diện này.
+Xem TV
+Radio
+Thời tiết
+Chưa cài gói ứng dụng mở rộng.
+Terminal
+Ứng dụng
+Xem dạng lưới
+Xem dạng danh sách
+Theo pin
+Như lúc thức
+Xanh
+Đỏ
+Chưa có dữ liệu (bấm nút nguồn để ngủ)
+Lần gần nhất: %.1f giờ, tụt %d%%
+Đang đo…
+≈ %.1f ngày
+Việt Nam (GMT+7)
+Trung Quốc (GMT+8)
+Nhật Bản (GMT+9)
+Hàn Quốc (GMT+9)
+Úc - Sydney
+Pháp / Đức
+Mỹ - New York
+Mỹ - Los Angeles
+Giờ quốc tế (UTC)
+ (mật khẩu ark)
+Đã tắt dịch vụ từ xa
+Tăng
+Âm thanh
+Đầu ra âm thanh
+Loa
+Tai nghe
+Tự động = chuyển sang tai nghe khi cắm
+Âm phím
+Sửa lỗi âm thanh
+Khôi phục cấu hình ALSA mặc định
+Khôi phục .asoundrc
+Đặt lại đường xuất âm thanh
+Hiển thị & giao diện
+Chủ đề màu
+Bầu trời
+Hoàng hôn
+Rừng
+Hình nền
+Màu nền, hoặc một ảnh trên thẻ nhớ
+Chọn ảnh trên thẻ nhớ…
+Chưa có ảnh: chép ảnh vào thư mục photos
+Chọn ảnh làm hình nền
+Màu
+Hiệu ứng chuyển màn hình
+Tức thì
+Hiện phần trăm pin
+Hiện gợi ý phím
+Kiểu menu danh sách
+Wi-Fi & mạng
+Đã kết nối: 
+Đang tắt
+Kết nối mạng
+Quét mạng xung quanh
+Hãy bật Wi-Fi trước
+Thông tin mạng
+Mạng
+Địa chỉ IP
+Dịch vụ từ xa (SSH, Samba)
+Truy cập tệp và dòng lệnh qua mạng
+Mạng Wi-Fi
+Bảo mật
+Mạng mở
+ · Đang kết nối
+Kết nối
+Kết nối 
+Đang kết nối tới 
+Xác thực
+Nhận địa chỉ IP
+Mật khẩu: 
+Mật khẩu cần ít nhất 8 ký tự
+Không tìm thấy mạng nào.
+Quét lại
+Pin & hiệu năng
+Tình trạng pin
+Đang sạc
+Đang dùng pin
+Chế độ hiệu năng
+Tiết kiệm pin
+Cân bằng
+Hiệu năng tối đa
+Xung CPU khi chạy game
+Tự ngủ khi không dùng
+5 phút
+10 phút
+30 phút
+Hiện màn hình chờ (đồng hồ)
+Ngủ sâu sau màn hình chờ
+Tắt hẳn như bấm nút nguồn (trừ khi đang nghe nhạc)
+Tắt Wi-Fi khi ngủ
+Tiết kiệm pin, tự bật lại khi thức
+Chỉ nút nguồn đánh thức
+Cấn phím trong túi không làm máy dậy
+Đèn báo
+Theo pin: xanh, đỏ khi dưới 20%, nháy khi dưới 10%
+Đèn khi ngủ
+Thời gian chờ ước tính
+Hiện đồng hồ khi ngủ
+Đồng hồ lớn trên nền đen
+Xem thử màn hình ngủ
+Trò chơi & giả lập
+Ẩn / hiện hệ máy
+Chọn hệ máy cần ẩn
+Đang ẩn 
+ hệ máy
+Thành tích, Hardcore, bảng xếp hạng
+Hiện game yêu thích lên đầu
+Sắp xếp hệ máy
+Theo tên A → Z
+Tìm ROM mới chép vào
+Đã quét: 
+Thẻ nhớ ROM: thẻ 2 (khe TF2)
+Chuyển về dùng thẻ 1 cho ROM
+Dùng lại thẻ 1 cho ROM?\nMáy sẽ tải lại giao diện.
+Thẻ 2
+Thẻ nhớ ROM: thẻ 1
+Cắm thẻ 2 vào khe TF2 rồi chọn để dùng thẻ 2 cho ROM
+Dùng thẻ 2 (khe TF2) cho ROM?\nCấu trúc thư mục, PortMaster và runtime được chép sang thẻ 2 (dữ liệu sẵn có trên thẻ 2 được giữ).
+Thẻ 1
+Xóa lịch sử chơi
+Ngày & giờ
+Định dạng 24 giờ
+Định dạng ngày
+Hiện ngày âm lịch
+Đời máy R36S
+Bản clone
+Đang dùng
+Dùng cấu hình "
+"?\nMáy sẽ khởi động lại. Nếu màn hình không lên, cắm thẻ vào máy tính và chạy CHON_DOI_MAY.bat.
+Không chép được cấu hình
+Thông tin máy
+Hệ điều hành
+Giao diện
+Nhân Linux
+Pin
+Dung lượng ROM
+Ghi công phần mềm
+Thành phần bên thứ ba và tác giả
+Ghi công
+Lọc quảng cáo
+Chữ Hán / Pinyin
+Bàn phím
+Cần bật ít nhất một ngôn ngữ
+Gõ có dấu: Telex hoặc VNI
+Gõ thường, không đổi chữ
+Gõ pinyin rồi chọn chữ Hán, ví dụ nihao → 你好
+Ngôn ngữ khi mở bàn phím
+Nút L trên bàn phím để đổi nhanh
+Ngôn ngữ mặc định
+Kiểu gõ tiếng Việt
+VNI: 1-5 dấu thanh, 6 â ê ô, 7 ơ ư, 8 ă, 9 đ, 0 bỏ dấu
+Telex: s f r x j dấu thanh, aa ee oo â ê ô, w ư ơ ă, dd đ, z bỏ dấu
+Vị trí dấu
+oà, uý (kiểu mới) hay òa, úy (kiểu cũ)
+Kiểu mới (hoà)
+Kiểu cũ (hòa)
+Gõ thử
+Mở bàn phím để thử ngôn ngữ và kiểu gõ
+Bạn đã gõ
+Nội dung
+(trống)
+Cách dùng bàn phím
+Bàn phím ảo
+Gõ phím đang chọn
+Xóa lùi (trống thì thoát)
+Đổi ngôn ngữ VI / EN / 中
+Trang ký hiệu
+Chữ hoa (bấm 2 lần: khóa hoa)
+中
+Lên trên hàng phím để chọn chữ Hán; Cách = chữ đầu
+Tối đa 
+ ký tự, để trống để ẩn
+Đã cắt còn 
+ ký tự
+(ẩn)
+Chữ lớn trên màn hình chính
+Dòng chữ nhỏ bên dưới
+Múi giờ
+Giờ tự đồng bộ qua mạng khi có Wi-Fi
+Thiết lập ban đầu
+Chào bạn! Chọn vài thiết lập cơ bản
+Đổi lại lúc nào cũng được trong Cài đặt
+Ngôn ngữ bàn phím
+Hoàn tất
+Bắt đầu dùng máy
+Đã lưu thiết lập
+Khôi phục cài đặt từ\n
+?\nCài đặt hiện tại sẽ bị thay thế.
+Khôi phục cài đặt
+Giải nén bản sao lưu
+Nạp lại mạng
+Đã khôi phục, đang tải lại giao diện
+Sao lưu & khôi phục
+Sao lưu ngay
+Cài đặt, RetroArch, Wi-Fi → 
+Sao lưu cài đặt
+Gom cấu hình
+Ghi tệp sao lưu
+Đã sao lưu
+Chưa có bản sao lưu nào
+Bản sao lưu 
+Khôi phục
+Xóa bản sao lưu này
+Xóa 
+Đã xóa
+Đặt lại dữ liệu gốc
+ROM, save game và port trên thẻ được giữ nguyên
+Cài đặt giao diện
+Yêu thích, lịch sử, chủ đề, hình nền… và hỏi lại thiết lập ban đầu
+Đặt lại cài đặt giao diện?
+RetroArch về mặc định
+Cấu hình, lõi, thiết lập riêng từng game, đăng nhập RetroAchievements
+Đưa RetroArch về cấu hình gốc của máy?
+Đặt lại RetroArch
+Chép cấu hình gốc
+Xóa thiết lập riêng
+RetroArch đã về mặc định
+Xóa mạng Wi-Fi đã lưu
+Quên mọi mạng và mật khẩu đã lưu
+Quên tất cả mạng Wi-Fi đã lưu?
+Xóa mạng Wi-Fi
+Xóa hồ sơ mạng
+Đã xóa mạng đã lưu
+Đặt lại tất cả (như mới cài)
+Cả ba mục trên, rồi tải lại giao diện
+Đặt lại TẤT CẢ cài đặt như mới cài?\nKhông thể hoàn tác.
+Đặt lại tất cả
+Độ sáng 
+Pin 
+Yêu thích, ẩn hệ máy, quét ROM
+Định dạng giờ, âm lịch
+ bản sao lưu
+Giao diện, RetroArch, Wi-Fi
+Tiện ích
+Lịch, máy tính, bấm giờ, ghi chú, đèn pin
+Dương lịch và âm lịch
+Nhắc theo ngày giờ, đổ chuông
+Tết, sinh nhật, ngày giỗ (âm/dương)
+Đèn pin (màn hình)
+Thử các nút trên máy
+Tệp & hệ thống
+Quản lý tệp, USB, cập nhật
+Gắn ổ USB
+Tìm thiết bị
+Gắn vào /roms/usbdrive
+Tháo ổ USB
+Ghi dữ liệu
+Tháo ổ
+Cài đặt, RetroArch, Wi-Fi
+Kho game
+Duyệt và tải ROM về đúng hệ máy
+Gửi tệp (LocalSend)
+Gửi/nhận tệp với điện thoại, máy tính
+Chép, đổi tên, tệp ẩn, giải nén zip/rar/7z có mật khẩu
+Quản lý tệp hai khung
+Hai thư mục cạnh nhau, chép/chuyển nhanh
+Dòng lệnh Linux (bash)
+Cafe Mây
+Router chỉ dùng WPA3, USB Wi-Fi này không hỗ trợ. Hãy bật chế độ WPA2/WPA3 trên router
+Không thấy mạng này, hãy quét lại
+Sai mật khẩu Wi-Fi (hoặc router chặn thiết bị lạ)
+Không thấy USB Wi-Fi, hãy cắm lại
+Router không phản hồi, hãy lại gần router hơn
+Không kết nối được: 
+Không rõ nghệ sĩ
+Chưa có nhạc trong 
+Tạm dừng nhạc
+Giáp
+Ất
+Bính
+Đinh
+Mậu
+Kỷ
+Canh
+Tân
+Nhâm
+Quý
+Tý
+Sửu
+Dần
+Mão
+Thìn
+Tỵ
+Ngọ
+Mùi
+Thân
+Dậu
+Tuất
+Hợi
+Mùng 2 Tết
+Mùng 3 Tết
+Rằm tháng Giêng
+Giỗ Tổ Hùng Vương
+Lễ Phật đản
+Tết Đoan ngọ
+Lễ Vu Lan
+Ông Công ông Táo
+Thiếu font DejaVuSansMono
+Không mở được shell
+Shell đã thoát. Nhấn A để đóng, X để mở lại
+Không mở được Terminal
+Đang xem lịch sử (
+ dòng) · ▲▼ cuộn · B về hiện tại
+A Enter · B Xóa · L Gõ lệnh · R Tab · X Menu
+Gõ lệnh (Xong = chạy)
+Gõ ký tự
+Ctrl+C (dừng lệnh)
+Gõ không chạy
+Ctrl+D (thoát shell / EOF)
+Ctrl+L (xóa màn hình)
+Cuộn lịch sử
+Lệnh: bộ nhớ (free -h)
+Lệnh: địa chỉ IP
+Lệnh: tiến trình (top)
+Cỡ chữ: 
+nhỏ
+vừa
+lớn
+Mở lại shell
+Thoát Terminal
+Hà Nội
+Trời quang
+Ít mây
+Có mây
+Nhiều mây
+Sương mù
+Mưa phùn
+Mưa nhỏ
+Mưa vừa
+Mưa to
+Mưa lạnh
+Tuyết
+Mưa tuyết
+Dông
+Dông, mưa đá
+Không kết nối được
+Dữ liệu lỗi
+vừa xong
+ phút trước
+ giờ trước
+ ngày trước
+Tìm thành phố (vd: Đà Nẵng)
+Tìm địa điểm
+Không tìm thấy "
+Chọn địa điểm
+Thời tiết: 
+Thời tiết · 
+Đang tải thời tiết…
+Chưa có dữ liệu
+A: cập nhật · X: đổi địa điểm
+Cảm giác 
+Độ ẩm 
+Gió %.0f km/h
+Đang cập nhật…
+Cập nhật 
+Bây giờ
+Cập nhật
+Đổi địa điểm
+Cập nhật ngay
+Đơn vị: 
+ trên màn hình chính
+ trên màn hình chờ
+Nguồn dữ liệu: Open-Meteo
+Nguồn dữ liệu
+Dịch vụ
+Giấy phép
+Bỏ chọn
+Đánh dấu
+Xác nhận
+Có
+Đóng
+Đang thực hiện…
+Không thành công
+✓ Hoàn tất
+Có lỗi xảy ra
+Gõ pinyin, ví dụ: nihao
+Không có chữ cho "
+Nhập
+(Trống)
+Tiếng Việt
+Cách
+EasyList (quảng cáo quốc tế)
+ABPVN (quảng cáo Việt Nam)
+Peter Lowe (máy chủ quảng cáo)
+Trang lừa đảo, mã độc
+EasyPrivacy (chặn theo dõi)
+Ẩn thông báo cookie
+Không có danh sách nào được bật
+Đang tải danh sách lọc…
+Danh sách lọc đã mới nhất
+Không tải được danh sách lọc (mạng?)
+Lỗi biên dịch bộ lọc quảng cáo
+Đang chuẩn bị bộ lọc…
+ quy tắc
+ · cập nhật 
+ · đang cập nhật…
+Trang dùng quá nhiều bộ nhớ nên đã bị đóng
+Bộ hiển thị trang gặp lỗi và đã dừng
+Dân trí
+Đi tới địa chỉ
+Địa chỉ
+Nhập mật khẩu
+Đã lưu trên máy
+Đã thêm dấu trang
+Không lưu được trang
+Đã lưu trang để đọc khi không có mạng
+Tìm trong trang
+Đang tìm "
+" · Menu › Tìm tiếp
+Đang tải · 
+Lỗi: 
+Đã hủy
+Hủy tải
+Đã hủy tải
+Tải lại
+Đang tải lại
+Bỏ khỏi danh sách
+Xóa tệp
+Đã xóa tệp
+Tải xuống
+Trang này không có video
+Danh sách lọc
+Bấm để bỏ ngoại lệ (chặn lại quảng cáo)
+Đã chặn quảng cáo lại trên 
+Trang không chặn quảng cáo
+Chặn quảng cáo
+Chặn quảng cáo: 
+Đã bật chặn quảng cáo
+Đã tắt chặn quảng cáo
+Ẩn khung quảng cáo: 
+Ẩn ô trống còn lại sau khi chặn
+Cập nhật danh sách ngay
+Tự động cập nhật: 
+Mỗi 4 ngày khi có mạng
+Trang không chặn
+Chế độ xem: 
+Di động
+Di động = trang gọn cho màn nhỏ
+Công cụ tìm kiếm: 
+Tìm kiếm bằng 
+Cỡ chữ (thu phóng): 
+Hình ảnh: 
+Tắt để tải nhanh, đỡ tốn mạng
+Đã xóa lịch sử
+Tìm kiếm
+Thoát
+Trang khởi động
+Dừng tải
+Tiến
+Thêm dấu trang
+Lưu trang
+Đọc lại khi không có mạng
+Tìm tiếp
+Lên đầu trang
+Xem video toàn màn hình
+A: dừng/phát · Trái/Phải: tua · Lên/Xuống: âm lượng
+Tải về liên kết này
+Bắt đầu tải về
+Chặn quảng cáo trên trang này
+Không chặn quảng cáo trang này
+Đã bật chặn quảng cáo cho 
+Đã tắt chặn quảng cáo cho 
+Dấu trang
+Lịch sử
+Trang đã lưu
+ tệp đang tải
+ tệp
+Tìm kiếm trên web (
+Nhập địa chỉ trang web
++ Thêm
+Địa chỉ cho ô 
+Ô 
+Sửa địa chỉ
+Tên ô 
+Xóa ô
+Menu trình duyệt
+Nhập nội dung
+Tải 
+Đang tải
+Đang tải… %d%%
+Đang tải: 
+Đã tải xong: 
+Tải lỗi: 
+A: dừng/phát · Trái/Phải: tua 10s · L/R: 1 phút · Lên/Xuống: âm lượng · B: thoát
+Tìm
+Không mở được trang
+B: quay lại · Menu › Tải lại: thử lại

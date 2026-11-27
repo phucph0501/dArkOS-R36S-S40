@@ -1,0 +1,211 @@
+Sửu	Ox	丑
+Dần	Tiger	寅
+Mão	Cat	卯
+Thìn	Dragon	辰
+Tỵ	Snake	巳
+Ngọ	Horse	午
+Mùi	Goat	未
+Thân	Monkey	申
+Dậu	Rooster	酉
+Tuất	Dog	戌
+Hợi	Pig	亥
+Mùng 2 Tết	2nd day of Tết	大年初二
+Mùng 3 Tết	3rd day of Tết	大年初三
+Rằm tháng Giêng	Lantern Festival	元宵节
+Giỗ Tổ Hùng Vương	Hung Kings' Day	雄王祭
+Lễ Phật đản	Vesak	佛诞节
+Tết Đoan ngọ	Dragon Boat Festival	端午节
+Lễ Vu Lan	Vu Lan (Ghost Festival)	盂兰节
+Ông Công ông Táo	Kitchen Gods' Day	灶君节
+Thiếu font DejaVuSansMono	DejaVuSansMono font is missing	缺少 DejaVuSansMono 字体
+Không mở được shell	Could not open a shell	无法打开 shell
+Shell đã thoát. Nhấn A để đóng, X để mở lại	The shell exited. Press A to close, X to reopen	Shell 已退出。按 A 关闭，按 X 重新打开
+Không mở được Terminal	Could not open the Terminal	无法打开终端
+Đang xem lịch sử (	Viewing history (	正在查看历史（
+ dòng) · ▲▼ cuộn · B về hiện tại	 lines) · ▲▼ scroll · B back to now	 行） · ▲▼ 滚动 · B 返回当前
+A Enter · B Xóa · L Gõ lệnh · R Tab · X Menu	A Enter · B Backspace · L Type · R Tab · X Menu	A 回车 · B 退格 · L 输入命令 · R Tab · X 菜单
+Gõ lệnh (Xong = chạy)	Type a command (Done = run)	输入命令（完成 = 运行）
+Gõ ký tự	Type characters	输入字符
+Ctrl+C (dừng lệnh)	Ctrl+C (stop command)	Ctrl+C（中止命令）
+Gõ không chạy	Type without running	只输入不运行
+Ctrl+D (thoát shell / EOF)	Ctrl+D (exit shell / EOF)	Ctrl+D（退出 shell / EOF）
+Ctrl+L (xóa màn hình)	Ctrl+L (clear screen)	Ctrl+L（清屏）
+Cuộn lịch sử	Scroll history	滚动历史
+Lệnh: bộ nhớ (free -h)	Command: memory (free -h)	命令：内存（free -h）
+Lệnh: địa chỉ IP	Command: IP address	命令：IP 地址
+Lệnh: tiến trình (top)	Command: processes (top)	命令：进程（top）
+Cỡ chữ: 	Font size: 	字号：
+nhỏ	small	小
+vừa	medium	中
+lớn	large	大
+Mở lại shell	Reopen the shell	重新打开 shell
+Thoát Terminal	Quit Terminal	退出终端
+Hà Nội	Hanoi	河内
+Trời quang	Clear sky	晴
+Ít mây	Mostly clear	少云
+Có mây	Partly cloudy	多云
+Nhiều mây	Overcast	阴
+Sương mù	Fog	雾
+Mưa phùn	Drizzle	毛毛雨
+Mưa nhỏ	Light rain	小雨
+Mưa vừa	Rain	中雨
+Mưa to	Heavy rain	大雨
+Mưa lạnh	Freezing rain	冻雨
+Tuyết	Snow	雪
+Mưa tuyết	Sleet	雨夹雪
+Dông	Thunderstorm	雷雨
+Dông, mưa đá	Thunderstorm, hail	雷雨伴有冰雹
+Không kết nối được	Could not connect	无法连接
+Dữ liệu lỗi	Bad data	数据错误
+vừa xong	just now	刚刚
+ phút trước	 min ago	 分钟前
+ giờ trước	 h ago	 小时前
+ ngày trước	 days ago	 天前
+Tìm thành phố (vd: Đà Nẵng)	Find a city (e.g. Da Nang)	搜索城市（例如：岘港）
+Tìm địa điểm	Find a place	查找地点
+Không tìm thấy "	Not found: "	未找到 "
+Chọn địa điểm	Choose a place	选择地点
+Thời tiết: 	Weather: 	天气：
+Thời tiết · 	Weather · 	天气 ·
+Đang tải thời tiết…	Loading the weather…	正在加载天气…
+Chưa có dữ liệu	No data yet	暂无数据
+A: cập nhật · X: đổi địa điểm	A: refresh · X: change place	A：刷新 · X：更换地点
+Cảm giác 	Feels like 	体感
+Độ ẩm 	Humidity 	湿度
+Gió %.0f km/h	Wind %.0f km/h	风速 %.0f km/h
+Đang cập nhật…	Updating…	正在更新…
+Cập nhật 	Updated 	更新于
+Bây giờ	Now	现在
+Cập nhật	Refresh	刷新
+Đổi địa điểm	Change place	更换地点
+Cập nhật ngay	Refresh now	立即刷新
+Đơn vị: 	Units: 	单位：
+ trên màn hình chính	 on the home screen	 显示在主屏幕
+ trên màn hình chờ	 on the standby screen	 显示在待机画面
+Nguồn dữ liệu: Open-Meteo	Data source: Open-Meteo	数据来源：Open-Meteo
+Nguồn dữ liệu	Data source	数据来源
+Dịch vụ	Service	服务
+Giấy phép	License	许可证
+Bỏ chọn	Unselect	取消选择
+Đánh dấu	Select	标记
+Xác nhận	Confirm	确认
+Có	Yes	是
+Đóng	Close	关闭
+Đang thực hiện…	Working…	正在执行…
+Không thành công	Failed	失败
+✓ Hoàn tất	✓ Done	✓ 完成
+Có lỗi xảy ra	Something went wrong	发生错误
+Gõ pinyin, ví dụ: nihao	Type pinyin, e.g. nihao	输入拼音，例如：nihao
+Không có chữ cho "	No characters for "	没有对应的字："
+Nhập	Enter	输入
+Tiếng Việt	Vietnamese	越南语
+Cách	Space	空格
+EasyList (quảng cáo quốc tế)	EasyList (international ads)	EasyList（国际广告）
+ABPVN (quảng cáo Việt Nam)	ABPVN (Vietnamese ads)	ABPVN（越南广告）
+Peter Lowe (máy chủ quảng cáo)	Peter Lowe (ad servers)	Peter Lowe（广告服务器）
+Trang lừa đảo, mã độc	Scam and malware sites	诈骗和恶意网站
+EasyPrivacy (chặn theo dõi)	EasyPrivacy (tracking)	EasyPrivacy（阻止跟踪）
+Ẩn thông báo cookie	Hide cookie notices	隐藏 Cookie 提示
+Không có danh sách nào được bật	No list is enabled	未启用任何列表
+Đang tải danh sách lọc…	Downloading filter lists…	正在下载过滤列表…
+Danh sách lọc đã mới nhất	Filter lists are up to date	过滤列表已是最新
+Không tải được danh sách lọc (mạng?)	Could not download filter lists (network?)	无法下载过滤列表（网络？）
+Lỗi biên dịch bộ lọc quảng cáo	Ad filter compile error	广告过滤器编译错误
+Đang chuẩn bị bộ lọc…	Preparing filters…	正在准备过滤器…
+ quy tắc	 rules	 条规则
+ · cập nhật 	 · updated 	 · 更新于
+ · đang cập nhật…	 · updating…	 · 正在更新…
+Trang dùng quá nhiều bộ nhớ nên đã bị đóng	The page used too much memory and was closed	页面占用内存过多，已被关闭
+Bộ hiển thị trang gặp lỗi và đã dừng	The page renderer crashed	页面渲染器出错并已停止
+Dân trí	Dân trí	Dân trí
+(Trống)	(Empty)	（空）
+Đi tới địa chỉ	Go to address	转到网址
+Địa chỉ	Address	网址
+Nhập mật khẩu	Enter password	输入密码
+Đã lưu trên máy	Saved on the device	已保存在本机
+Đã thêm dấu trang	Bookmark added	已添加书签
+Không lưu được trang	Could not save the page	无法保存页面
+Đã lưu trang để đọc khi không có mạng	Page saved for offline reading	页面已保存，可离线阅读
+Tìm trong trang	Find in page	页内查找
+Đang tìm "	Searching "	正在查找 "
+" · Menu › Tìm tiếp	" · Menu › Find next	" · 菜单 › 查找下一个
+Đang tải · 	Downloading · 	正在下载 ·
+Lỗi: 	Error: 	错误：
+Đã hủy	Cancelled	已取消
+Hủy tải	Cancel download	取消下载
+Đã hủy tải	Download cancelled	已取消下载
+Tải lại	Reload	重新加载
+Đang tải lại	Reloading	正在重新加载
+Bỏ khỏi danh sách	Remove from the list	从列表中移除
+Xóa tệp	Delete the file	删除文件
+Đã xóa tệp	File deleted	文件已删除
+Tải xuống	Downloads	下载
+Trang này không có video	This page has no video	此页面没有视频
+Danh sách lọc	Filter lists	过滤列表
+Bấm để bỏ ngoại lệ (chặn lại quảng cáo)	Press to remove the exception (block ads again)	按下以移除例外（重新拦截广告）
+Đã chặn quảng cáo lại trên 	Ads blocked again on 	已重新拦截此网站的广告：
+Trang không chặn quảng cáo	Sites without ad blocking	不拦截广告的网站
+Chặn quảng cáo	Ad blocking	广告拦截
+Chặn quảng cáo: 	Ad blocking: 	广告拦截：
+Đã bật chặn quảng cáo	Ad blocking on	已开启广告拦截
+Đã tắt chặn quảng cáo	Ad blocking off	已关闭广告拦截
+Ẩn khung quảng cáo: 	Hide ad frames: 	隐藏广告框：
+Ẩn ô trống còn lại sau khi chặn	Hide the empty boxes left after blocking	隐藏拦截后留下的空白框
+Cập nhật danh sách ngay	Update the lists now	立即更新列表
+Tự động cập nhật: 	Auto update: 	自动更新：
+Mỗi 4 ngày khi có mạng	Every 4 days when online	联网时每 4 天一次
+Trang không chặn	Allowed sites	不拦截的网站
+Chế độ xem: 	View: 	浏览模式：
+Di động	Mobile	手机版
+Di động = trang gọn cho màn nhỏ	Mobile = compact pages for small screens	手机版 = 适合小屏幕的简洁页面
+Công cụ tìm kiếm: 	Search engine: 	搜索引擎：
+Tìm kiếm bằng 	Search with 	使用以下搜索：
+Cỡ chữ (thu phóng): 	Text size (zoom): 	文字大小（缩放）：
+Hình ảnh: 	Images: 	图片：
+Tắt để tải nhanh, đỡ tốn mạng	Turn off to load faster and save data	关闭可加快加载、节省流量
+Đã xóa lịch sử	History cleared	历史已清除
+Tìm kiếm	Search	搜索
+Thoát	Exit	退出
+Trang khởi động	Start page	起始页
+Dừng tải	Stop loading	停止加载
+Tiến	Forward	前进
+Thêm dấu trang	Add bookmark	添加书签
+Lưu trang	Save page	保存页面
+Đọc lại khi không có mạng	Read it again offline	离线时再读
+Tìm tiếp	Find next	查找下一个
+Lên đầu trang	Top of page	回到页首
+Xem video toàn màn hình	Watch the video full screen	全屏观看视频
+A: dừng/phát · Trái/Phải: tua · Lên/Xuống: âm lượng	A: pause/play · Left/Right: seek · Up/Down: volume	A：暂停/播放 · 左/右：快退/快进 · 上/下：音量
+Tải về liên kết này	Download this link	下载此链接
+Bắt đầu tải về	Download started	开始下载
+Chặn quảng cáo trên trang này	Block ads on this site	拦截此网站的广告
+Không chặn quảng cáo trang này	Do not block ads on this site	不拦截此网站的广告
+Đã bật chặn quảng cáo cho 	Ad blocking on for 	已为以下网站开启广告拦截：
+Đã tắt chặn quảng cáo cho 	Ad blocking off for 	已为以下网站关闭广告拦截：
+Dấu trang	Bookmarks	书签
+Lịch sử	History	历史
+Trang đã lưu	Saved pages	已保存的页面
+ tệp đang tải	 downloading	 个文件正在下载
+ tệp	 files	 个文件
+Tìm kiếm trên web (	Search the web (	搜索网页（
+Nhập địa chỉ trang web	Enter a web address	输入网址
++ Thêm	+ Add	+ 添加
+Địa chỉ cho ô 	Address for tile 	磁贴网址
+Ô 	Tile 	磁贴
+Sửa địa chỉ	Edit address	编辑网址
+Tên ô 	Name of tile 	磁贴名称
+Xóa ô	Remove tile	删除磁贴
+Menu trình duyệt	Browser menu	浏览器菜单
+Nhập nội dung	Enter text	输入内容
+Tải 	Load 	加载
+Đang tải	Loading	正在加载
+Đang tải… %d%%	Loading… %d%%	正在加载… %d%%
+Đang tải: 	Downloading: 	正在下载：
+Đã tải xong: 	Downloaded: 	下载完成：
+Tải lỗi: 	Download failed: 	下载失败：
+A: dừng/phát · Trái/Phải: tua 10s · L/R: 1 phút · Lên/Xuống: âm lượng · B: thoát	A: pause/play · Left/Right: 10 s · L/R: 1 min · Up/Down: volume · B: exit	A：暂停/播放 · 左/右：10 秒 · L/R：1 分钟 · 上/下：音量 · B：退出
+Tìm	Search	搜索
+Không mở được trang	Could not open the page	无法打开页面
+B: quay lại · Menu › Tải lại: thử lại	B: back · Menu › Reload: try again	B：返回 · 菜单 › 重新加载：重试
+Bấm	Press	按下
+Nhấp	Click	点击

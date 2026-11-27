@@ -1,0 +1,10 @@
+[Unit]
+Description=Low-battery voice warning (reads the system battery percentage)
+
+[Service]
+ExecStart=/usr/local/bin/s40-lowbat.sh
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target

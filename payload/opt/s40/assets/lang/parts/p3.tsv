@@ -1,0 +1,221 @@
+Địa chỉ IP	IP address	IP 地址
+Dịch vụ từ xa (SSH, Samba)	Remote services (SSH, Samba)	远程服务（SSH、Samba）
+Truy cập tệp và dòng lệnh qua mạng	File and command-line access over the network	通过网络访问文件和命令行
+Mạng Wi-Fi	Wi-Fi networks	Wi-Fi 网络
+Bảo mật	Security	安全
+Mạng mở	Open network	开放网络
+ · Đang kết nối	 · Connected	 · 已连接
+Kết nối	Connect	连接
+Kết nối 	Connect 	连接
+Đang kết nối tới 	Connecting to 	正在连接
+Xác thực	Authenticating	正在验证
+Nhận địa chỉ IP	Getting an IP address	正在获取 IP 地址
+Mật khẩu: 	Password: 	密码：
+Mật khẩu cần ít nhất 8 ký tự	The password needs at least 8 characters	密码至少需要 8 个字符
+Không tìm thấy mạng nào.	No networks found.	未找到任何网络。
+Quét lại	Scan again	重新扫描
+Pin & hiệu năng	Battery & performance	电池与性能
+Tình trạng pin	Battery status	电池状态
+Đang sạc	Charging	正在充电
+Đang dùng pin	On battery	使用电池
+Chế độ hiệu năng	Performance mode	性能模式
+Tiết kiệm pin	Battery saver	省电
+Cân bằng	Balanced	平衡
+Hiệu năng tối đa	Maximum performance	最高性能
+Xung CPU khi chạy game	CPU clock while playing	游戏时的 CPU 频率
+Tự ngủ khi không dùng	Sleep when idle	闲置时自动休眠
+5 phút	5 min	5 分钟
+10 phút	10 min	10 分钟
+30 phút	30 min	30 分钟
+Hiện màn hình chờ (đồng hồ)	Shows the standby screen (clock)	显示待机画面（时钟）
+Ngủ sâu sau màn hình chờ	Deep sleep after standby	待机后深度休眠
+Tắt hẳn như bấm nút nguồn (trừ khi đang nghe nhạc)	Fully suspends like the power button (unless music is playing)	像按电源键一样完全挂起（播放音乐时除外）
+Tắt Wi-Fi khi ngủ	Wi-Fi off while asleep	休眠时关闭 Wi-Fi
+Tiết kiệm pin, tự bật lại khi thức	Saves battery, back on when awake	省电，唤醒后自动开启
+Chỉ nút nguồn đánh thức	Only the power button wakes	仅电源键唤醒
+Cấn phím trong túi không làm máy dậy	Buttons pressed in a pocket will not wake it	在口袋中误触按键不会唤醒
+Đèn báo	Indicator light	指示灯
+Theo pin: xanh, đỏ khi dưới 20%, nháy khi dưới 10%	By battery: green, red below 20%, blinking below 10%	按电量：绿色，低于 20% 红色，低于 10% 闪烁
+Đèn khi ngủ	Light while asleep	休眠时指示灯
+Thời gian chờ ước tính	Estimated standby time	预计待机时间
+Hiện đồng hồ khi ngủ	Clock while asleep	休眠时显示时钟
+Đồng hồ lớn trên nền đen	Big clock on black	黑底大时钟
+Xem thử màn hình ngủ	Preview the sleep screen	预览休眠画面
+Trò chơi & giả lập	Games & emulators	游戏与模拟器
+Ẩn / hiện hệ máy	Hide / show systems	隐藏 / 显示系统
+Chọn hệ máy cần ẩn	Pick the systems to hide	选择要隐藏的系统
+Đang ẩn 	Hiding 	正在隐藏
+ hệ máy	 systems	 个系统
+Thành tích, Hardcore, bảng xếp hạng	Achievements, Hardcore, leaderboards	成就、硬核模式、排行榜
+Hiện game yêu thích lên đầu	Favourites first	收藏的游戏排在前面
+Sắp xếp hệ máy	Sort systems	系统排序
+Theo tên A → Z	By name A → Z	按名称 A → Z
+Tìm ROM mới chép vào	Find newly copied ROMs	查找新复制的 ROM
+Đã quét: 	Scanned: 	已扫描：
+Thẻ nhớ ROM: thẻ 2 (khe TF2)	ROM card: card 2 (TF2 slot)	ROM 存储卡：第 2 张（TF2 卡槽）
+Chuyển về dùng thẻ 1 cho ROM	Go back to card 1 for ROMs	改回使用第 1 张卡存放 ROM
+Dùng lại thẻ 1 cho ROM?\nMáy sẽ tải lại giao diện.	Use card 1 for ROMs again?\nThe interface will reload.	重新使用第 1 张卡存放 ROM？\n界面将重新加载。
+Thẻ 2	Card 2	第 2 张卡
+Thẻ nhớ ROM: thẻ 1	ROM card: card 1	ROM 存储卡：第 1 张
+Cắm thẻ 2 vào khe TF2 rồi chọn để dùng thẻ 2 cho ROM	Insert card 2 in the TF2 slot, then select to use it for ROMs	将第 2 张卡插入 TF2 卡槽，然后选择此项用其存放 ROM
+Dùng thẻ 2 (khe TF2) cho ROM?\nCấu trúc thư mục, PortMaster và runtime được chép sang thẻ 2 (dữ liệu sẵn có trên thẻ 2 được giữ).	Use card 2 (TF2 slot) for ROMs?\nThe folders, PortMaster and its runtimes are copied to card 2 (files already on it are kept).	使用第 2 张卡（TF2 卡槽）存放 ROM？\n文件夹结构、PortMaster 及运行库将复制到第 2 张卡（卡上原有数据保留）。
+Thẻ 1	Card 1	第 1 张卡
+Xóa lịch sử chơi	Clear play history	清除游戏记录
+Ngày & giờ	Date & time	日期与时间
+Định dạng 24 giờ	24-hour clock	24 小时制
+Định dạng ngày	Date format	日期格式
+Hiện ngày âm lịch	Show the lunar date	显示农历日期
+Đời máy R36S	R36S model	R36S 型号
+Bản clone	Clone	仿制版
+Đang dùng	In use	正在使用
+Dùng cấu hình "	Use the configuration "	使用配置 "
+"?\nMáy sẽ khởi động lại. Nếu màn hình không lên, cắm thẻ vào máy tính và chạy CHON_DOI_MAY.bat.	"?\nThe device will restart. If the screen stays dark, put the card in a computer and run CHON_DOI_MAY.bat.	"？\n设备将重新启动。若屏幕不亮，请将存储卡插入电脑并运行 CHON_DOI_MAY.bat。
+Không chép được cấu hình	Could not copy the configuration	无法复制配置
+Thông tin máy	About this device	关于本机
+Hệ điều hành	Operating system	操作系统
+Giao diện	Interface	界面
+Nhân Linux	Linux kernel	Linux 内核
+Pin	Battery	电池
+Dung lượng ROM	ROM storage	ROM 存储空间
+Ghi công phần mềm	Software credits	软件致谢
+Thành phần bên thứ ba và tác giả	Third-party components and authors	第三方组件及作者
+Ghi công	Credits	致谢
+Lọc quảng cáo	Ad filtering	广告过滤
+Chữ Hán / Pinyin	Chinese characters / Pinyin	汉字 / 拼音
+Bàn phím	Keyboard	键盘
+Cần bật ít nhất một ngôn ngữ	At least one language must stay on	至少需要启用一种语言
+Gõ có dấu: Telex hoặc VNI	With accents: Telex or VNI	带声调输入：Telex 或 VNI
+Gõ thường, không đổi chữ	Plain typing, no conversion	普通输入，不转换
+Gõ pinyin rồi chọn chữ Hán, ví dụ nihao → 你好	Type pinyin, then pick the characters, e.g. nihao → 你好	输入拼音后选字，例如 nihao → 你好
+Ngôn ngữ khi mở bàn phím	Language when the keyboard opens	打开键盘时的语言
+Nút L trên bàn phím để đổi nhanh	L button on the keyboard switches quickly	在键盘上按 L 键快速切换
+Ngôn ngữ mặc định	Default language	默认语言
+Kiểu gõ tiếng Việt	Vietnamese input method	越南语输入法
+VNI: 1-5 dấu thanh, 6 â ê ô, 7 ơ ư, 8 ă, 9 đ, 0 bỏ dấu	VNI: 1-5 tones, 6 â ê ô, 7 ơ ư, 8 ă, 9 đ, 0 removes marks	VNI：1-5 声调，6 â ê ô，7 ơ ư，8 ă，9 đ，0 去除声调
+Telex: s f r x j dấu thanh, aa ee oo â ê ô, w ư ơ ă, dd đ, z bỏ dấu	Telex: s f r x j tones, aa ee oo â ê ô, w ư ơ ă, dd đ, z removes marks	Telex：s f r x j 声调，aa ee oo 为 â ê ô，w 为 ư ơ ă，dd 为 đ，z 去除声调
+Vị trí dấu	Tone mark position	声调位置
+oà, uý (kiểu mới) hay òa, úy (kiểu cũ)	oà, uý (new style) or òa, úy (old style)	oà、uý（新式）或 òa、úy（旧式）
+Kiểu mới (hoà)	New style (hoà)	新式（hoà）
+Kiểu cũ (hòa)	Old style (hòa)	旧式（hòa）
+Gõ thử	Try typing	试打
+Mở bàn phím để thử ngôn ngữ và kiểu gõ	Open the keyboard to try languages and input methods	打开键盘试用语言和输入法
+Bạn đã gõ	You typed	你输入了
+Nội dung	Text	内容
+(trống)	(empty)	（空）
+Cách dùng bàn phím	How to use the keyboard	键盘使用方法
+Bàn phím ảo	On-screen keyboard	屏幕键盘
+Gõ phím đang chọn	Type the selected key	输入选中的按键
+Xóa lùi (trống thì thoát)	Backspace (exit when empty)	退格（为空时退出）
+Đổi ngôn ngữ VI / EN / 中	Switch language VI / EN / 中	切换语言 VI / EN / 中
+Trang ký hiệu	Symbols page	符号页
+Chữ hoa (bấm 2 lần: khóa hoa)	Capitals (press twice: caps lock)	大写（按两次锁定大写）
+中	中	中
+Lên trên hàng phím để chọn chữ Hán; Cách = chữ đầu	Go above the keys to pick a character; Space = first one	移到按键上方选择汉字；空格 = 第一个
+Tối đa 	Up to 	最多
+ ký tự, để trống để ẩn	 characters, leave empty to hide	 个字符，留空则隐藏
+Đã cắt còn 	Shortened to 	已截断为
+ ký tự	 characters	 个字符
+(ẩn)	(hidden)	（隐藏）
+Chữ lớn trên màn hình chính	Big text on the home screen	主屏幕大字
+Dòng chữ nhỏ bên dưới	Small line below it	下方小字
+Múi giờ	Time zone	时区
+Giờ tự đồng bộ qua mạng khi có Wi-Fi	The time syncs over the network when on Wi-Fi	连接 Wi-Fi 时自动网络校时
+Thiết lập ban đầu	First-time setup	初始设置
+Chào bạn! Chọn vài thiết lập cơ bản	Hello! Pick a few basic settings	你好！请完成几项基本设置
+Đổi lại lúc nào cũng được trong Cài đặt	You can change them any time in Settings	随时可以在设置中更改
+Ngôn ngữ bàn phím	Keyboard languages	键盘语言
+Hoàn tất	Finish	完成
+Bắt đầu dùng máy	Start using the device	开始使用
+Đã lưu thiết lập	Settings saved	设置已保存
+Khôi phục cài đặt từ\n	Restore settings from\n	从以下备份恢复设置\n
+?\nCài đặt hiện tại sẽ bị thay thế.	?\nThe current settings will be replaced.	？\n当前设置将被替换。
+Khôi phục cài đặt	Restore settings	恢复设置
+Giải nén bản sao lưu	Unpacking the backup	正在解压备份
+Nạp lại mạng	Reloading the network	正在重新加载网络
+Đã khôi phục, đang tải lại giao diện	Restored, reloading the interface	已恢复，正在重新加载界面
+Sao lưu & khôi phục	Backup & restore	备份与恢复
+Sao lưu ngay	Back up now	立即备份
+Cài đặt, RetroArch, Wi-Fi → 	Settings, RetroArch, Wi-Fi → 	设置、RetroArch、Wi-Fi →
+Sao lưu cài đặt	Back up settings	备份设置
+Gom cấu hình	Collecting settings	正在收集配置
+Ghi tệp sao lưu	Writing the backup file	正在写入备份文件
+Đã sao lưu	Backed up	已备份
+Chưa có bản sao lưu nào	No backups yet	暂无备份
+Bản sao lưu 	Backup 	备份
+Khôi phục	Restore	恢复
+Xóa bản sao lưu này	Delete this backup	删除此备份
+Xóa 	Delete 	删除
+Đã xóa	Deleted	已删除
+Đặt lại dữ liệu gốc	Factory reset	恢复出厂设置
+ROM, save game và port trên thẻ được giữ nguyên	ROMs, game saves and ports on the card are kept	存储卡上的 ROM、游戏存档和移植游戏将保留
+Cài đặt giao diện	Interface settings	界面设置
+Yêu thích, lịch sử, chủ đề, hình nền… và hỏi lại thiết lập ban đầu	Favourites, history, theme, wallpaper… and asks the first-time setup again	收藏、历史、主题、壁纸……并重新进行初始设置
+Đặt lại cài đặt giao diện?	Reset the interface settings?	重置界面设置？
+RetroArch về mặc định	RetroArch to defaults	RetroArch 恢复默认
+Cấu hình, lõi, thiết lập riêng từng game, đăng nhập RetroAchievements	Configuration, cores, per-game settings, RetroAchievements sign-in	配置、核心、单独游戏设置、RetroAchievements 登录
+Đưa RetroArch về cấu hình gốc của máy?	Put RetroArch back to the device's original configuration?	将 RetroArch 恢复为本机原始配置？
+Đặt lại RetroArch	Reset RetroArch	重置 RetroArch
+Chép cấu hình gốc	Copying the original configuration	正在复制原始配置
+Xóa thiết lập riêng	Removing per-game settings	正在删除单独设置
+RetroArch đã về mặc định	RetroArch is back to defaults	RetroArch 已恢复默认
+Xóa mạng Wi-Fi đã lưu	Forget saved Wi-Fi networks	清除已保存的 Wi-Fi 网络
+Quên mọi mạng và mật khẩu đã lưu	Forget every saved network and password	忘记所有已保存的网络和密码
+Quên tất cả mạng Wi-Fi đã lưu?	Forget all saved Wi-Fi networks?	忘记所有已保存的 Wi-Fi 网络？
+Xóa mạng Wi-Fi	Forget Wi-Fi networks	清除 Wi-Fi 网络
+Xóa hồ sơ mạng	Removing network profiles	正在删除网络配置
+Đã xóa mạng đã lưu	Saved networks forgotten	已清除保存的网络
+Đặt lại tất cả (như mới cài)	Reset everything (like new)	全部重置（恢复如新）
+Cả ba mục trên, rồi tải lại giao diện	All three above, then reload the interface	执行以上三项，然后重新加载界面
+Đặt lại TẤT CẢ cài đặt như mới cài?\nKhông thể hoàn tác.	Reset ALL settings to new?\nThis cannot be undone.	将所有设置恢复为全新状态？\n此操作无法撤销。
+Đặt lại tất cả	Reset everything	全部重置
+Độ sáng 	Brightness 	亮度
+Yêu thích, ẩn hệ máy, quét ROM	Favourites, hidden systems, ROM scan	收藏、隐藏系统、扫描 ROM
+Định dạng giờ, âm lịch	Time format, lunar calendar	时间格式、农历
+ bản sao lưu	 backups	 个备份
+Giao diện, RetroArch, Wi-Fi	Interface, RetroArch, Wi-Fi	界面、RetroArch、Wi-Fi
+Tiện ích	Utilities	实用工具
+Lịch, máy tính, bấm giờ, ghi chú, đèn pin	Calendar, calculator, stopwatch, notes, torch	日历、计算器、秒表、备忘录、手电筒
+Dương lịch và âm lịch	Solar and lunar calendar	公历与农历
+Nhắc theo ngày giờ, đổ chuông	Reminders by date and time, with a ring	按日期时间提醒并响铃
+Tết, sinh nhật, ngày giỗ (âm/dương)	Tết, birthdays, memorial days (lunar/solar)	春节、生日、忌日（农历/公历）
+Đèn pin (màn hình)	Torch (screen)	手电筒（屏幕）
+Thử các nút trên máy	Test the device buttons	测试设备按键
+Tệp & hệ thống	Files & system	文件与系统
+Quản lý tệp, USB, cập nhật	File manager, USB, updates	文件管理、USB、更新
+Gắn ổ USB	Mount USB drive	挂载 USB 设备
+Tìm thiết bị	Finding the device	正在查找设备
+Gắn vào /roms/usbdrive	Mounting at /roms/usbdrive	挂载到 /roms/usbdrive
+Tháo ổ USB	Unmount USB drive	卸载 USB 设备
+Ghi dữ liệu	Writing data	正在写入数据
+Tháo ổ	Unmounting	正在卸载
+Cài đặt, RetroArch, Wi-Fi	Settings, RetroArch, Wi-Fi	设置、RetroArch、Wi-Fi
+Kho game	Game store	游戏库
+Duyệt và tải ROM về đúng hệ máy	Browse and download ROMs into the right system	浏览并将 ROM 下载到对应系统
+Gửi tệp (LocalSend)	Send files (LocalSend)	发送文件（LocalSend）
+Gửi/nhận tệp với điện thoại, máy tính	Send/receive files with phones and computers	与手机、电脑互传文件
+Chép, đổi tên, tệp ẩn, giải nén zip/rar/7z có mật khẩu	Copy, rename, hidden files, extract zip/rar/7z with passwords	复制、重命名、隐藏文件、解压带密码的 zip/rar/7z
+Quản lý tệp hai khung	Dual-pane file manager	双窗格文件管理
+Hai thư mục cạnh nhau, chép/chuyển nhanh	Two folders side by side, quick copy/move	两个文件夹并排，快速复制/移动
+Dòng lệnh Linux (bash)	Linux command line (bash)	Linux 命令行（bash）
+Cafe Mây	Cafe Mây	Cafe Mây
+Router chỉ dùng WPA3, USB Wi-Fi này không hỗ trợ. Hãy bật chế độ WPA2/WPA3 trên router	The router uses WPA3 only and this USB Wi-Fi does not support it. Turn on WPA2/WPA3 mode on the router	路由器仅使用 WPA3，此 USB Wi-Fi 不支持。请在路由器上开启 WPA2/WPA3 模式
+Không thấy mạng này, hãy quét lại	Network not found, scan again	未找到此网络，请重新扫描
+Sai mật khẩu Wi-Fi (hoặc router chặn thiết bị lạ)	Wrong Wi-Fi password (or the router blocks new devices)	Wi-Fi 密码错误（或路由器阻止新设备）
+Không thấy USB Wi-Fi, hãy cắm lại	USB Wi-Fi not found, plug it in again	未找到 USB Wi-Fi，请重新插入
+Router không phản hồi, hãy lại gần router hơn	The router does not answer, move closer to it	路由器无响应，请靠近路由器
+Không kết nối được: 	Could not connect: 	无法连接：
+Không rõ nghệ sĩ	Unknown artist	未知艺术家
+Chưa có nhạc trong 	No music in 	以下位置没有音乐：
+Tạm dừng nhạc	Music paused	音乐已暂停
+Giáp	Jia	甲
+Ất	Yi	乙
+Bính	Bing	丙
+Đinh	Ding	丁
+Mậu	Wu	戊
+Kỷ	Ji	己
+Canh	Geng	庚
+Tân	Xin	辛
+Nhâm	Ren	壬
+Quý	Gui	癸
+Tý	Rat	子
+Pin 	Battery 	电池 

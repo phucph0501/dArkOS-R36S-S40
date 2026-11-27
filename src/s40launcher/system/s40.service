@@ -1,0 +1,15 @@
+[Unit]
+Description=S40 launcher (Nokia S40 style frontend for dArkOS)
+After=firstboot.service
+
+[Service]
+Type=simple
+User=ark
+WorkingDirectory=/home/ark
+ExecStart=/opt/s40/s40.sh
+Environment="SDL_VIDEO_EGL_DRIVER=libEGL.so"
+Restart=always
+RestartSec=1
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,20 @@
+<system>
+		<name>j2me</name>
+		<fullname>J2ME</fullname>
+		<path>/roms/j2me/</path>
+		<extension>.jar .JAR</extension>
+		<command>sudo perfmax %GOVERNOR% %ROM%; nice -n -19 /opt/s40/s40 --j2me %ROM%; sudo perfnorm</command>
+		<emulators>
+			<emulator name="retroarch">
+				<cores>
+					<core>freej2me-plus</core>
+					<core>freej2me</core>
+				</cores>
+			</emulator>
+		</emulators>
+		<platform>j2me</platform>
+		<theme>j2me</theme>
+		<manufacturer>Sun Microsystems</manufacturer>
+		<release>2002</release>
+		<hardware>platform</hardware>
+	</system>

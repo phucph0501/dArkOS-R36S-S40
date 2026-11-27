@@ -1,0 +1,10 @@
+[Unit]
+Description=Tune dArkOS for the R36S (RetroArch, PPSSPP buttons, library links); re-applied at every boot
+After=local-fs.target firstboot.service
+
+[Service]
+Type=oneshot
+ExecStart=/usr/local/bin/s40-tune.sh apply
+
+[Install]
+WantedBy=multi-user.target
